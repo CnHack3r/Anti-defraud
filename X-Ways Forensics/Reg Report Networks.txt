@@ -1,0 +1,117 @@
+**	HKLM\System\DhcpIPAddress	DHCP assigned IP Address
+**	HKLM\System\IPAutoconfigurationAddress	Autoconfig IP Address
+??	HKLM\System\Select\Current								Dummy
+//	VT	HKLM\SYSTEM\ControlSet*\Control\Nsi\{eb004a11-9b1a-11d4-9123-0050047759bc}\10\*			Network Store Interface%A
+//	??	HKLM\Software\Google\Google Desktop\Status\sw_last_used					Google Desktop last used (CDate)%e
+//	??	HKLM\Software\Google\Google Toolbar\*\Setup\FirstInstallTime			Google Toolbar first installed (CDate)
+//	??	HKLM\Software\Google\Google Toolbar\GoogleUpdate\InstallTimestamp		Google Toolbar Update (CDate)
+//	??	HKLM\Software\Google\Update\LastChecked									Google Update last checked (CDate)%e
+//	??	HKLM\Software\Google\Update\UsageStats\Daily\LastTransmission			Google Update last transmission time (CDate)%e
+??	HKLM\Software\Microsoft\Internet Domains\*\Friendly Name				Internet Domain
+??	HKLM\Software\Microsoft\Internet Domains\*\HTTP Mail Server				Internet domain %4
+??	HKLM\Software\Symantec\pcANYWHERE\CurrentVersion\Host\*					pcANYWHERE
+??	HKCU\Software\TeamViewer\Version*\QuickJoin_UserName					TeamViewer: Quick join user name
+??	HKLM\Software\TeamViewer\Version4\CustomerRouter						TeamViewer: Router
+??	HKLM\Software\TeamViewer\Version4\Gatewayname							TeamViewer: Gatewayname
+??	HKLM\Software\TeamViewer\Version4\VpnIP									TeamViewer: VPN IP-address
+??	HKLM\System\ControlSet*\Control\Network\{4D36E972-E325-11CE-BFC1-08002BE10318}\*\Connection\Name	Network connection %6
+??	HKLM\System\ControlSet*\Services\Tcpip\Parameters\Hostname				Tcpip host name
+??	HKLM\System\ControlSet*\services\RemoteAccess\Parameters\Ip\IpAddress			Remote access IP
+??	HKLM\System\MountedDevices\*	Dummy
+NT	HKLM\Software\Microsoft\EAPOL\Parameters\Interfaces\{*\*				SSID1 %7
+NT	HKLM\Software\Microsoft\WZCSVC\Parameters\Interfaces\*\ActiveSettings				Wireless SSID
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkCards\*\Description		Model description of installed network card
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkCards\*\ServiceName		Dummy
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkCards\*\ServiceName		Unique identifier for installed network cards
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkList\Signatures\Managed\*\DefaultGatewayMac	Default Gateway MAC (Managed)
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkList\Signatures\Unmanaged\*\DefaultGatewayMac	Default Gateway MAC
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Networklist\Nla\Cache\*\*\Successes	Network Cache %9
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Networklist\Nla\Cache\Intranet\*\{*	Dummy
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Networklist\Profiles\*\*		Dummy
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList\*\CentralProfile		Central profile of %6
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList\*\ProfileImagePath	Profile location of %6
+VT	HKLM\Software\Microsoft\Windows\CurrentVersion\HomeGroup\HME\Members\*			HomeGroup
+VT	HKLM\Software\Wow6432Node\TeamViever\Version5\TotalSessions				Teamviewer sessions
+VT	HKLM\Software\Wow6432Node\TeamViever\Version5\TotalTrafficKilobytes		Teamviewer traffic [kB]
+VT	HKLM\Software\Wow6432Node\TeamViewer\Version5\LastKeepalivePerformance	Teamviewer
+VT	HKLM\System\ControlSet*\services\TCPIP6\Parameters\Dhcpv6DUID				DHCPv6 Unique Id (Contains MAC address)%b
+??	HKLM\SYSTEM\ControlSet*\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\EnableFirewall	Firewall Enabled%B
+??	Default\Software\AVM\AVMWlanService\NetData\*\SSID	AVMWlan
+//	??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\*\DisplayName	Zone %7
+//	??	HKCU\Software\Microsoft\Windows\CurrentVersion\NetCache\Shares\*\LastSyncTime		NetCache last sync%f
+??	HKLM\System\ControlSet00*\Services\Tcpip\Parameters\Interfaces\{*\*			Parameters of network card such as IP address
+??	HKCU\Identities\{*\Software\Microsoft\Outlook Express\5.0\Preview Message	Preview Message (FILETIME)%f
+??	HKCU\Identities\{*\Software\Microsoft\Outlook Express\5.0\signatures\*\text		Windows Mail signature
+??	HKCU\Network\*\ProviderName									Type of network drive %2
+??	HKCU\Network\*\RemotePath									Path of mapped network drive %2
+??	HKCU\RemoteAccess\Profile\*\(Default)					Remote access profile %3-
+//	??	HKCU\Software\Aerofox\Foxmail\MailExpress\NameServer*				FoxMail: DNS Server
+??	HKCU\Software\America Online\AOL Companion\Users\*\Prefs\Zip Code	AOL ZIP code for %5
+??	HKCU\Software\Yahoo\Companion\idate					Yahoo companion idate%e
+??	HKCU\Software\BearShare\Users\*\Login					BearShare login %4
+??	HKCU\Software\Broadcom\CM\AC\SSID\*	SSID's
+??	HKCU\Software\Citrix\GoToMeeting\EGWAddress	Citrix addresses
+??	HKCU\Software\Google\Common\Rlz\PTimes\B	Ping time FF Toolbar%f
+??	HKCU\Software\Google\Common\Rlz\PTimes\C	Ping time Chrome%f
+??	HKCU\Software\Google\Common\Rlz\PTimes\K	Ping time Quick Search Box%f
+??	HKCU\Software\Google\Common\Rlz\PTimes\P	Ping time Toolbar notifier%f
+??	HKCU\Software\Google\Common\Rlz\PTimes\T	Ping time IE Toolbar%f
+??	HKCU\Software\Google\Common\Rlz\PTimes\U	Ping time PACK%f
+//	??	HKCU\Software\Google\Google Desktop\Status\iac_last	iac_last%f
+??	HKCU\Software\Google\Google Desktop\Mailboxes\Gmail\POP3_name		Gmail POP3 name
+??	HKCU\Software\Google\Google Earth Plus\numRuns			Google Earth Plus num runs%D
+//	??	HKCU\Software\Google\Google Toolbar\4.0\UsageStats\Weekly\LastTransmission	Google Toolbar last transmission (CDate)%e
+??	HKCU\Software\Google\Picasa\Picasa2\UsageStatistics\Daily\Integers\photosTotal	Picasa2 photos total%D
+??	HKCU\Software\ICQ\ICQToolBar\FirstRun						ICQ Toolbar first run
+??	HKCU\Software\LG Electronics\LG PC Suite IV\*\ConnectionList\*\*	LG PC Suite IV connection
+??	HKCU\Software\Microsoft\FTP\Accounts\*\Default User			FTP account on %5
+??	HKCU\Software\Microsoft\FTP\Accounts\*\Login Attributes			FTP Attr %5
+??	HKCU\Software\Microsoft\FileSquirt\LastBluetoothHost			Last Bluetooth Host%b
+??	HKCU\Software\Microsoft\FileSquirt\LastBluetoothHostname		Last Bluetooth Hostname
+??	HKCU\Software\Microsoft\Internet Explorer\DOMStorage\Total\(Default)	Supercookies (total)%D
+??	HKCU\Software\Microsoft\Internet Explorer\Download Directory		Last used download location of Internet Explorer%x
+NT	HKCU\Software\Microsoft\Internet Explorer\Main\Save Directory		Last used download location of Internet Explorer%x
+??	HKCU\Software\Microsoft\MSNMessenger\PerPassportSettings\*\MessageLogPath		MSN Messenger log
+??	HKCU\Software\Microsoft\MSNMessenger\PerPassportSettings\*\UTL				MSN Messenger UTL%S
+??	HKCU\Software\Microsoft\MSNMessenger\SQM\SessionTime					MSN Messenger session time
+??	HKCU\Software\Microsoft\MSNMessenger\SQM\TotalUpTime					MSN Messenger total up time
+NT	HKCU\Software\Microsoft\MessengerService\Server							Messenger server
+??	HKCU\Software\Microsoft\Terminal Server Client\Servers\*\UserNameHint		Remote Desktop %5
+??	HKCU\Software\Microsoft\Windows Live Call\LastUploadTime		Windows Live Call upload
+??	HKCU\Software\Microsoft\Windows Live Mail\AppRuns				Windows Live Mail runs
+??	HKCU\Software\Microsoft\Windows Live Mail\PerPassportSettings\0\First Signin Done	Windows Live Mail First Signin Done
+??	HKCU\Software\Microsoft\Windows Live Mail\Reply Count\*			Windows Live Mail replies
+??	HKCU\Software\Microsoft\Windows Live Mail\TotalUpTime			Windows Live Mail up time
+VT	HKCU\Software\Microsoft\Windows Live Mail\Mail Is Ready			Mail Is Ready
+??	HKCU\Software\Microsoft\Windows Live\Communications Clients\Shared\Mail Primary Account		Mail Primary Account
+VT	HKCU\Software\Microsoft\Windows Mail\LastRun	Last Windows Mail run%f
+//	??	HKCU\Software\Microsoft\Windows Media\WMSDK\Local\AutoProxyCache\LAN\DetectedInterfaceIps	Windows Media LAN Interface IPs
+//	??	HKCU\Software\Microsoft\Windows Media\WMSDK\Local\AutoProxyCache\RAS\DetectedInterfaceIps	Windows Media RAS Interface IPs%+
+//	??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Network\Persistent Connections\*\*		Foreign host name and shared resources (only one-character names)
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU\*			Network drives that were mapped
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints\*\(Default)			W2K Mountpoint %7-
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\WorkgroupCrawler\Shares\*\DateLastVisited	Workgroup Crawler %8f
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Ext\Stats\{*\iexplore\*	Dummy
+NT	HKCU\Software\Microsoft\Internet Explorer\Extensions\{*\ButtonText	Dummy
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\*\WpadDecisionTime	Web Proxy Auto Detect (MAC-Address) %7f
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad\*\WpadNetworkName		Network Name of %7
+VT	HKCU\Software\Microsoft\Windows Live Mail\Recently Used Addresses\*		Windows Live Mail recently used%S
+??	HKCU\Software\Mirabilis\ICQ\NewOwners\*\LastLoginDate				ICQ last login for %5e
+??	HKCU\Software\Nokia\Statistics\Server					Nokia server
+//	??	HKCU\Software\Nonoh\Nonoh\Contacts\MsnContacts\*	Nonoh
+//	??	HKCU\Software\P®O Group\ProRat*\Ip_Adrs\*	IP addrs %3
+??	HKCU\Software\Patchou\Messenger Plus! Live\*\Preferences\ConnectTime	Patchou connect time %4E
+??	HKCU\Software\VoipBuster\VoipBuster\CallHistory\*\*	VoipBuster %5
+??	HKCU\Software\VoipBuster\VoipBuster\Contacts\*\*	VoipBuster contact
+??	HKCU\Software\VoipBuster\VoipBuster\Usernames\*		VoipBuster
+??	HKCU\Software\mIRC\LastRun\(Default)	mIRC last run
+??	HKCU\Software\Yahoo\pager\CurrentUserLocalIP		Yahoo current local IP
+**	HKCU\DetectedInterfaceIps				Detected interface IPs
+VT	HKLM\Software\Microsoft\Internet Explorer\Extensions\{*\ButtonText	Dummy
+VT	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions\{*\ButtonText	Dummy
+??	HKLM\Software\Microsoft\Internet Explorer\Extensions\{*\MenuText	Dummy
+??	HKLM\Software\Classes\CLSID\{*\(Default)	Dummy
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxyEnable		ProxyEnable%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxySettings\*	ProxySettings
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Connections\*	Proxy settings%p
+??	HKCU\Software\Microsoft\Internet Explorer\BrowserEmulation\ClearableListData\UserFilter	Browser emulation list

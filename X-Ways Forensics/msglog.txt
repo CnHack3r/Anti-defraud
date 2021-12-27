@@ -1,0 +1,10 @@
+﻿
+X-Ways Forensics 20.0 SR-8 x86, 用户名: Risker
+2021/12/28  00:44:44  
+2021/12/28  00:44:44  Error #1 
+2021/12/28  00:46:30  X-Ways Forensics 
+2021/12/28  00:48:19  软件锁 
+X-Ways Forensics 20.0 SR-8 x64, 用户名: Risker
+2021/12/28  00:48:50  软件锁 
+X-Ways Forensics 20.0 SR-8 x64, 用户名: Risker
+2021/12/28  00:49:29  软件锁 

@@ -1,0 +1,252 @@
+??	HKLM\System\Select\Current									Dummy
+//	??	HKLM\SYSTEM\ControlSet*\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\*\BIMacAddress_l	Physical MAC Address
+//	??	HKLM\SYSTEM\ControlSet*\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\*\USERDEFMacAddress_l	User def. MAC Address
+??	HKLM\SYSTEM\ControlSet*\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\*\Ndi\params\NetworkAddress\default	MAC Address
+??	HKLM\SYSTEM\ControlSet*\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\*\NetworkAddress	MAC Address
+??	HKLM\SYSTEM\ControlSet*\Control\ComputerName\ComputerName\ComputerName		Active computer name
+VT	HKLM\SYSTEM\ControlSet*\Enum\WpdBusEnumRoot\UMB\*\FriendlyName	Dummy
+VT	HKLM\SYSTEM\ControlSet*\Enum\WpdBusEnumRoot\UMB\*\Properties\{*\00000064\00000000\Data	Dummy
+??	HKLM\System\ControlSet*\Control\TimeZoneInformation\DaylightName					User-configured daylight savings time
+??	HKLM\System\ControlSet*\Control\TimeZoneInformation\StandardName					User-configured time zone
+??	HKLM\System\ControlSet001\Control\Nls\Language\InstallLanguage	Windows installation language
+NT	HKLM\SYSTEM\ControlSet*\Control\Biosinfo\SystemBiosDate		BIOS Date
+NT	HKLM\SYSTEM\ControlSet*\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\*\HardwareAddress	MAC Address
+??	HKLM\System\MountedDevices\*					Dummy
+
+??	HKLM\Software\ACD Systems\ACDSee\80\UserName							ACDSee: user name
+??	HKLM\Software\Adobe\Photoshop\*\Registration\COMPAN						Photoshop: registered company
+??	HKLM\Software\Adobe\Photoshop\*\Registration\NAME						Photoshop: registered name
+??	HKLM\Software\Ahead\Nero - Burning Rom\Info\Company	Nero company
+??	HKLM\Software\Ahead\Nero - Burning Rom\Info\User	Nero user
+??	HKLM\Software\Alien Skin\Eye Candy\*\Textures\Company						Eye Candy: registered company
+??	HKLM\Software\Alien Skin\Eye Candy\*\Textures\Name						Eye Candy: user name
+??	HKLM\Software\Alien Skin\Xenofex\*\Company							Xenofex: registered company
+??	HKLM\Software\Alien Skin\Xenofex\*\Name								Xenofex: user name
+??	HKLM\Software\Avira\Antivir Desktop\FACT\*	Avira fact
+??	HKLM\Software\BAXBEX\FolderShield\USERINFO\Name							Baxbex: user name
+??	HKLM\Software\Elaborate Bytes\*\CDKey\Name							CloneDVD: user name
+??	HKLM\Software\Elcom\*\Registration\Code								Advanced Password Recovery: serial
+??	HKLM\Software\ICQ\ICQToolbar\Product Code							ICQ: product code
+??	HKLM\Software\Microsoft\Windows Media Player NSS\3.0\Devices\*\FriendlyName	MAC %6
+??	HKLM\Software\Microsoft\Windows Media Player NSS\3.0\PoppedToast\*	MediaPlayer MAC
+VT	HKLM\Software\Microsoft\Windows Media Player NSS\3.0\Servers\*\NetworkIP*	Server IP
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkList\Signatures\Managed\*\DefaultGatewayMac	Default Gateway MAC (Managed)
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkList\Signatures\Unmanaged\*\DefaultGatewayMac	Default Gateway MAC
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Networklist\Nla\Cache\*\*\Successes	Network Cache %9
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList\*\ProfileImagePath	Profile location of %6
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList\*\ProfileLoadTimeLow		Profile load time low of user%t
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProfileList\*\ProfileLoadTimeHigh		Profile load time of user %6
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\RegisteredOrganization	Name of registered organization
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\RegisteredOwner				Name of registered person
+NT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\CachePrimaryDomain			Cache Primary Domain
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultDomainName			Domain that last user logged on to
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultUserName			Last logged on user%x
+NT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\DomainCache\*	Domain cache
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\LegalNoticeCaption			Legal notice caption
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Group Policy\State\*\Distinguished-Name	Distinguished-Name %7
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\HomeGroup\HME\Members\*	HomeGroup
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Ratings\Key				Internet Explorer Content Advisor 128-bit-encrypted password  (MD4-encrypted)
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\LegalNoticeCaption		Legal notice caption appearing before logon
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\LegalNoticeText			Legal notice text appearing before logon
+VT	HKLM\Software\Microsoft\Windows\CurrentVersion\Reliability\LastComputerName	Last Computer Name
+??	HKLM\Software\Multimedia\Eurofibu 2004 E/A Standard\*\company					Eurofibu: company
+??	HKLM\Software\Multimedia\Eurofibu 2004 E/A Standard\*\name					Eurofibu: user name
+??	HKLM\Software\Nico Mak Computing\WinZip\WinIni\Name						WinZip: user name
+??	HKLM\Software\Nullsoft\Winamp\regname								Winamp: user name
+??	HKLM\Software\Padus\DiscJuggler\Settings\User							DiskJuggler: user name
+??	HKLM\Software\SCHLECKER\SCHLECKER Foto-Digital-Service\customer_data\email			Schlecker Fotodienst: E.Mail Adresse
+??	HKLM\Software\ScanSoft\OmniPagePro12.0\UserName							OmniPage: user name
+??	HKLM\Software\ScanSoft\OmniPagePro12.0\companyName						OmniPage: company
+??	HKLM\Software\Sonic\DVDit Pro 6\Preferences\Username						DVDit Pro 6: user name
+??	HKLM\Software\ahead\Installation\Families\Nero 7\Info\Company					Nero: registered company
+??	HKLM\Software\ahead\Installation\Families\Nero 7\Info\User					Nero: user name
+
+//	??	HKCU\Software\AppDataLow\*\(Default)	AppDataLow %3-
+//	??	HKCU\Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\*\(Default)	Property store %8-
+//	??	HKCU\Control Panel\International\Geo\Nation							Nation
+??	HKCU\Control Panel\International\sCountry							Country
+//	??	HKCU\Identities\{*\Software\Microsoft\Internet Account Manager\Accounts\*\Account Name	Internet Account %7
+//	??	HKCU\Identities\{*\Software\Microsoft\Internet Account Manager\Accounts\*\POP3 User Name	Internet Account email %7
+??	HKCU\Identities\{*\Software\Microsoft\Outlook Express\5.0\signatures\*\text		Windows Mail signature
+??	HKCU\Identities\{*\Username									Username of %2
+??	HKCU\Network\*\ProviderName									Type of network drive %2
+??	HKCU\Network\*\RemotePath									Path of mapped network drive %2
+??	HKCU\SOFTWARE\Microsoft\Windows Mail\Junk Mail\Safe Senders List\*\Exception	Windows Mail: safe senders %6
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\*\_LabelFromReg	Label from Reg %7
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy\GroupMembership\*	GroupMembership
+NT	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy\History\DCName		Domain Controller
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Group Policy\History\{35378EAC-683F-11D2-A89A-00C04FBBCFA2}\*\Link	Group Policy History %9
+??	HKCU\Software\*\toolbar\settings\Weather\CurrentForecastCity					CurrentForecastCity %2
+//	??	HKCU\Software\AVS\VideoConverter\*\Usr											AVS user name
+??	HKCU\Software\Adobe\Registration\User\*											Adobe Registration
+??	HKCU\Software\Alcohol Soft\Alcohol 120%\Info\*	Alcohol 120 info
+//	??	HKCU\Software\AppDataLow\Software\*\toolbar\settings\weather\CurrentForecastCity	CurrentForecastCity %4
+//	??	HKCU\Software\AppDataLow\Software\Conduit\Toolbar\Facebook\*\UserName	Conduit user name
+//	??	HKCU\Software\AppDataLow\Software\eBay\eBayToolbar\History\*	eBay history
+//	??	HKCU\Software\AppDataLow\Software\eBay\eBayToolbar\eBayUserID	eBay user id
+??	HKCU\Software\Apple Computer, Inc.\iPod\UserReg2\*	iPod registration
+//	??	HKCU\Software\Audodesk\AutoCAD\R*\*\Profiles\*\UserName	AutoCAD user name
+??	HKCU\Software\BVRP Software\Motorola Phone Tools\User\*	Motorola PhoneTools user
+??	HKCU\Software\BVRP Software\OLR\*	OLR
+??	HKCU\Software\BVRP Software\mobile PhoneTools\User\*	mobile PhoneTools user
+//	??	HKCU\Software\Babylon\Babylon Client\UserInfo\LastHeaderInfo	Babylon client
+??	HKCU\Software\Conduit\Toolbar\Facebook\*\UserName			Facebook user
+??	HKCU\Software\Corel\Products\*\8\UserName	Corel user name
+??	HKCU\Software\Cyberlink\VROCache\*\IdentityInfo		Cyberlink VRO cache
+??	HKCU\Software\DivXNetworks\DivX Player\Email	DivX Player
+??	HKCU\Software\EasyBoot Systems\UltraISO\*\UserName	UltraISO user name
+??	HKCU\Software\Foxit Software\*\Preferences\UserName	Foxit user name
+??	HKCU\Software\Garmin\UnlockWizard\Customer Profile\*	Garmin customer profile
+//	??	HKCU\Software\Google\Google Desktop\Mailboxes\*\POP3_host	POP3_host %5
+??	HKCU\Software\Google\Google Desktop\index_creation_time	index_creation_time%f
+??	HKCU\Software\Google\Google Desktop\user_sid	Google user SID
+??	HKCU\Software\Google\Google Earth Plus\Username		Google Earth user name
+??	HKCU\Software\Google\Google Talk\Accounts\o	Google Talk account
+??	HKCU\Software\Google\Picasa\Picasa2\Preferences\GaiaUser	Picasa2
+//	??	HKLM\Software\Google\Picasa\PicasaNet\Users\*\*	Picasa/Hello: last chat contact
+//	??	HKCU\Software\Google\Picasa\PicasaNet\Handles\*							Picasa/Hello: local user
+//	??	HKCU\Software\Google\Picasa\PicasaNet\Login\Username						Picasa/Hello: last user name
+//	??	HKCU\Software\Google\Picasa\PicasaNet\Users\*\*		Picasa/Hello: last chat contact
+??	HKCU\Software\Google\machine_name	Google machine name
+??	HKCU\Software\ITConcepts\OneCard\Logon\*	ITConcepts logon
+??	HKCU\Software\IncrediMail\Identities\*\Accounts\*\*	IncrediMail accounts %6
+??	HKCU\Software\IncrediMail\Identities\*\Identity		IncrediMail id %4
+??	HKCU\Software\LG Electronics Inc\MobileSyncConnectionInfo_3G\ConnectionInfo\IMEI	LG IMEI
+??	HKCU\Software\Last.fm\Client\Users\CurrentUser	Last.fm
+//	??	HKCU\Software\MGS\Thumper\PlayerInfo\*	MGS player info
+??	HKCU\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}\Username	Active Setup user name
+??	HKCU\Software\Microsoft\Exchange\UserName			Exchange user
+??	HKCU\Software\Microsoft\Exchange\LogonDomain			Exchange logon domain
+??	HKCU\Software\Microsoft\Exchange\Exchange Provider\OABs\*\OAB Last Modified Time	OAB Last Modified Time%F
+??	HKCU\Software\Microsoft\Fax\UserInfo\*	Microsoft Fax
+??	HKCU\Software\Microsoft\IAM\Accounts\*\Windows Mail Account ID\Windows Mail Account ID	Windows Mail account for %5
+??	HKCU\Software\Microsoft\IdentityCRL\OfflineCreds\*	OfflineCreds
+??	HKCU\Software\Microsoft\IdentityCRL\UserExtendedProperties\*\anon	Windows Live ID %5
+??	HKCU\Software\Microsoft\IdentityCRL\UserExtendedProperties\*\idtiletimestamp	ID tile Windows Live ID %5
+??	HKCU\Software\Microsoft\IdentityCRL\UserExtendedProperties\*\ppstshost	Windows Live ID %5
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\Account Name			Internet Account %5
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\HTTPMail Password2			Hotmail?
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\HTTPMail User Name			Hotmail?
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\NNTP Display Name			Newsgroup: display name
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\NNTP Email Address			Newsgroup: email address
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\NNTP ReplyTo			Newsgroup: reply-to address
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\NNTP Server				Newsgroup: server name
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\NNTP Signature			Newsgroup: signature
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\NNTP User Name			Newsgroup: user name
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\POP3 Email Address			Incoming mail: email address
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\POP3 Reply To Email Address		Incoming mail: reply-to address
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\POP3 Server				Incoming mail: server name
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\POP3 User Name			Incoming mail: user name
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\SMTP Display Name			Outgoing mail: display name
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\SMTP Email Address			Outgoing mail: email address
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\SMTP Reply To Email Address		Outgoing mail: reply-to address
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\SMTP Server				Outgoing mail: server name
+//	??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\SMTP Signature			Outgoing mail: signature
+??	HKCU\Software\Microsoft\Internet Account Manager\Accounts\*\SMTP User Name			Outgoing mail: user name
+VT	HKCU\Software\Microsoft\Internet Explorer\InternetRegistry\REGISTRY\USER\*\Software\Microsoft\Windows Genuine Advantage\MAC	This computer's MAC address
+??	HKCU\Software\Microsoft\MS Setup (ACME)\User Info\*	MS Setup
+NT	HKCU\Software\Microsoft\MSN6\FailedSignup\*	MSN6 failed signup
+NT	HKCU\Software\Microsoft\MSN6\FailedSignup\bag\*	MSN6 bag
+NT	HKCU\Software\Microsoft\MSN6\Users\*\*	MSN6 user %5
+??	HKCU\Software\Microsoft\MSNMessenger\MachineName	MSN Messenger machine name
+??	HKCU\Software\Microsoft\MSNMessenger\PerPassportSettings\*\NewUserFirstSignInDate	MSN Messenger new user%f
+??	HKCU\Software\Microsoft\MSNMessenger\PerPassportSettings\DefaultMemberName	MSN Messenger default member name
+NT	HKCU\Software\Microsoft\MSNMessenger\PerPassportSettings\LastMemberName		MSN Messenger last member name
+VT	HKCU\Software\Microsoft\MSN\Toolbar\WLServices\Identity\ToolbarUser				MSN toolbar user
+NT	HKCU\Software\Microsoft\MessengerService\GroupStateCacheU\*\Name	Messenger service cache%S
+NT	HKCU\Software\Microsoft\MessengerService\ListCache\.NET Messenger Service\IdentityName	List Cache Id%S
+NT	HKCU\Software\Microsoft\MessengerService\ListCache\*\Contact*		List cache contact%s
+??	HKCU\Software\Microsoft\Office\*\Common\UserInfo\*	User info, Office %4
+??	HKCU\Software\Microsoft\Office\*\Outlook\Machine Name	Outlook machine name
+NT	HKCU\Software\Microsoft\Office\*\Publisher\UserInfo\OtherOrganization\*		MS Publisher info
+??	HKCU\Software\Microsoft\Office\*\Registration\*\(Default)	Office Registration for %6-
+??	HKCU\Software\Microsoft\Office\Common\UserInfo\*		Office UserInfo
+??	HKCU\Software\Microsoft\Office\Outlook\OMI Account Manager\Accounts\*\*		Outlook account %7
+NT	HKCU\Software\Microsoft\Protected Storage System Provider\*\Migrate	SID %4
+??	HKCU\Software\Microsoft\Terminal Server Client\Servers\*\UsernameHint	Terminal Server Client %5
+NT	HKCU\Software\Microsoft\User Location Service\Client\*	NetMeeting: User location service
+VT	HKCU\Software\Microsoft\WAB\Me\(Default)	WAB Me
+NT	HKCU\Software\Microsoft\Windows CE Services\DefCompany	DefCompany
+NT	HKCU\Software\Microsoft\Windows CE Services\DefName	Defname
+??	HKCU\Software\Microsoft\Windows Genuine Advantage\MAC					This computer's MAC address
+??	HKCU\Software\Microsoft\Windows Live Contacts\Database\*	Windows Live contacts
+??	HKCU\Software\Microsoft\Windows Live Mail\Default User	Windows Live Mail user
+??	HKCU\Software\Microsoft\Windows Live Mail\PerPassportSettings\*\HTTP\*\Http Last Safe Sender List\*\Exception		Http Safe Sender List %7
+??	HKCU\Software\Microsoft\Windows Live Mail\PerPassportSettings\*\Junk Mail\Safe Senders List\*\Exception		Safe Senders List %5x
+VT	HKCU\Software\Microsoft\Windows Mail\Mail\VCard Display Name	Windows Mail name
+VT	HKCU\Software\Microsoft\Windows Mail\signatures\*\text		Windows Mail signature
+??	HKCU\Software\Microsoft\Windows Media Player NSS\3.0\PoppedToast\*	MediaPlayer MAC
+??	HKCU\Software\Microsoft\Windows Media\WMSDK\General\VolumeSerialNumber	Windows Media SDK: Volume serial number
+//	??	HKCU\Software\Microsoft\Windows Media\WMSDK\etacsufbO\*\htaP	Windows Media obfuscated %6
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows Messaging Subsystem\Profiles\Outlook\0a0d020000000000c000000000000046\001f041c	Outlook profile
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions\*		My Network Places%-
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Last Domain		Last Domain
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Logon User Name		Name of registered user%x
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\*			User-specific directories%x
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Group Policy\History\*\*\FileSysPath	FileSysPath %7
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Installer\*	Installer
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Passport\RegistrationCompleted		Passport registration%B
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\UnreadMail\*\TimeStamp				Unread Mail of %6f
+??	HKCU\Software\Microsoft\winmine\Name1	minesweeper account
+??	HKCU\Software\Mirabilis\ICQ\NewOwners\*\Name							ICQ user name
+??	HKCU\Software\Motive\Telco\AliceRE\Install\*	Telco AliceRE
+//	??	HKCU\Software\NSeries\PCSync\MRSList\*	Nokia PC Sync
+//	??	HKCU\Software\NitroPC\NitroRegistry\MainSettings\*	NitroPC
+//	??	HKCU\Software\NitroPC\NitroRegistry\UserSettings\UserName	NitroPC user
+??	HKCU\Software\Patchou\Messenger Plus! Live\DefaultUser	Patchou Messenger
+??	HKCU\Software\Patchou\MsgPlus2\DefaultConfiguration	Patchou Messenger
+//	??	HKCU\Software\Pure Networks\Network Magic\UserEmail	Network Magic user email
+??	HKCU\Software\RIT\The Bat!\Users depot\*	The Bat!
+??	HKCU\Software\SK Communications\Messenger\Settings\User ID	SK Messenger id
+//	??	HKCU\Software\ShalSoft\GigaTribe\SessionOldPrivateIp						Giga Tribe: IP last used
+??	HKCU\Software\Siber Systems\UserReg\*		RoboForm
+??	HKCU\Software\Skype\PluginManager\RecentUsr	Skype recent user
+??	HKCU\Software\Skyscape\SSC\UserInfo\*\Email	Skyscape user info %5
+??	HKCU\Software\Sony Ericsson\PC Suite\Sync *\F3B3EFF5-A0CD-42D3-B97C-F493BD5A91C3\LastSyncTime\*		Sony Ericsson IMEI
+??	HKCU\Software\Sony Ericsson\Sony Ericsson PC Suite\Comm00\NumberMobile		Sony Ericsson mobile #
+??	HKCU\Software\BVRP software\Motorola Phone Tools\Comm00\NumberMobile		Motorola mobile #
+??	HKCU\Software\Sony Ericsson\Sony Ericsson PC Suite\Synchronization\*\LastMappedMobilePhone	LastMappedMobilePhone
+??	HKCU\Software\Sony Ericsson\Sony Ericsson PC Suite\Synchronization\SyncML\IMEI:*\*	Sony Ericsson %6
+??	HKCU\Software\Steam\*\CurUser	Steam current user
+??	HKCU\Software\Sun Microsystems\setup\recycle\*							Sun Microsystems setup info
+//	??	HKCU\Software\TASCAM\GigiStudio\User\*	GigaStudio
+??	HKCU\Software\TomTom\*\LoginName	TomTom login %3
+??	HKCU\Software\Tracker Software\PDFViewer\Registration\Name					PDFXChange viewer: registered name
+??	HKCU\Software\TuneUp\Utilities\*\UserName	TuneUp user name
+??	HKCU\Software\Widcomm\Connections\*\BDAddress	Widcomm MAC %4b
+??	HKCU\Software\Widcomm\Connections\*\BDName		Widcomm BDName %4
+??	HKCU\Software\Yahoo\Pager\Yahoo! User ID							Yahoo Messenger login name
+??	HKCU\Software\Yahoo\pager\profiles\*\LastLoginTime	Yahoo pager last login %5
+//	??	HKCU\Software\devolo\dlanconfig\NEK	dlanconfig
+??	HKCU\Software\iMesh\Users\*\Login	iMesh user
+??	HKCU\Software\mIRC\UserName\*	mIRC user name
+NT	HKCU\Software\Camfrog\Client\*\ProfileInfo\BirthYear					Camfrog brith year of %4b
+NT	HKCU\Software\Camfrog\Client\*\ProfileInfo\Email						Camfrog profile %4
+NT	HKCU\Software\Microsoft\Windows\ShellNoRoam\(Default)	Shell computer name
+VT	HKCU\Software\Microsoft\IdentityCRL\ExtendedProperties\SSO_GROUP_LIVE				SSO_GROUP_LIVE
+VT	HKCU\Software\Microsoft\Windows Live\Photo Gallery\Library\AutoSignIn				Photo Gallery: AutoSignIn
+VT	HKCU\Software\Microsoft\Windows Live\Photo Gallery\UserCache\*\*				Photo Gallery: User cache
+VT	HKCU\Software\Microsoft\Windows Mail\Recently Used Addresses\*					Windows Mail: Recently used addresses %S
+VT	HKCU\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}\Username	Active Setup user name (64Bit)
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Applets\Hearts\name		Hearts name
+
+??	*\cAnnot\tauthor	Annotations, Acrobat Reader
+**	HKCU\ComputerName	Computer name%xi
+**	HKCU\RegOwner		Registered owner
+**	HKLM\Software\RegOwner		Registered owner
+
+??	SAM\SAM\Domains\Account\Users\Names\*\(Default)		User ID of %6
+??	SAM\SAM\Domains\Account\Aliases\Names\*\(Default)	User ID of %6
+??	SAM\SAM\Domains\Builtin\Aliases\Names\*\(Default)	User ID of %6
+??	SAM\SAM\Domains\Account\Groups\Names\*\(Default)	Group ID of %6
+??	SAM\SAM\Domains\Builtin\Aliases\Members\*\000001F4\(Default)	Base machine SID %6
+
+??	SAM\SAM\Domains\Account\Users\*\F		User Account
+??	SAM\SAM\Domains\Account\Users\*\V		Account Names
+??	SAM\SAM\Domains\Builtin\Aliases\*\C		Group members
+VT	SAM\SAM\Domains\Account\Users\*\InternetUserName		Internet user name
+VT	SAM\SAM\Domains\Account\Users\*\Surname		Surname
+
+VT	HKLM\SOFTWARE\Microsoft\Windows Server\IDENTITY\PasswordHint	PasswordHint
+VT	HKLM\SOFTWARE\Microsoft\Windows Server\IDENTITY\CAName	CAName
+VT	HKLM\SOFTWARE\Microsoft\Windows Server\IDENTITY\ServerName	Server name

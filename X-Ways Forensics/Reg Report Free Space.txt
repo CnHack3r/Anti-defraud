@@ -1,0 +1,18 @@
+FR	f	 <br><b>Total free space is </b>
+**	HKCU\BagMRU		BagMRU%d
+**	HKCU\StreamMRU		StreamMRU%d
+**	HKCU\RecentDocs		RecentDocs%d
+**	HKCU\UserAssist		UserAssist%d
+**	HKCU\SlowInfoCache	ARP Cache%d
+**	HKLM\Software\SlowInfoCache	ARP Cache%d
+**	HKCU\Item		Deleted Item list%I
+**	HKCU\*			String value%t1d
+**	HKCU\BEEF		Extracted from value slack
+**	UsrClass\BEEF		UsrClass
+NT	HKCU\Software\Microsoft\Windows\Shell\Bags\*\Desktop\ItemPos*	Shell Bag slack (Desktop)%X
+NT	HKCU\Software\Microsoft\Windows\Shell\Bags\*\Shell\ItemPos*	Shell Bag slack%X
+NT	HKCU\Software\Microsoft\Windows\ShellNoRoam\Bags\*\Shell\ItemPos*	Shell Bag slack%X
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage\ProgramsCache	ProgramsCache slack%X
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage\FavoritesResolve	Favorites slack%X
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams\*\ViewView2	Streams slack%X
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StreamMRU\*	StreamMRU slack%X

@@ -1,0 +1,177 @@
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\CurrentVersion				Windows internal version
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\InstallDate					Windows installation date
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProductId						Windows product ID
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\DigitalProductId			Windows CD key
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\ProductName					Windows name
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\CurrentBuildNumber			Windows build number%D
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\CurrentType					Processor architecture
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\CSDVersion					Service pack
+
+VT	HKLM\System\Setup\Source OS*\InstallTime	InstallTime %3f
+VT	HKLM\System\HardwareConfig\*\LastUse	Bios Info%f
+VT	HKLM\System\HardwareConfig\*\SystemBiosVersion	BIOS version
+VT	HKLM\System\HardwareConfig\*\BIOSReleaseDate	BIOS release
+VT	HKLM\Software\Microsoft\Windows\Configuration\CfgClient\ControlSet\LastPullTime	Last pull time%f
+VT	HKLM\Software\Microsoft\Dfrg\Statistics\Volume*\LastRunTime	Last defragmentation of %5T
+VT	HKLM\Software\Microsoft\Dfrg\Statistics\Volume*\TotalMFTRecords	Total MFT records for %5
+VT	HKLM\Software\Microsoft\RADAR\HeapLeakDetection\DiagnosedApplications\*\LastDetectionTime	RADAR %6f
+VT	HKLM\Software\Policies\Microsoft\Windows\DataCollection\Allow Telemetry			Allow Telemetry%B
+
+??	HKLM\Software\Microsoft\WindowsUpdate\Auto Update\Results\Install\LastSuccessTime	WindowsUpdate Last Success
+NT	HKLM\Software\Microsoft\WindowsUpdate\OemInfo\*						Wbem OEM
+//	??	HKLM\Software\Classes\SOFTWARE\Microsoft\MediaPlayer\Setup\UpdateTimeStamp	MediaPlayer UpdateTimeStamp%e
+VT	HKLM\Software\Microsoft\WBEM\CIMOM\PreviousServiceShutdown	Web-Based Enterprise Management: PreviousServiceShutdown
+VT	HKLM\Software\Microsoft\WBEM\CIMOM\Autorecover MOFs timestamp	Wbem autorecover time%f#20002
+VT	HKLM\Software\Microsoft\WBEM\CIMOM\LastServiceStart	CIM Object Manager: LastServiceStart
+VT	HKCU\Software\Microsoft\BRCpl\BackupApps\{A763BFC4-73B8-428B-87D0-9248112F4183}\LastUsedTime	Backup last used%b
+
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\LegalNoticeText			Legal notice text appearing before logon
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\LegalNoticeCaption		Legal notice caption appearing before logon
+
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultUserName			Last logged on user%#20007
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\DefaultDomainName			Domain that last user logged on to
+NT	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\CachePrimaryDomain			Cache Primary Domain
+
+
+??	HKLM\System\Select\Current									Current%t
+??	HKLM\Software\Apple Computer, Inc.\iPod\AppPaths\InstallDir		Apple QuickTime: installation
+??	HKLM\Software\Clients\*\(Default)	Client setting for %3
+??	HKLM\Software\Microsoft\MSMQ\Parameters\setup\*		MSMQ setup
+VT	HKLM\Software\Microsoft\Reliability Analysis\Rac\RacWdcLastSessionTime	RacWdcLastSessionTime%T
+NT	HKLM\Software\Microsoft\SchedulingAgent\LastTaskRun				Scheduler: last task run%T
+NT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\SystemRestore\DisableSR	Disable system restore%B
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\AutoAdminLogon	Auto logon%B
+//	??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\DCacheUpdate	Domain cache update%f
+VT	HKLM\Software\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\LastLoggedOnSAMUser	Last logged on user
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\Classes\CLSID\*	BHO
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoDrives	NoDrives (DWORD)
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoInstrumentation	No Instrumentation%B
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoWindowsUpdate	No Windows update
+VT	HKLM\Software\Microsoft\Windows\CurrentVersion\Reliability\DirtyShutdownTime	Dirty shutdown time%T
+NT	HKLM\Software\Microsoft\Windows\CurrentVersion\Syncmgr\AutoSync\*\TimeStamp	Sync manager %8f
+NT	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Hints\*\*	Password Hint for %6
+??	HKLM\Software\Clients\StartMenuInternet\(Default)			Default Internet Browser
+NT	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\*\*	Recycle Bin Info for drive %7
+VT	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\ConsentPromptBehaviorAdmin	Turn off UACBehavior (0 is off)
+??	HKLM\System\ControlSet*\Control\TERMINAL SERVER\fDenyTSConnections	Deny Terminal Server connections%B
+VT	HKLM\System\ControlSet*\Control\CMF\SqmData\CMFStartTime	CMFStartTime%f#20002
+VT	HKLM\System\ControlSet*\Control\CMF\SqmData\SystemLastStartTime	SystemLastStartTime%f#14004
+??	HKLM\System\ControlSet*\Control\DeviceClasses\{53f56307-b6bf-11d0-94f2-00a0c91efb8b}\*\DeviceInstance	Device instance%t
+??	HKLM\System\ControlSet*\Control\DeviceClasses\{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\*\DeviceInstance	Device instance%t
+NT	HKLM\System\ControlSet*\Control\FileSystem\NtfsDisableLastAccessUpdate	NtfsDisableLastAccessUpdate
+??	HKLM\System\ControlSet*\Control\Session Manager\Power\HiberFileRuns	HiberFileRuns%D
+??	HKLM\System\ControlSet*\Control\SystemInformation\*	System information
+NT	HKLM\System\ControlSet*\Control\TimeZoneInformation\DaylightName					User-configured daylight savings time
+NT	HKLM\System\ControlSet*\Control\TimeZoneInformation\StandardName					User-configured time zone
+VT	HKLM\System\ControlSet*\Control\TimeZoneInformation\TimeZoneKeyName					User-configured time zone
+NT	HKLM\System\ControlSet*\Control\Watchdog\Display\ShutdownCount		Shutdown Count%D
+??	HKLM\System\ControlSet*\Control\Windows\ShutdownTime						Time of last system shutdown%f#14003
+NT	HKLM\System\(Default)										Last Boot%-
+??	HKLM\System\ControlSet*\Services\*\DisplayName	Display name%t
+??	HKLM\System\ControlSet*\Services\*\ImagePath	Image path%t
+??	HKLM\System\ControlSet*\Services\*\Start	Start%t
+??	HKLM\System\ControlSet*\Services\*\Type		Type%t
+//	??	HKLM\System\ControlSet*\Services\DMIO\Boot Info\Primary Disk Group\*				Last removable disk mounted
+??	HKLM\System\ControlSet*\Services\LanManServer\Shares\*					Shared folders
+??	HKLM\System\ControlSet*\Services\LanmanServer\Parameters\AutoShareServer	AutoShareServer
+??	HKLM\System\ControlSet*\Services\LanmanServer\Parameters\srvcomment		Computer description
+VT	HKLM\System\ControlSet*\services\HomeGroupProvider\ServiceData\LocalJoiningUser	Local joining user
+VT	HKLM\System\ControlSet*\services\HomeGroupProvider\ServiceData\Owner		Home group: owner
+VT	HKLM\System\ControlSet*\services\HomeGroupProvider\ServiceData\OwnerMachineName	Home group: Owner machine name
+NT	HKLM\System\ControlSet001\Enum\USBSTOR\*\*\ParentIdPrefix						ParentIdPrefix%t
+NT	HKLM\System\ControlSet002\Enum\USBSTOR\*\*\ParentIdPrefix						ParentIdPrefix%t
+NT	HKLM\System\ControlSet003\Enum\USBSTOR\*\*\ParentIdPrefix						ParentIdPrefix%t
+??	HKLM\System\MountedDevices\*	Mounted device%t
+??	HKLM\System\Setup\CloneTag		Sysprep image was prepared for duplication
+NT	HKLM\System\ControlSet*\Control\BiosInfo\*	BIOS Info
+NT	HKLM\Software\Microsoft\Updates\Windows XP\SP4\KB*\InstalledDate	XP Update %6
+NT	HKLM\System\ControlSet*\Control\ProductOptions\ProductType	ProductType
+VT	HKLM\System\ControlSet*\Enum\WpdBusEnumRoot\UMB\*\FriendlyName	WPD Bus Enumeration%t
+VT	HKLM\System\ControlSet*\Enum\WpdBusEnumRoot\UMB\*\Properties\{*\00000064\00000000\Data	WPD data%t
+VT	HKLM\System\ControlSet*\Enum\STORAGE\VolumeSnapshot\*\Properties\{*\00000064\00000000\Data	Shadow Copy %5f
+NT	HKLM\System\ControlSet*\Control\Session Manager\AppCompatibility\AppCompatCache	AppCompatCache
+VT	HKLM\System\ControlSet*\Control\Session Manager\AppCompatCache\AppCompatCache	AppCompatCache
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{*\Path		Job %8
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{*\Path	Job %9
+
+??	HKCU\Control Panel\Desktop\Wallpaper							Desktop wallpaper bitmap%i
+??	HKCU\Network\*\ProviderName									Type of network drive %2
+??	HKCU\Network\*\RemotePath									Path of mapped network drive %2
+??	HKCU\Software\Adobe\Shockwave 11\moviestats\sessions\sessioncount\(Default)	Shockwave session count
+??	HKCU\Software\Clients\*\(Default)	Client %3
+??	HKCU\Software\Control Panel\Bluetooth\LastRadioArrival		Bluetooth last radio arrival%f#20002
+??	HKCU\Software\DVD Decrypter\OperatingSystem	DVD Decrypter OS
+??	HKCU\Software\Google\Google Calendar Sync\LastSyncTime	Google Calendar last sync%T
+//	??	HKCU\Software\Google\Google Earth Plus\osName	osName
+//	??	HKCU\Software\Google\GoogleEarthPlugin\osName	osName
+//	??	HKCU\Software\ImgBurn\OperatingSystem	ImgBurn OS
+??	HKCU\Software\ImgBurn\TotalNumberOfBurns	ImgBurn total number of burns%D
+??	HKCU\Software\JavaSoft\Java Runtime Environment\*\BalloonShown				Java Runtime Environment %4B
+??	HKCU\Software\Macromedia\Shockwave*\statistics\totalruns\(Default)			Shockwave total runs
+//	??	HKCU\Software\Matt Holwood\MessengerDiscovery Live\IM	MessengerDiscovery Live
+??	HKCU\Software\Matt Holwood\MessengerDiscovery Live\Settings\*	MessengerDiscovery Live
+??	HKCU\Software\Microsoft\Internet Explorer\Download\RunInvalidSignatures			Run invalid signatures!%B
+??	HKCU\Software\Microsoft\Internet Explorer\International\CpMRU\Cache			Codepage usage
+??	HKCU\Software\Microsoft\Internet Explorer\Main\WindowsSearch\LastCrawl			Windows Search (last crawl)%f#20002
+??	HKCU\Software\Microsoft\Internet Explorer\New Windows\Allow\*				IE new Windows
+NT	HKCU\Software\Microsoft\MessengerService\WinXPRunCount				Messenger Service run count
+NT	HKCU\Software\Microsoft\MSN6\RunCount								MSN6 run count%D
+??	HKCU\Software\Microsoft\MSNMessenger\AntiVirus						AntiVirus
+NT	HKCU\Software\Microsoft\Ntbackup\Log Files\*\*						Ntbackup %5
+??	HKCU\Software\Microsoft\Office\*\Outlook\OutlookSessionCount	Outlook session count
+??	HKCU\Software\Microsoft\Office\*\Outlook\SQM\SQMSessionNumber	Outlook SQM session number
+??	HKCU\Software\Microsoft\Office\*\Registration\*\(Default)	Registration Office %4
+??	HKCU\Software\Microsoft\RAS AutoDial\Addresses\*\Network	Autodial address %5
+??	HKCU\Software\Microsoft\RAS AutoDial\Entries\*		Autodial entry
+??	HKCU\Software\Microsoft\RAS AutoDial\Networks\*\1	Autodial network %5
+VT	HKCU\Software\Microsoft\SQMClient\Windows\FirstLoginTime	SQM client first login%f#14005
+??	HKCU\Software\Microsoft\SQM\Settings\MSN\*	SQM Settings
+??	HKCU\Software\Microsoft\Terminal Server Client\LocalDevices\*				Terminal Services Client Info - Local Devices
+NT	HKCU\Software\Microsoft\Windows CE Services\DeviceOemInfo	Windows CE OEM Info
+NT	HKCU\Software\Microsoft\Windows CE Services\DeviceType		Windows CE dev
+VT	HKCU\Software\Microsoft\Windows Mail\LastBackup			Windows Mail last backup%T
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\EFS\CurrentKeys\NumBackupAttempts	EFS Key Backup
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\BuildNumber		BuildNumber%D
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\DisableThumbnailCache	Disable thumbnail cache%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\DisableAutoPlay	Disable autoplay%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices\WpdDeviceHandle\Label	Autoplay KnownDevices
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\CleanShutdown			Dirty shutdown%F
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\CleanupWiz\Last used time	Cleanup last used%f#20003
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\*\BaseClass	Mount points 2%t
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints\*\_UB		W2K Mountpoint %7
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage\StartMenu_Start_Time	StartMenu_Start_Time%f#20004
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\Settings\NoEncrypt	User Assist encryption
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\Settings\NoLog	Disable User Assist
+NT	HKLM\Software\Microsoft\Windows\CurrentVersion\Group Policy\History\DCName		Domain Controller
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\AutoConfigURL		Auto config URL
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\CACHE\LastScavenge_TIMESTAMP	Last scavenge%f#20003
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\DisableCachingOfSSLPages	Disable caching of SSL pages%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxyEnable		ProxyEnable%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ProxySettings\*	ProxySettings
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32\ClearRecentDocsOnExit	Clear recent docs on exit
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32\NoFileMru		NoFileMru
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Comdlg32\NoRecentDocsHistory	NoRecentDocsHistory%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\NoInstrumentation	No Instrumentation%B
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate\UserRequestedUpdate	Disable Windows updates%F
+??	HKCU\Software\Nokia\Nokia Ovi Suite\Devices\*\BLUETOOTHADDRESS	Nokia bluetooth addr
+??	HKCU\Software\Nokia\Nokia Ovi Suite\Devices\*\FRIENDLYNAME	Nokia Ovi Suite device %5
+??	HKCU\Software\Nokia\OneTouchAccess\ModemKey	Nokia OneTouchAccess
+??	HKCU\Software\PCTools\Registry Mechanic\Total	Registry Mechanic total runs%D
+??	HKCU\Software\Samsung\Samsung PC Studio 3\CurrentPhone\Model	Samsung PC Studio: Model
+??	HKCU\Software\Sony Ericsson\Sony Ericsson PC Suite\Common\RunCount	Sony Ericsson PC Suite run count%D
+??	HKCU\Software\Sony Ericsson\Sync Station\*\LastSyncTime\*	Sony Ericsson LastSyncTime
+??	HKCU\Software\Widcomm\BtConfig\Devices\*\TrustedMaskUser	Widcomm device %5
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage\NewShortcuts\*	New shortcuts
+
+??	Components\LastScavengeCookie	LastScavengeCookie
+
+
+??	SAM\SAM\Domains\Account\F		Profile Account
+
+??	SECURITY\Policy\Accounts\S*\Sid\(Default)	Account SID
+??	SECURITY\Policy\PolAcDmS\(Default)	This Domain's SID
+??	SECURITY\Policy\PolAcDmN\(Default)	This Domain's Name
+??	Security\Policy\Domains\*	Trusted domains
+??	SECURITY\Policy\PolPrDmS\*	Primary Domain SID
+??	SECURITY\Policy\PolPrDmN\*	Primary Domain Name
+??	SECURITY\Policy\PolDnTrN\*	Toplevel Domain

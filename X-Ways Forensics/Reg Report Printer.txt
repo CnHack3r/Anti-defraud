@@ -1,0 +1,22 @@
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Device			Default printer
+??	HKCU\Printers\DeviceOld									Current printer%x
+??	HKCU\Printers\DevModes2\*								Printer%S
+??	HKCU\Printers\Connections\*\Server							Printer connection for %4
+??	HKCU\Software\Google\Picasa\Picasa2\Preferences\PrinterName				Picasa2 printer
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\PrinterPorts\*	PrinterPorts
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\WorkgroupCrawler\Printers\*	Workgroup Crawler printers
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\WorkgroupCrawler\Printers\*		Workgroup crawler printers
+NT	HKCU\Software\Microsoft\Internet Explorer\PageSetup\printer				IE printer
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\PhotoPrintingWizard\DefaultPrinter	PhotoPrinting default
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\PhotoPrintingWizard\*\DriverName	Photo printing
+??	HKCU\Software\Hewlett-Packard\Smart Web Printing\CleanShutdown				Smart Web Printing
+
+??	HKLM\System\Select\Current									Dummy
+??	HKLM\SYSTEM\ControlSet*\Hardware Profiles\*\System\CurrentControlSet\Control\Print\Printers\*\PrinterOnLine	Printer online? %10
+??	HKLM\SYSTEM\ControlSet*\Enum\USBPRINT\*\*\FriendlyName					USB printer %6
+??	HKLM\SYSTEM\ControlSet*\Enum\USBPRINT\*\*\DeviceDesc					USB printer %6
+VT	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\*\ChangeID		Printer %7
+VT	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\HomeGroup\*\Auto-Shared		HomeGroup Printer %7
+VT	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Printers\*\DsSpooler\uNCName	Printer UNC %7
+NT	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Print\Providers\LanMan Print Services\Servers\*\Printers\*\DsSpooler\uNCName	LanMan Printer %11
+??	HKLM\System\ControlSet*\Control\Print\Providers\LogonTime	Print providers logon time%f

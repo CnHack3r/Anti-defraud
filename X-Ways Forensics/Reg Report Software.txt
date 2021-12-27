@@ -1,0 +1,52 @@
+??	UsrClass\Applications\*\Shell\Open\Command\(Default)	Application %2
+VT	UsrClass\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\*	MuiCache
+
+//	??	HKCU\Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\*\(Default)	Property store %8
+??	HKCU\Software\ADOBE\CommonFiles\Usage\*\Date	Adobe Usage %5
+//	??	HKCU\Software\BearShare\General\Instdate	BearShare install date
+//	??	HKCU\Software\Classes\Installer\Products\*\SourceList\LastUsedSource	Windows Installer last
+??	HKCU\Software\Google\Google Desktop\installtime	Google Desktop installed (FILETIME)%f
+??	HKCU\SOFTWARE\Google\Google Desktop\Status\sw_last*	Google Desktop last used (FTIME)%f
+??	HKCU\Software\Google\Google Earth Plus\UsageStatistics\numRuns	Google Earth numRuns%D
+//	??	HKCU\SOFTWARE\Google\GoogleToolbarNotifier\Stats\LastReportTime		GoogleToolbarNotifier LastReportTime%e
+??	HKCU\Software\Google\Picasa\Picasa2\Preferences\lastmypics	Picasa2
+??	HKCU\SOFTWARE\JavaSoft\Java Update\Policy\JavaFX\LastUpdateInvokedTime	Java Update last invoked
+??	HKCU\Software\Nokia\MultimediaPlayer\Settings\RcntFldr					Nokia MultimediaPlayer recent%x
+??	HKCU\Software\Microsoft\Direct3D\MostRecentApplication\Name					User-specific: most recent application that used Direct3D
+??	HKCU\Software\Microsoft\DirectInput\*\Name	DirectInput %4
+??	HKCU\Software\Microsoft\Installer\Products\*\SourceList\LastUsedSource	Windows Installer last
+??	HKCU\Software\Microsoft\Internet Explorer\Extensions\{*\Exec	IE Extension %5
+VT	HKCU\Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\*\AppName	IE Low Rights
+NT	HKCU\Software\Microsoft\MovieMaker\Launch Count		MovieMaker launch count
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\App Management\ARPCache\*\SlowInfoCache	App Management %7
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\*		Explorer Run
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\DisplayName				User-specific: Name of %6
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallDate				User-specific: Install date of %6
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallLocation			User-specific: Location of %6
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallSource			User-specific: Source of %6
+NT	HKCU\Software\Microsoft\Windows\ShellNoRoam\MUICache\*						Cache for installed executables
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage\ProgramsCache			Programs cache%P
+VT	HKCU\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted\*	Legacy programs
+
+//	??	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\*	Installer
+??	HKLM\Software\Avira\Antivir Desktop\InstallationDate	Avira Installation%e
+??	HKLM\SOFTWARE\Google\Google Toolbar\*\Setup\FirstInstallTime	Google Toolbar first installed (CDate)
+??	HKLM\SOFTWARE\Google\Google Toolbar\GoogleUpdate\InstallTimestamp	Google Toolbar Update (CDate)
+??	HKLM\SOFTWARE\Microsoft\Direct3D\MostRecentApplication\Name					Local machine: most recent application that used Direct3D
+??	HKLM\SOFTWARE\Microsoft\DirectDraw\MostRecentApplication\Name				Local machine: most recent application that used DirectDraw
+??	HKLM\Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\*\AppName	IE Low Rights
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\App Management\ARPCache\*\SlowInfoCache	App Management for %7
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\*\InstallProperties\DisplayName	Product %9
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\*\InstallProperties\RegOwner	Registered owner for %9
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\DisplayName				Name of program %6
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallDate				Install date of %6
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallLocation			Location of program %6
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallSource			Source of program %6
+??	HKLM\SOFTWARE\Nico Mak Computing\WinZip\WinZip\VersionDate	WinZip VersionDate
+??	HKLM\SOFTWARE\Wow6432Node\Microsoft\Direct3D\MostRecentApplication\Name				Local machine: most recent application that used Direct3D
+NT	HKLM\System\ControlSet*\Services\SharedAccess\Parameters\FirewallPolicy\StandardProfile\AuthorizedApplications\List\*	Authorized applications
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*\DisplayName		Name of program %6
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallDate		Install date of %6
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallLocation		Location of program %6
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*\InstallSource		Source of program %6
+VT	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\DisplayName	64-bit uninstall

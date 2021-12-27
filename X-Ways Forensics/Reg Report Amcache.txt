@@ -1,0 +1,1 @@
+VT	\Root\File\*\*\1*	Amcache %4#20012

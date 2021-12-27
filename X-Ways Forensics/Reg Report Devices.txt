@@ -1,0 +1,70 @@
+??	HKLM\System\Select\Current								Current%t
+??	HKLM\SYSTEM\ControlSet*\Enum\ACPI\*\_0\FriendlyName					CPU
+??	HKLM\SYSTEM\ControlSet*\Enum\ACPI\*\_1\FriendlyName					CPU
+??	HKLM\SYSTEM\ControlSet*\Enum\IDE\*\*\FriendlyName					IDE Device %6
+??	HKLM\SYSTEM\ControlSet*\Enum\FDC\*\*\HardwareID						Floppy Drive
+??	HKLM\SYSTEM\ControlSet*\Enum\SCSI\*\*\FriendlyName					SCSI
+??	HKLM\SYSTEM\ControlSet*\Enum\STORAGE\Volume\*\Properties\{*\00000004\00000000\Data	Volume Friendly Name %6
+??	HKLM\SYSTEM\ControlSet*\Enum\STORAGE\Volume\*\Properties\{*\00000064\00000000\Data	Volume Time %6f
+??	HKLM\SYSTEM\ControlSet*\Enum\UMB\UMB\*\ParentIdPrefix					UMB ParentIdPrefix %6
+VT	HKLM\SYSTEM\ControlSet*\Enum\USBSTOR\*\*\Device Parameters\PartMgr\DiskId		PartMgr DiskId of %5
+VT	HKLM\SYSTEM\ControlSet*\Enum\IDE\*\*\Device Parameters\PartMgr\DiskId			PartMgr DiskId of %5
+??	HKLM\SYSTEM\ControlSet*\Hardware Profiles\*\System\CurrentControlSet\Enum\USBSTOR\*\*\CSConfigFlags	Disabled? %9
+??	HKLM\SYSTEM\ControlSet*\Hardware Profiles\0001\System\CurrentControlSet\Enum\ROOT\*\0000\CSConfigFlags	Disabled? %9
+??	HKLM\SYSTEM\ControlSet*\Enum\DISPLAY\*\*\DeviceDesc					Display Device %5
+??	HKLM\SYSTEM\ControlSet*\Enum\PCIIDE\*\*\HardwareID						IDE Channel: Hardware ID
+??	HKLM\SYSTEM\ControlSet*\Enum\SW\*\*\DeviceDesc							Audio Device %5
+??	HKLM\SYSTEM\ControlSet*\Enum\USBSTOR\*\*\FriendlyName						USB Storage %6
+VT	HKLM\SYSTEM\ControlSet*\Enum\USBSTOR\*\*\Properties\{83da6326-97a6-4088-9453-a1923f573b29}\0066\*	Last Arrival %6
+VT	HKLM\SYSTEM\ControlSet*\Enum\USBSTOR\*\*\Properties\{83da6326-97a6-4088-9453-a1923f573b29}\0067\*	Last Removal %6
+??	HKLM\SYSTEM\ControlSet*\Enum\PCI\*\*\DeviceDesc							PCI device %6
+NT	HKLM\System\ControlSet*\Services\DMIO\Boot Info\Primary Disk Group\*				Last removable disk mounted
+??	HKLM\SYSTEM\ControlSet*\services\BTHPORT\Parameters\Devices\*\Name				BlueTooth Device %7s
+??	HKLM\System\MountedDevices\*	Mounted devices
+??	HKLM\System\ControlSet*\Class\Control\{6BDD1FC6-810F-11D0-BEC7-08002BE2092F}\*\FriendlyName	Imaging Device
+
+VT	HKLM\SYSTEM\ControlSet*\Control\DeviceContainers\{*\Properties\{656a3bb3-ecc0-43fd-8477-4ae0404a96cd}\2002\*	ModelName%S
+VT	HKLM\SYSTEM\ControlSet*\Control\DeviceContainers\{*\Properties\{3464f7a4-2444-40b1-980a-e0903cb6d912}\0007\*	Device Installation%f
+
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\CurrentType					Processor architecture
+VT	HKLM\SOFTWARE\Microsoft\Windows Portable Devices\Devices\*\FriendlyName	Portable device
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkCards\*\Description			Model description of installed network card
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\NetworkCards\*\ServiceName			Unique identifier for installed network cards
+
+//	??	HKCU\Software\Ahead\Nero - Burning Rom\Recorder\*\MediaTypes	Nero Recorder %5
+//	??	HKCU\Software\Ahead\Nero - Burning Rom\Recorder\*\(Default)	Nero Recorder %5-
+??	HKCU\Software\Ahead\Nero - Burning Rom\Recorder\Name		Nero recorder
+??	HKCU\Software\Ahead\Nero - Burning Rom\Settings\BrowserDir	Nero BrowserDir
+??	HKCU\Software\Ahead\Nero - Burning Rom\SourceDrive\Name		Nero SourceDrive
+??	HKCU\Software\Ahead\Nero StartSmart\Layout\CacheDate	Nero cache date%e
+??	HKCU\Software\Garmin\*\Settings\LastDevice				Garmin device
+??	HKCU\Software\Garmin\WebUpdater\Settings\LastDevice	Garmin last device
+??	HKCU\Software\Hewlett-Packard\DigitalImaging\Director\CurrentDeviceNew	HP new device
+??	HKCU\Software\Hewlett-Packard\HP Wireless Assistant\WlanDeviceName	HP wireless
+??	HKCU\Software\ImgBurn\DISCOVERY_MRUDeviceName	ImgBurn device
+??	HKCU\Software\LG Electronics\LG PC Suite IV\*\DeviceDB\*\*	LG PC Suite IV device
+??	HKCU\Software\LowRegistry\LG Electronics Inc\LGUserCSTool\GhrModel	LG Model
+NT	HKCU\Software\Microsoft\Ntbackup\Hardware\*	Ntbackup hardware
+??	HKCU\SOFTWARE\Microsoft\Samsung\Samsung PC Studio 3\CurrentPhone\Model		Samsung current phone
+??	HKCU\SOFTWARE\Microsoft\Samsung\Samsung PC Studio 3\CurrentPhone\SN			Samsung phone SN
+??	HKCU\SOFTWARE\Microsoft\VSO\Close Disc\*	VSO drive
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices\*\Label	Autoplay: Known dev %8
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\UserChosenExecuteHandlers\*	Autoplay user chosen %8
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\UserDefaults\*		Autoplay defaults
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\*\WpdDeviceHandler_*\*		Autoplay handler
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\Current Media\*	CD Burning current media
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\Drives\*\Drive Type		Current media %8
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\CD Burning\StagingInfo\*\StagingPath	CD Burning %8
+VT	HKLM\Software\Microsoft\Windows NT\CurrentVersion\EMDMgmt\*\*	EMD Management%t
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\*\BaseClass	Mount points 2%t
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\*\Shell\AutoRun\command\*	Autorun command
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\*\_Autorun\DefaultIcon\*	Autorun Icon
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\*\_Autorun\DefaultLabel\(Default)	Autorun label %7
+??	HKCU\Software\Nero\Nero*\Nero Burning ROM\Recorder\Name	Nero recorder
+??	HKCU\Software\Nokia\PCSync\MRSList\*	Nokia PC Sync
+??	HKCU\Software\RealNetworks\VodafoneMusicManager\Devices\?\*\SyncSpecificPlaylistIds	VodafoneMusicManager device %6
+??	HKCU\Software\Sonic\RecordNow\LastDataPath	RecordNow
+??	HKCU\SOFTWARE\Sonic\RecordNow\Preference\LastRecorder		Sonic last recorder
+??	HKCU\SOFTWARE\Widcomm\BtConfig\General\DeviceName	Widcomm device name
+NT	HKCU\Software\Microsoft\MediaPlayer\Preferences\PDASelectedDeviceName	PDASelectedDeviceName
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Bluetooth\ExceptionDB\Addrs\*\AttemptCount	Bluetooth address %8

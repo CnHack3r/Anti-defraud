@@ -1,0 +1,1489 @@
+﻿Description	Extensions	Header	Offset	Footer	Default size	Flags
+NTFS Dedup container	ccc	Cthr	0
+Apple fsevent	fsevent	(\x31\x53\x4C\x44)|(\x44\x4C\x53\x31)	0
+Program Database	PDB2;pdb	Microsoft C/C++ (MSF #|program database 2)\.00\x0D\x0A\x1A	0
+Windows 8 Virtual Hard Drive	vhdx	vhdxfile.\x00	0
+WhatsApp Encrypted Database	crypt5	\x15\xA0\xF7\x05\x8B\x81\x4E\x08	0			y
+WhatsApp Encrypted Database	crypt8	\x04ASMI-SD	0			y
+Avery Design	ZDX1;zdx	CDIBBM	14
+DivX Temporary Video Info	dinfo	OFND\x00	0
+AVD Video	AVD1;avd;ave	\x00...avfs	0
+Internet Explorer Pinned Site	website	\[\{9F4C2855-9F79-4B39-A8D0-E1D42DE1D5F3\}\]	0
+Lepton	lep	\xCF\x84\x01\x5A.\x00\x00\x00	0
+TB_ARMOR_V1	titanium	TB_ARMOR_V1\x0A	0
+Binary JSON/MongoDB	bson	\x07\x5F\x69\x64\x00	4
+PuTTY log	PUTTY;log;txt	=~=~=~=~=~=~=~=~=~=~=~= PuTTY log	0
+Canon Easy-PhotoPrint	EPP1;epp	\.EPP\x00	0
+MT940-Satz	sta	(\x0D\x0A)?:20:START(UMS|DISP)	0
+Call log	vcl	BEGIN:CALLLOG\x0D?\x0A	0
+Tobit Email	0tx	\xFD\xFF\x06\x07	0
+Apple-Embedded	JPEG8BIM	\x00.{127}\xFF\xD8\xFF[\xC0\xC4\xDB\xE0-\xE3\xE8\xEA-\xEE\xFE]	0			x
+RAR5 Archive	RAR5;rar	Rar!\x1a\x07\x01	0
+iPhone Maps	mapsdata	R	0			W
+MPEG-2 Advanced Audio Coding	aac	\xFF[\xF1\xF9]	0			W
+UN/EDIFACT	edi	UN	0			W
+JS compiled	JS1	\xDE\xC0.{7}\x00[\x02\x03\x0B\xFB][\x00\x01]\x00\x00......\x00\x00	6
+Data Interchange Format	dif	TABLE\x0D\x0A0\,1\x0D\x0A	0
+Flash	swf	ZWS[\x02-\x1B]	0
+DigiCert	CERTS	\xFE\xED\xFE\xED\x00	0			x
+MPEG-DASH	DASH	\x00...(afra\x00|abst\x00|sidx[\x00\x01]|stypmsdh|ftypiso5)	0			x
+GZip (zlib)	gz	\x1F\x8B\x08\x00\x00\x00\x00\x00\x78	0
+LibreOffice Registry	RDB2;rdb	CSMHJ\x2D\xD0\x26	0
+Windows 8 compiled resources	pri	mrm_pri[012]\x00	0
+WinSxS	WINSXS	DCS\x01	0			x
+WinSxS	SDB1	DCD\x01.{8}PA30	0			x
+WinSxS	MANIFEST1;manifest	DCM\x01	0
+IE	metadata	1SPS\x05\xD5\xCD\xD5\x9C\x2E\x1B\x10\x93\x97\x08\x00	8
+Microsoft Office cache	fsf	\xB3\xE2\x48\xEA\xA6\xA1\xDD\x40\xBC\x06\xC7\xC4\x62\x92\x12\x71	0
+Symbols Export	EXP2;exp	\.edata\x00	20
+Microsoft	down_meta	\x68\x00\x74\x00\x74\x00\x70\x00	0
+Ogg Vorbis Speex	spx	OggS\x00\x02.{22}Speex	0
+INTELLEX CCTV	IMG7;img	NTLX.{4,8}INTELLEX	0
+HTTP response	http1	HTTP/1.1[\x20\x0D]	0		1024	x
+DYMO Label	LWL;lwt	Dymo DLS Label File\x2E\x00	0
+RealPlayer Downloads	META1;meta	\.RECRJMD\x00	0
+Gnome keyring	keyring	GnomeKeyring\x0A\x0D\x00	0
+SAP R3	sapr3	\x00\x00SAPR3://	2
+SAP value set	sapv	\x00\x00sapvalueset:	2
+Gateway PHP	php1	AppendToGatewayUrl\x00	8
+Cognos Impromptu Database Report	CAT1;cat	\x9A\x02.{15}\x00\x01\x05\x00[\x00\x01]\x00{42}	0
+FoxPro Report Memo	frt;fpt	\x00\x00\x00(\x40\x00{507}|\x21\x00{504}.{16}\x00\x00\x00)\x01	4			x
+Rawzor compressed raw image	RWZ1;rwz	rawzor	0
+QuickTime Image	qtif	\x00...id(sc|at)	0
+Pixar Image	pxr	\x80\xE8\x00\x00\x01\x00\x00\x00	0
+eBanking/INMATX	QRP1;qrp	\x24\x00\x00\x00(\x01\x00)?GTIGRE\x00	0
+INKA-Kasse	bon	\x00\x00\x0d\xe1\x00\x00\x30\x03	0
+SAGEPAY	SAGEPAY;001	SAGEPAY\x00	0
+Delphi Form	DFM;~dfm;xfm;qr2	object\x20[A-Za-z0-1_]{2,32}:	0
+Harvard Graphics Chart	CHT2;cht	Falc\x00	0
+Harvard Graphics Chart	ch3	HGB3	0
+Photoshop Color Swatch	aco	\x00[\x01\x02]	0			W
+QuickBooks Network Data	nd	//\x20?This is QuickBooks	0
+Moxcel spreadsheet	mxl;mxlz	MOXCEL\x00	0
+prefs.js	MOZILLA;js;zal	\# Mozilla User Preferences\x0D?\x0A	0			x
+CloneCD	sub	\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\x41\x01\x01\x00	0
+Windows 8	PCKGDEP;recovery	ARI8\x00	0
+KDE Desktop	kdelnk	\# KDE Config File\x0A	0
+RCA digital voice recorder	voc	VCP162_VOC_File\x0C	0
+Solution	SOL2;sol	\x02\xB0\x37\x13\x02\x00	0
+Game sound	SOL1;sol	SOL\x00	2
+NXT Brick Audio	rso	\x01\x00\x0F	0			W
+PVF	pvf	PVF1\x0A1\x20	0
+IRCAM SoundFile	ircam	\x64\xA3\x03\x00\x00\x44\x2C\x46	0
+DTS Encoded Audio	dts	\x7F\xFE\x80\x01\xFC\x3C\x7D	0
+Groove	grv;fdt	MIME-Version: 1\.0 \(Groove 2\)\x0D\x0A	0
+GnuPg	GPG1;gpg	\x01gpg	0
+JAR Signatures	sf	Signature-Version: 1.0\x0D?\x0A(Created|SHA1|MD5|Digest)-	0			x
+AFX1	AFX1;afx	RIFF....SEKDSAFX	0
+Nero CoverDesigner	ncd	\x78\xDA	0			W
+3D Animation	anm	IL\x01\x01	0
+ABBYY Lingvo dictionary	lsd	LingVo\x00\x00	0
+ABComp archive data	abcomp	\x03AB2	0
+AC1D-DC1A Packer	ac1d	\xAC\x1D\x00\x00	0
+ACD Systems	cdx	\x0A\x00\xE0[\x00\x01]\x00\x00\x00[\x00\x01]	12			W
+ACDSee thumbnail cache	FPT1;fpt	\x00\x00\x00\x01\x00\x00..\xFF\xD8	512
+ACT! word processor	wpa	WTCA	0
+AES	aes	AES[\x01\x02]\x00	0
+AIN compressed archive	ain	!.\x00{6}	0
+AIX Backup File	bff	\x09\x00\x6B\xEA	0
+AMC Movie	amc	\x20AMC_#\.#\x20	0
+AOL ART	art	\x4A\x47[\x03\x04]\x0E\x00\x00\x00	0
+AOL Address Book	aby	AOLDB-25	0
+AOL and AIM buddy list	bag	AOL Feed	0
+ASP.NET Web Service	asmx	(\x0D\x0A){0,2}<%@ WebService	0
+AT&T Phonebook	pbb	CELLPBK\x0D\x0A	0
+ATI Video Card Recording	vcr	VCR1Recording\x2E\x2E\x2E	0
+AVCHD Thumbnail Index	tid	TIDX0100	0
+AVG Antivirus Vault	fil	(AVG7_ANTIVIRUS_VAULT_FILE|AVG_VAULT\xCD)	0
+AVG Antivirus Vault file	fil	(AVG7_ANTIVIRUS_VAULT_FILE|AVG_VAULT\xCD)	0
+AVS Preset	AVS1;avs	Nullsoft AVS Preset #.#\x1A	0
+AVTECH CCTV Video	vse	\x00\x00\x58\x00787M	0
+AZZ Cardfile	azz	LY1DL Another cardfile - (RTF|TXT)	0
+Ability Office PhotoPaint	apx	SD3S	0
+Ableton Live device group/groove	adg;agr;adv	\xAB\x1E\x56\x78\x03	0
+Absolute Database	abs;epim	ABS0LUTEDATABASEL	0
+Access Data FTK evidence file	FTK1	\xA9\x0D\x00\x00\x00\x00\x00\x00	0
+Access Data File	adf	ADF3..\x00\x00	0
+AceMoney	amj	AMJFILE\x1A	0
+Acrobat Destiller	DDD;pdd;syd;did	tWbc\x00	0
+Acrobat Forms	FDF;acrodata;apf	\x0D?\x0A?\x25(FDF|PPKLITE)-	0
+Acrobat Index	pdx	%PDX[- ]#\x2E	0
+Acrobat search index	idx;htm	\x20{256}	0
+Acronis Backup	tib	\xCE\x24\xB9\xA2\x20\x00\x00\x00	0
+ActivInspire Flipchart	flipchart	\x20Bamboo\x20\x07\x00	0
+Active@Disk Image Backup	adi	BIFH...\x00	0
+ActiveMime Object	mso	ActiveMime	0
+Activstudio	flipchart;profile	\x20Bamboo\x20	0
+Address Book Backup	abbu	(LJ|JL)\x1A\x00\x00	0
+Adobe Authorware Package	a4r	PCRS	0
+Adobe Color Cache	LST2;lst	CPSA\x04\x00\x00\x00	0
+Adobe Color Settings	csf	AsCs\x00	36
+Adobe Extension Script	exv	dialog\(name: \x27	0
+Adobe Flash Player cache metadata	heu	\x30\x00\x31#{12}	0
+Adobe Illustrator Vector Graphics	alc	LTAR\x00\x01	0
+Adobe Image Styler	ist	\xF8\xD2\xBA\x10\x00	0
+Adobe Language	ZDCT1;zdct	\xFF\xFE\x22\x00\x24\x00\x24\x00\x24\x00\x2F\x00	0
+Adobe NCOR	NCOR;dvd	\x0F\xFF\xFF\x0F\x02\x02\x02\x02\x01\x00	0
+Adobe Photomerge	pmg	VISPIECES\x20	0	ENDPIECE\x0D\x0A
+Adobe Photoshop Contours	shc	8BFS\x00	0
+Adobe Photoshop gradient	GRD;psp	8BGR\x00	0
+Adobe Prefs	PSP2;psp;pat	(win\x20|8BPF|8MNU|8BPT|8BSL|win\x20)\x00	0
+Adobe Primiere	pek	\x11\x54\x23\x67[\x01-\x07]\x00\x00\x00	0
+Adobe Save For Web Settings	irs	\x00\x00\x00\x02\x00\x00\x00[\x03\x06\x07]\x00\x00\x00\x00\x01\x00	0
+Adobe-FontList	LST1;lst	%!Adobe-FontList\x20#	0
+Advanced Audio Coding	aac	ADIF\x00	0
+Advanced Forensics Format	aff	AFF10	0
+Advanced Gravis Ultrasound	pat	GF1PATCH	0
+Advanced Image Coding	aic	AIC\x0A	0
+Agent Character	acs;acg	\xC3\xAB\xCD\xAB	0
+Alias	ALIAS1;app	book....mark	0
+Allegro Packfile (compressed)	ALLEGRO	slh!	0
+Allegro Packfile (uncompressed)	allegro	slh\.	0
+Allplan Drawing File	ndw	\x52\x00\x02\x00\xF8\x7F.\x00	0
+Alpha Five Web Components	a5wcmp	A5BLOBST\x00	0
+Alpha Five Webpage	a5w	\x3C\x25a5\x0D\x0A\x27	0
+Amazon Page Number Index	apnx	\x00\x01\x00\x01\x00\x00......\x7B\x22	0
+Amigaguide hypertext document	guide	@database 	0
+Android System File	sbf	P2K Superfile\x00	0
+Android Thumbnail Cache	tdb	\x51\xAE\x01\x00\x00\x00\x00\x00	0
+Android image	IMG4;img	ANDROID!	0
+Android optimized executalbe	ODEX;dex	dey\x0A036\x00	0
+Android thumb	thumb1	[\x00-\x02].[\x00-\x02].\xFF\xD8\xFF\xE0	0
+Animated cursor	ani	RIFF..[\x00-\x08]\x00ACON	0	~33
+Animator Pro Flic	flc	\xAF\x12	0
+Anno Saved Game	sww	ZZZZ	0
+Answer Wizard	aw	\x8A\x01\x0A\x00\x00\x00\xE1\x08	0
+AntiVir	avr	\x00AVR\x01\x00\x00\x00	0
+AntiVir Quarantine	qua	AntiVir Qua\x00	0
+AntiVir Virus Database	VDF2;vdf	Virus Database File\x0D\x0AVersion:
+Aperture_Vault	xtsf	XTSF\x00	8
+AppCrash	wer	\x56\x00\x65\x00\x72\x00\x73\x00\x69\x00\x6F\x00\x6E\x00\x3D\x00\x31\x00\x0D\x00\x0A\x00\x45\x00\x76\x00\x65\x00\x6E\x00\x74\x00	0
+Apple Crash	ips	\{\x22.{6,173}\}\x0AIncident Identifier:\x20	0
+Apple Executable	APPLEEXE;dylib;so	\xCE\xFA\xED\xFE	0			x
+Apple Icons	icns	icns\x00	0
+Apple Retrospect	retrospect	DChF\x00	0
+Apple Speech UI	ssui	ssui\x00	0
+Apple Xcode Project	pbxproj;pbxuser	// !\$\*UTF8\*\$!\x0A\x7B	0
+Apple iOS Img3 encrypted or signed container	IMG3;dfu	3gmI	0			y
+Apple iTunes CD information	cidb	cidb\x00	0
+AppleScript	scpt	FasdUAS	0
+ArCon project	acp	ArCon - Projekt\x00	0
+ArcInfo export	e00	EXP\x20\x20#\x20	0
+ArcView DataBase Index	SHX1;shx;shp	\x00\x00\x27\x0A\x00{20}	0
+ArcView ESRI Coordinate System Definition	PRJ1;prj	(GEOGCS|PROJCS)\["	0
+Arcsoft MultiMedia Email 3.0 message	me3	\x30\x00\x00\x00\x20\x00\x00\x00\x50\x00\x00\x00\xE4\x25\x00\x00\x34\x26\x00\x00	0
+Art Icons Pro - IconCollection	ICC2;icc	ICC0\x01\x00\x00\x00ICON	0
+Art Icons Pro - IconProject	icpr	\xB7ICP	0
+Artweaver Document	AWD2;awd	AWD	0			W
+Asdf movie	csmil	\x00\x00\x00\x8Babst	0
+Ashampoo Photo Commander thumbnail cache	dbc	BGSDB2...\x00	0
+Ashampoo Photo Commander thumbnail cache	dbt	BGSDBIMG...\x00	0
+Aspen HYSYS	hsc	SimulationCase	0
+At Home 2009 Tax Return	t09	\x08\x00\x00\x00\x01\xD9\x07\x06\xFF\xC9\x9A\x3B	0
+At Home 2010 Tax Return	t10	\x08\x00\x00\x00\x01\xDA\x07\x07\xFF\xC9\x9A\x3B	0
+At Home 2011 Tax Return	t11	\x08\x00\x00\x00\x01\xDB\x07\x08\xFF\xC9\x9A\x3B	0
+At Home 2011 Tax Return	t12	\x08\x00\x00\x00\x01\xDC\x07\x08\xFF\xC9\x9A\x3B	0
+At Home 2013 Tax Return	t13	\x08\x00\x00\x00\x01\xDD\x07\x08\xFF\xC9\x9A\x3B	0
+Audacity Plug-In	ny	;nyquist plug-in	0
+Audible audio	aa	\x57\x90\x75\x36\x00\x00\x00	4
+Audio track shortcut	cda	RIFF....CDDAfmt 	0
+Audition	ses	COOLNESS...\x00	0
+Authorware	a4p;a5p;a6p;a7p	ACRS\xBE\xBC\xAD\xAC	0
+AutoCAD Compiled Shape	shx	AutoCAD-86\x20	0
+AutoCAD Drawing Exchange	dxb	AutoCAD DXB 1\.0\x0D\x0A	0
+AutoCAD Fast-load AutoLISP (FAS4)	fas	\x0D\x0A\x20FAS4-FILE ; 	0
+AutoCAD Plot Stamp Settings	pss	PIAFILEVERSION_2\.0,plotstamp	0
+AutoCAD Plotter Configuration	PC3;pmp	PIAFILEVERSION_2\.0,PC3	0
+AutoCAD Plot Style Table	stb	PIAFILEVERSION_[2-9]\.0,STB	0
+AutoCAD Color-Based Plot Style	ctb	PIAFILEVERSION_[2-9]\.0,CTB	0
+AutoCAD Sheet Set	DST2;dst	\xD0\xCD\x14\xE3\xE0\xAC\x1A\xEB	0
+AutoCAD Slide Library	slb	AutoCAD Slide Library #\.	0
+AutoCAD slide	sld	AutoCAD Slide\x0D\x0A\x1A	0
+AutoSketch/QuickCad	skf;cad	\x0A\x00\x00\x00\x00\x0B\x03###[\x03\x04]	0
+Autodesk - Kaydara FBX 3D format	fbx	Kaydara FBX Binary  \x00\x1A	0
+Autodesk template	dwt;dwg	AC10[0-9A-Z]{2}	0
+Avid Editor	avp	DomainDJBO\x00\x07AObjDoc\x04	2
+Avid Editor Bin	avb;ave	DomainDJBO\x07\x00AObjDoc\x04	2
+Azureus	vuze	d4:vuze	0
+B1 Archive	b1	b1:as v:#\.	0
+BIFF5	xls;xlc;xlw;xlm	\x09\x04\x06\x00\x00[\x00\x04\x06]	0
+BIFF8	xls;xlb;xlc;xlw;xlm	\x09\x08\x10\x00\x00\x06	0
+BINK compressed video	BNK1;bnk	RIFF...\x00MONOmdat	0
+BLINK compressed archive	bli	Blink by D\.T\.S	0
+BVRP PhoneBook Index	pkx	BVRP PhoneBook Index File\x00
+BZA compressed archive	bza	\x00\x00BZ2\x00	2
+Backup NOW!	nbf	\x23NBF	0
+Backup Pointer	BUP;ifo	DVDVIDEO-V[MT][GS]\x00	0
+Bag archive	BAG1;bag	BAG11	0
+Bagpipe notation	bww	Bagpipe	0
+Batch	bat;cmd	@?echo off\x0D\x0A	0
+Battlefield 2	cfx	\x01\x08\xFD\xFD	0
+Belastingdienst	ibd	Aangifte IB20##\x0D\x0A\x1A	0
+Bentley Systems	dgn	[\x08\xC8]\x09\xFE\x02[\x00\x01\x02\x08]	0
+BibTeX Log	BLG1;blg	This is (8-bit )?BibTeX, [Vv]ersion #\.	0
+Bill of Materials	bom	BOMStore\x00\x00\x00\x01	0
+BinSCII encoded	bsc	FiLeStArTfIlEsTaRt	0
+Binary ExtendScript	jsxbin	@JSXBIN@ES@	0
+Bink and Smacker	bik	BIKi	0
+Biovision Hierarchy Animation	bvh	HIERARCHY	0
+BitDefender plug-in	xmd	\xC0\x01\xC0\xDE\x05\x00\x00\x00	0
+BitTorrent resume	resume	d1(3:activity-datei|1:active_time)	0
+Bitware Fax	bfx	BIT  FAX0.\x00\x00	0
+BlackBerry encrypted data	rem	REMF\x01\x00	0			y
+Blackberry compiled Java	cod	\xDE\xC0\xFF\xFF\x00\x00\x00\x00	0
+Blender 3D	blend	BLENDER[-_]v#	0
+BlindWrite TOC	b5t;b6t	BWT# STREAM SIGN	0
+Blindwrite	bwt	BLINDWRITE TOC FILE	0
+Blitz3D Entity Model	b3d	BB3D	0
+Blizzard Entertainment archive	MPQ;sc2save;sc2replay;s2sa;s2cs	MPQ[\x1A\x1B]	0
+Blizzard Picture	blp	BLP[12]	0
+Blowfish Encrypted	bfa	\x24\x08\x19\x92\x23\x00\x15\x01	0			y
+Blu-ray information	BDMV;bdm	(INDX|MOBJ|BCLK)0[12]00\x00	0
+Blue Iris Video	bvr	BLUE\x20\x00	0
+BobCAD-CAM	bbcd	CBobCADDoc\xFF\xFF	6
+Bosch Security Systems CCTV Video	dv4	\x00\x00\x00\x01\x1F\x0F\x07	0
+Briefcase	bfc	DDSH\x02\x05\x01\x14\x14\x00\x00\x00\x01\x00\x00\x00	0
+BrioQuery	bqy	\#BRIF 	0
+Brother Embroidery	pes	\#PES0001	0
+Brother PowerNote spreadsheet	spr	\x8F\x85\x01.\x00\x00\x42\x52	0
+Brother Printer	bcm	BROTCI0	48
+Bryce 6 Scene	br6;br7	Bryce_6\.0_File\x00	0
+Bulletproof FTP settings	bps	This is a Bullet Proof FTP	0
+Bzip Compressed Tar Archive	tbz	BZh91AY&SY	0
+CADS Planner	DRW2;drw	\x0DCADS DRW 	0
+CALS raster bitmap	cal;cals	srcdocid:	0
+CAR archive	car	\x1F.\x00\x2D\x6C\x68\x35	0
+Zsoft Multipage	dcx	\x3A\xDE\x68\xB1|\xB1\x68\xDE\x3A	0
+CASL compiled PalmPilot program	csm	CASL\x02	0
+CATIA Drawing	catdrawing;catpart	V5_CFV2\x00	0
+CAXA drawing	EXB1;exb	\x10CaxaEbForWindows	0
+CCTV DVR H.264	irf	ICATCH\x00	0
+CCTV Video	ajp	\xFA\xFF\xFF\xFF\x16\x00\x03\x00\x01\x00\x01\x00	0
+CINEMA 4D model (generic)	c4d	C4DC4D6\x01\x00\x01\xAD\xEB\x00\x00\x00\x00\x01\x00\x01\xAD	1
+CISO Compressed ISO CD image	CSO1;cso	CISO\x00	0
+CLFS Base Log	blf	\x4B\x82\x4C\xC6\x01\x00\x00\x00	12
+CMU format - Andrew Toolkit	cmu	\\begindata\{	0
+COFF object	coff;o;obj	\x4C\x01[\x01-\x54]\x00	0			x
+COM+ Catalog	CLB1;clb;log	COM\x2B	0
+CSS	css	@(charset|import|IMPORT) 	0
+Cakewalk Music Project	wrk	CAKEWALK\x1A	0
+Cakewalk SONAR project	CWP;cwt	Cakewalk	24
+Calamus Vector Graphic	cvg	CALAMUSCVG	0
+Calendar Builder	cbf	\x01\x02\x04\x02\x01\x02.\x02	0
+Canon Photo Info	ctg	:\\DCIM\\	1
+Capella sheet data	cap	cap3-v:a	0
+Capella sheet editor	cag	cap3-cag	0
+CeledyDraw image	cdw	DOCUMENT_IMAGE|D\x00O\x00C\x00U\x00M\x00E\x00N\x00T\x00_	34
+Chessmaster saved game (generic)	cmg	Chessmaster 	0
+ChiWriter document (v3.x or older)	CHIW;chi	\x5C\x31\x63\x77	0
+ChiWriter document (v4.x)	CHIW;chi	\(CHIWRITER 4\.	0
+Chrome cache index	index	\xC3\xCA\x03\xC1[\x00\x01]\x00\x02\x00	0
+Civilization 5 Saved	civ5save	CIV5.\x00\x00\x00	0			x
+Clarion TopSpeed	TPS;rp5	\x00\x00\x00\x00\x00\x02\x00......\x00tOpS\x00\x00	0
+Cleanersoft Free Hide	fhf	Free Hide Folder 	0
+Clip Gallery Download Package	cil	\x53\x00\x50\x00\x4C\x00\x49\x00\x54\x00\x43\x00\x49\x00\x4C\x00	0
+CodeWarrior Project	mcp	CodeWarrior Project	40
+Collage Maker Project	clg	\x00Ver #\.	29
+Compaq Diagnostics	cva	\[CVA File Information\]\x0D\x0A	0
+Compensating Resource Manager	crmlog	\xA3\x35\xA2\x32\xAD\x64\xD1\x11\xB8\x89\x00\xC0\x4F\xB9\x61\x8A	0
+Compiled AutoLISP	vlx	VRTLIB-	0
+Compiled Fast-Load AutoLISP	fas	\x0D\x0A\x20FAS4-FILE ; 	0
+Compiled Java	class;cfc;cfm	\xCA\xFE\xBA\xBE\x00.\x00[\x2D-\x33]	0
+Compiled Java	cod	JM\x00\x00	0
+Comodo Backup	cbu	\xCA\x05\x5E\x15\x70\xC7\x4C\x8A\x6F\x4C\xD5\x85\x6E\x22\x4F	44
+Compiled Shader Object	CSO;fxo;ps;vs	DXBC.{16}\x01\x00\x00\x00	0
+Compressed PostScript	PSZ;z	\x1F\x9D\x90\x25\x42	0
+Computable Document Format	cdf	\(\* Content-type: application/vnd.wolfram.cdf.text \*\)	0
+Computer Associates archive	caz	CAZIP	0
+CoolIris	cache	IM.[\x00-\x02].[\x00-\x02]	0
+Core Audio File	caf	caff\x00	0
+Corel Binary Meta	cmx	CMX1cont	8
+Corel Global Macro File	gms	GMS\x01	0
+Corel Graphics V10 Draw Script Textures Bitmap	udi	UI\x00\x00	0
+Corel Multimedia Manager Album	gal	ASTR\x00\x01	0
+Corel Paint Shop Pro script	pspscript	from (Jasc|PSP)App import \x2A\x0D\x0A	0
+Corel R.A.V.E	clk	RIFF....CAR	0
+Corel Shared Writing Tools	MOR1;mor	\xFFWPC..\x00\x00\x01\x0B	0
+Corel WordPerfect Office template	ast;usr	\x02\x00\x00\x00SDM\x00	0
+CorelCENTRAL Address Book	adb	CorelCENTRAL	0
+CorelDRAW CorelMove animation	cmv	RIFF....cmovDISP	0
+CorelDraw Template	cdt	RIFF...\x00CDT.vrsn	0
+CrazyTalk Model	ctm	xm0\x00	0
+Creative Labs Audio	nvf	NVF\x20\x01\x00\x00\x00\x20\x00\x00\x00\x56\x46\x4D\x54\x01\x00\x00\x00\x14\x00\x00\x00\x00\x7D\x00\x00\x00\x00\x01\x00\x40\x1F	0
+Creative Music File	cmf	CTMF	0
+Credentials	DAT6	\xD0\x8C\x9D\xDF\x01\x15\xD1\x11\x8C\x7A\x00\xC0\x4F\xC2\x97\xEB	16
+CrystalMaker Data format	cmd5;cmdf	CM.{30}REND	0
+Cubase Project	cpr	RIFF....NUNDROOT	0
+Cult3D object	co	C3DF0940	0
+Cursor	cur	\x00\x00\x02\x00[\x01\x02]\x00(\x20\x20|\x30\x30)	0		4000
+Cyberboard Game	gam	GAME	0
+Cyberboard Move	gmv	GMOV	0
+DAR Disk Archive	dar	DAR:8\x01	0
+DAX compressed CD image	dax	DAX\x00	0
+DAZ Studio 3D Scene	daz	DAZB.\x00	0
+DB/TextWorks Database Indexed List	ixl	IXL 002 	0
+DB2 Bind File	bnd	BIND( V02|V710)	0
+DB2 conversion file	cnv	SQLOCONVHD\x00\x00[12]\.0	0
+DICOM directory	DICOMDIR;dcm	DICM\x02\x00\x00\x00	128
+DICOM medical imaging bitmap	DICOM;dcm	\x00{28}DICM	100
+DNA Electropherogram	ab1	ABIF\x00etdir	0
+DNL eBook	dnl	\xA5\x9D\x7A\x18	0
+DRM Cache	BLA1;bla	PRKF\x00	0
+DSD Audio	dff	FRM8\x00\x00\x00\x00	0
+DST compressed	DST1;dst	DSTb	0
+DVR365 Video	dav	(DHAV|DAHUA)	0
+DXM music	dxm	MCDF	0
+Dalvik	dex	dex\x0A0##\x00	0
+Database Source Name	DSN1;dsn	(// This is Database Source Name File|\[ODBC\])	0
+Database-Packed File	package;sc4	DBPF	0
+DeLorme Street Atlas route	anr	\x2D\x32\x08\x00\x02\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00	0
+Debian Linux Package	deb;udeb	!<arch>\x0adebian-binary	0
+Delphi Compiled Unit	dcu	(\xDD\x00\x00\x0E|\xDF\x00\x00[\xFF\x0F]|\x4B\x23\x00\x18|\x4B\x03\x00\x17)	0
+Delusion Digital Music	DMF1;dmf	DDMF	0
+DemoShield Project	dbd	aLuZkUtZ\x2C\x00\x00\x00	0
+Design Web Format	dwf	\(DWF V0#\.##\)(PK|\x7B\x00)	0
+Desktop link	desktop;directory	\x0A?\[Desktop Entry\]\x0D?\x0A	0
+Desktop.ini	INI1;ini	(\x0D\x0A)?\[(\.ShellClassInfo|DeleteOnCopy|LocalizedFileNames|ExtShellFolderViews)\]\x0D\x0A	0	~56
+Developer Studio Project	dsp	\# Microsoft Developer Studio Project File	0
+Developer Studio Workspace	dsw	Microsoft Developer Studio Workspace File	0
+Device Independent Document (TeX/LaTeX compiled)	dvi	\xF7\x02\x01\x83\x92\xC0\x1C\x3B\x00\x00\x00\x00	0
+Diablo II Saved Game	d2s	\x55\xAA\x55\xAA.\x00\x00\x00	0
+Dial-Up Phone Book	pbk	\x00\x00\x00\x00BIGF	44
+DiamondWare Digitized audio	dwd	DiamondWare Digitized	0
+Digital Speech Standard audio	dss	\x02dss	0
+DigitalVDO Compressed Video	vgz	\x20XGV\x00\x00\x00\x00	0
+Digitrakker	mdl	DMDL\x11\x49\x4E.\x00\x00\x00	0
+DirectX DirectDraw Surface	dds	DDS\x20\x7C	0
+Disk Masher Image	dms	DMS!	0
+DocuWorks	xdw	\x60\x0E\x82\x01[\x07-x0A]\x80\x03\x00	0
+Documented LaTeX	dtx	% \\iffalse	0
+DownLoadable Sound bank	dls	RIFF....DLS 	0
+Dreamweaver Site Cache	dws	\xAC\xDC\xDE\xFA\x00	0
+Dreamworks Resource	blb	FORM\x00...IFRSRIdx\x00	0
+Drive Snapshot	sna	SNTE	0
+DriveCam Video	dce	STRT.{28}RCFG	0
+DynaDoc	wdl	DDocFB\x06	0
+Dynamic dictionary.dat	dyndict	DynamicDictionary-[45]\x00	0
+Dzip compressed archive	dz	\x44\x5A\x02\x09	0
+EDGE Diagrammer diagram	edg	EDGE Diagram File\x0D\x0A	0
+EDIF Netlist	edn	\(edif\x20	0
+ELF 64-bit NEXE	elfn;nexe	\x7FELF[\x01\x02]\x01\x01\x7B.......\x00\x02	0
+ELSTER2006	w06;p06	AKAD\x00\x0C\x00[\xD5\xD6]\x07	0
+EPSON Print CD	ec3;ec4;tc4	\x01\x00\x00\x00EPSON Print	0
+ESET Quarantine	ndf	EQDF	0
+ESRI Spatial Index	sbx;sbn	\x00\x00\x27\x0A\xFF\xFF\xFE\x70\x00\x00\x00\x00\x00\x00\x00\x00	0
+EST2006	p06	AKAD\x00\x0E\x00\xD6\x07	0
+EST2007	est2007	AKAD\x00\x0E\x00\xD7\x07	0
+EST2008	est2008	AKAD\x00\x0E\x00\xD8\x07	0
+EST2009	est2009	AKAD\x00\x0F\x00\xD9\x07	0
+EST2010	est2010	AKAD\x00\x0F\x00\xDA\x07	0
+EST2011	est2011	AKAD\x00\x0F\x00\xDB\x07	0
+EST2012	est2012	AKAD\x00\x0F\x00\xDC\x07	0
+EUR2014	EUR2014;s98;s99;tag	R&S\x1A	0
+EaseUS Todo Backup	pbd	(FIMG|IMGF)..\x00\x00	0
+Easy CD Creator 5 Layout	cl5	\x10\x00\x00\x00.\x00\x00\x00\x01\x00\x00\x00\x11\x00\x00\x00	0
+Easy CD Creator image	cif	RIFF....imag	0
+EasyLanguage Document	eld	\x01\x00\x4D\x57\x52\x4BArea\x2E\x77\x72\x6B\x00\x4F\x52\x43\x4D\x50	0
+EasyLanguage Storage / Archive	els;ela	\x01\x00.MASTER\.MST\x00	0
+Elaborate Bytes/SlySoft CloneCD	ccd	\[CloneCD\]\x0D\x0AVersion=	0
+Elder Scrolls Plugin	esp;esm	TES[34]..\x00	0			x
+Elder Scrolls Saved Game	ess	(TES4SAVEGAME\x00|TESV_SAVEGAME)	0
+Electronic Book Exchange	ebx	InStart eBOOK	0
+Emacs Lips	elc	;ELC\x14\x00\x00\x00	0
+Email	eml	Return-[pP]ath: 	0
+Embedded OpenType Font	eot	[\x01\x02]\x00\x02\x00.{20}[\x00\x04\x08]\x00LP	8
+Embroidery (generic)	dst	LA:	0			W
+EnCase Script	EnPack	\x45\x6E\x46\x09\x0D\x0A\xFF\x00	0
+EnCase case	cas	_CASE_	0
+Encore musical notation	enc	SCOW	0
+EndNote Style	ens	\x00\x08\xFF\x00\x00\x00\x10\x00RSFTSTYL	0
+EndNote connection	enz	ENDNENZ3\x00	0
+EndNote library	enl	\x20\x20\x40\x40\x40\x20\x00\x00\x40\x40\x40\x40	30
+Ensoniq EPS	efe	\x0D\x0AEps File:	0
+Ensoniq WaveSet Format	ECW1;ecw	ECLW	0
+Entrust Entelligence Security Provider	ent	\[ENTRUST ARCHIVE START\]\x0D\x0A	0	\[ENTRUST FILE END\]\x0D\x0A
+Entrust Entelligence profile	epf	\[Password Token\]	0
+Envoy document	evy	\xB2\x97\xE1\x69...\x00\xF9\xFF\xFF\xFF\x08\x00	0
+Epson Printer	fd2	EPPIF\x00	0
+Ericsson eMelody ringtone	emy	BEGIN:EMELODY\x0D\x0A	0
+Eudora email	eml	Date:\x20[0-9A-Za-z :\-]\x0D\x0AFrom:\x20	0
+Euro Reisekosten	erk	ERK\.V#	0
+Event template	wevt	CRIM...\x00	0
+Evermore EIOffice doc binder	eio	\x00\x00\x0F\xFF\xFF\xFF\xFF\xFF\x01\x00\x45\x00\x56\x00\x45\x00\x52\x00\x4D\x00\x4F\x00\x52\x00\x45\x00	0
+Evernote	snippets	ENS0...\x00	0
+Evernote	thumbnails	ENT0...\x00	0
+Evidence File	e01	EVF\x09	0			x
+Excel ODBC Query	dqy	XLODBC	0
+Exchange Shortcut	xnk	\x05\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00	0
+Expression Encoder Log	xel	\x5A\x37\xAB\xEF\x0A\x00\x00\x02	0
+Extensible forms description	xfdl;xfd	application/vnd.xfdl;	0
+Eyemail Video Recording	eye	eyemailvid	0
+FIG vector drawing	fig	\#FIG #\.	0
+FLAC lossless compressed audio	FLAC;fla	fLaC	0
+FLP2	FLP2;flp	PARSONS TECHNOLOGY RESOURCE DATA FILE\x1A	0
+FLV2	FLV2	\x00\x00\x00\x02\x00\x0AonMetaData	8
+FMOD Sample Bank Format	fsb	FSB[3-5]...\x00	0
+FUJIFILM RAW	raf	FUJIFILMCCD-RAW\x20	0
+FaceTheMusic module/song	ftm	FthmFDoc	0
+FamilyTree Maker compressed backup	fbc	Family Tree Maker	0
+Farandole Composer	fsm	FSM\xFE	0
+FastCAD Windows	fcw	FCW \(FastCAD for Windows\)	0
+FileGuard	fileg;benc	d10:\.fileguard	0
+FileMaker Pro 7	fp7	\x00\x01\x00\x00\x00\x02\x00\x01\x00\x05\x00\x02\x00\x02\xC0HBAM7	0
+FilePackager Configuration	fxc	\xAD\xDE\xC5\xF8\x03\x00\x00\x00	0
+Final Cut project	fcp	\xA2\x4B\x65\x79\x47\x0A\x0D\x0A	0
+Final Draft document	fdr	\xFD\xFD\xFD\xFD\x00	0
+Final Fantasy Game Archive	lgp	\x00\x00SQUARESOFT	0
+Finale (generic binary format)	MUS;fan	ENIGMA BINARY FILE\x00	0
+Finale Enigma Tansportable	etf	ENIGMA TRANSPORTABLE FILE\x0D\x0A	0
+Firebird database	FDB1;fdb	\x01\x00\x39\x30	0			x
+Firefox Session	session	\[SessionManager v2\]\x0D\x0A	0
+Flash Color Set	clr	\xFF\xFF\x00\x00\x0A\x00\x43\x43\x6F\x6C\x6F\x72\x4C\x69\x73\x74	0
+Flash Debug	swd	FWD..\x00\x00	0
+Flash JavaScript	jsfl;ejsf	\x00\x00MACROMEDIAOBFU	0
+Flexible Image Transport System	fits	SIMPLE  =\x20{20}T	0
+Adobe Font	pfa;gsf	%!(FontType1|PS-AdobeFont)	0
+Form*Z Project	fmz	\xFF.\xFF.\xFF\x17\xFF.\xFF\x50\xFF\x1A\xFF\x19\xFE\xE9\xFE	0
+FormDocs	fdd	\x00\x00\x00\x04\x00\xFC\x00\x00\x20\x00\x00\x00\x01\x00{13}\x20\x00\x00\x00\x00\x02\x00\x00\x45\x1A\x0D\x82	0
+Formatta Filler	pff	PFF\x00	0
+Fotobuch	CPR1;cpr	\xEC\xCE\x00\x01\x00\x00\x00\x01\x00\x00	0
+Freehand 11 Project	fh11	\x1C\x01\x00\x00\x02\x00\x04\x1C\x01\x14\x00\x02\x00\x14\x1C\x01\x16\x00\x02\x00\x09\x1C\x01\x1E\x00\x0AFreehand	0
+FritzBox	export	\x2A\x2A\x2A\x2A\x20FRITZ!	0
+Frontpage VTI	CNF	vti_encoding:	0			x
+FruityLoops Track	flp	FLhd	0
+Fuzzy Bitmap	fbm	%bitmap	0
+GAEB	p86;p83;p81	\#begin\[GAEB\]\x0D\x0A	0
+GAEB 1990	d83	(00        83L   |T0              )	0
+GEDCOM Family Tree	ged	0 HEAD ?\x0D\x0A1\x20	0
+GEM Raster	IMG1;img	\xEB\x3C\x90\x2A	0
+GID Help index	gid	\x3F\x5F\x03\x00...\x00\xFF{4}	0
+GIMP Brush	gbr	\x00\x00\x00\x01GIMP\x00\x00	16
+GIMP Palette	gpl	GIMP Palette\x0A	0
+GIMP gradient	ggr	GIMP Gradient\x0AName:	0
+GIMP pattern	PAT2;pat	GPAT	0
+GNU Machine Object	GMO;mo	\xDE\x12\x04\x95	0
+GPS Ephemeris data	ee	\x11\x11\x17	0
+GUEmap document	gmp	\xC7\x55\xC5\x6D\xE1\x70	0
+Gallery3D	imgcache	\x10\x85\x24\xBD.{12}\x04\x00\x00\x00	0
+Gambit Extensive Form representation	efg	EFG . 	0
+Gambit Normal Form representation	nfg	NFG . 	0
+Game Boy Color ROM	gbc	\xCE\xED\x66\x66\xCC\x0D\x00\x0B\x03\x73\x00\x83\x00\x0C\x00\x0D\x00\x08\x11\x1F\x88\x89\x00\x0E\xDC\xCC\x6E\xE6\xDD\xDD\xD9\x99	0
+Game Maker 6 project	gm6	\x91\xD5\x12\x00\x58\x02\x00\x00	0
+Game Video	roq	\x84\x10\xFF\xFF\xFF\xFF	0
+GameBryo	nif	Gamebryo File Format,	0
+GameCube 3D Model	bmd	BMD\x0a	0
+Garmin	trip	TRPL\x00	0
+Garmin Map	IMG1;img	DSKIMG\x00	16
+Garmin MapSource data	mps;gdb	MsRcd\x00	0
+Garmin Mapsource	gdb	MsRcf\x00	0	\x02\x00\x00\x00\x56\x00\x01
+Garmin Waypoint	trk;wpt	(G  WGS 84|H  SOFTWARE NAME &)	0
+Garmin basemap	IMG2;img	\x00{8}.{8}DSKIMG	0
+Garmin vechicle images	SRF2;srf	GARMIN BITMAP 01	0
+Garmin voice file	vpm	AUDIMG###	0
+Generic CADD 6 drawing	GCD2;gcd	\x03\xEA\x04\x00\x00[\x14-\x16]GENERIC CADD	0
+Generic Playlist	pls	\[playlist\]	0
+Gens Plus! movie capture	gir	GMV\x00	0
+Gens movie capture	GMV1;gmv	Gens Movie\x20	0
+Geometer's Sketchpad Document	gsp	GSP4	0
+Geosystem Digitals Map	dmf	GeoSystem DMF, Version	0
+Gerber Photoplot	pho	\x2A\x0D\x0A\x2A\x0D\x0AG04	0
+Gerber Scientific plot	PLT2;plt	Gerber Scientific Products GRAPHIX ADVANTAGE	2
+Gerber1	GBR2;gbr	G[\x20\x21\x28\x29\x2B-\x7E]{3,127}\x2A\x0D?\x0A	0
+Gerber2	GBR2;gbr	%[\x2A0-9A-Z]{3,32}\x2A%\x0D?\x0A	0
+Global Application Class	asax	<%@ Application	0
+Global Catalog	cblg	cblg\x01	0
+GoDaddy certificate	p7x	PKCX0	0
+Google Desktop	cf1	TRCF\x1B\x00\x00\x00	0
+Google Desktop	ht1	TRNH\x1B\x00\x00\x00	0
+Google Earth shader	arbfp1	!!ARBfp1\.0\x0D?\x0A	0
+Google Earth shader	arbvp1	!!ARBvp1\.0\x0D?\x0A\x23	0
+Google video pointer	gvp	\# download the free Google	0
+Grand Theft Auto Replay	REP1;rep	GtaSA	0
+Granny 3D	gr2	\x29\xDE\x6C\xC0\xBA\xA4\x53\x2B	0
+Graphic Object Bitmap	gro	HPHP48-.\x1E\x2B	0
+Graphics Workshop for Windows Thumbnail	thn	THNL	0
+Graphlet File Format	gml	graph \[	0
+Graphtec Vector	GSD;gsp	GRAPHTEC PRT&CUT	0
+Guitar Pro 6 tablature (compressed)	GPX1;gpx	BCFZ	0
+Guitar Pro Tablature	gtp;gp3	\x19FICHIER GUITARE PRO v#\.	0
+Guitar Pro tablature	gp3;gp4;gp5	\x18FICHIER GUITAR PRO v#\.	0
+HCLab document	hcg	\#HCZ2\#\x0D\x0A	0
+HDF5 data	h5	\x89HDF\x0D\x0A\x1A	0
+HOLUX Waypoint	wpo	\x31\xA6\x38\x5C	0
+HP Photosmart	yos	\#\#\#FermataDB\#\#\#	0
+HP Raster Transfer Language	RTL;plt;prn	\x1B%-12345X@PJL	0
+HP Software Restore	PAQ1;paq	DS\x00	0
+HPGL Plot	plt	BPINPS	0
+HandStory eBook	hsb	\x00\x00\x01\x03	30
+Handy Address Book	ABK2;abk	ab\x00\x00	0
+Hangul (Korean) Word Processor document	hwp	HWP Document File V	0
+Harvard Graphics presentation	sh3	HHGB1	0
+Hierarchical Data Format Release 5	he5	\x89HDF\x0D\x0A\x1A	0
+HighMAT	hmt	HMTd	5
+Hitachi Raster Format	hrf	CADC/KR RST	0
+Homeworld 2 Graphics	rot	FORM\x00\x00\x00\x14HEAD	0
+HotDocs answer	ans	\xFF\xFF\xFF\xFF\x00\x02\x00\x00	282
+Husqvarna Embroidery	hus	\x5D\xFC\xC8\x00	0
+HydroCAD Prefab	HCC1;hcc	// HydroCAD Storage Chamber	0
+HydroCAD Project	hcp	\[HydroCAD\]	0
+Hyper File Database	fic	PCS\x00\x14\x00\x00\x00\x01\x00\x07\x00	0
+Hyper File memo	mmo	PCS\x00\x14\x00\x00\x00\x03\x00\x07\x00	0
+Hyper WinDev Index	ndx	PCS\x00\x14\x00\x00\x00\x02\x00\x07\x00	0
+HyperTerminal data	ht	HyperTerminal 1\.0 --	0
+I.R.I.S. OCR data	ytr	IRIS group\x00	2
+IBM Lotus Organizer	or2	\x10\x4B\x04\xB3\x00	0
+IBM Lotus Organizer	or3	\x18\x4B\x04\xB3\x00	0
+IBM Lotus Organizer	or4	\x20\x4B\x04\xB3\x00	0
+IBM Lotus Organizer	or5	\x28\x4B\x04\xB3\x00	0
+IBM Lotus Organizer	or6	\x30\x4B\x04\xB3\x00	0
+IBM Softcopy Reader (Bookmanager) Bookshelf (and Book) index	bki	\x00\x00\x00\x00\xF1\x4B\xF2\x40	0
+IBM Softcopy Reader (Bookmanager) book	bks	BKSHELF=	0
+ICC profile	icc;icm	(mntrRGB\x20|prtrCMYK)	12
+ID Software Sprite format	SPR2;spr	IDSP\x02	0
+IE cache/history	INDEXDAT	Client UrlCache 	0	~34
+IIS Internet Service Provider	isp	\[ISP INFO\]	0
+IIS Smooth Streaming Video	ismv;isma	ftypisml\x00	4
+IKEA Kitchen Planner	fpf	\x00\x00\x00\x00\x02\x00\x00\x00\x0B\x00\x00\x00\x0C\x00\x00\x00\x04\x00\x00\x00\xFF\xFF\xFF\xFF\x00\x00\x00\x00\x0C\x00\x00\x00	0
+IP camera video	hgd	dbhd\x00	4
+ILook Image	asb	\x7FRiPed_By_ILookImager	0
+Impulse Tracker module	it	IMPM	0
+Incredimail AB	imb	Incredimail AB version [12]\.00\x00	4
+Incredimail contacts export	imh	\x56\x23\x30[\x34\x35]\x3C\x12\x08\x49\x17\x09\x45\x3E	0
+Indeo video	ivf	\x50\xEF\x81\x19\xB3\xBD\xD0\x11vA3\xE5\x00\xA0\xC9\x24\x44\x37	0
+Infinity Engine world map (v1.0)	wmp	WMAPV1\.0	0
+Information Magic data	IMR1;imr	INFORMATION MAGIC\x0D\x0A	0
+Information Workshop 2000 data	iw2	INFORMATION WORKSHOP 2000\x0D\x0A	0
+Informix Wingz	wkz	WNGZ	0
+InstallShield (Script)	ins	\xB8\xC9\x0C\x00	0
+InstallShield CAB	CAB2;cab;hdr	ISc\x28..\x00[\x01\x02]	0
+InstallShield Compiled Rules	inx	aLuZ\x00\x00Copyright	0
+InstallShield Response	ISS;log	\[InstallS.{5} Silent\]\x0D\x0AVersion=v	0
+InstallShield Uninstall Script	isu	\x71\xA8\x00\x00\x01\x02	0
+InstallShield Z	Z0;z	\x13\x5D\x65\x8C\x3A\x01\x02\x00	0
+InstallShield compressed	??_	\x2A\xAB\x79\xD8\x00\x01\x00\x00Copyright	0			x
+ISH Compressed Archive	ish;vdi	\x3C\x3C\x3C\x20	0
+Intellisync config	ISH1;ish	\x00\x00\x02\x00ish\x00	48
+Interchangeable Preservation	ipf	CAPS.{8}INFO	0
+Inventory	iii	JL\x1A	0
+Irix executable	n32	\x7FELF\x01\x02\x01\x00\x00\x00	0
+IsoBuster image backup	ibp	IBP file	0
+J Wavelet Image	wic	\xFA\xDE\xBA\xBE\x01\x01	0
+JAlbum Thumbnail	thumb	\x07\x00\xCD\xAB	0
+JPEG non-standard	JPG;jpeg;jpe	\xFF\xFF+\xD8\xFF[\xC4\xDB\xE0-\xE3\xE8\xEB\xED\xEE\xFE]	0
+JPEG 2000 Image	jpf;jpx	\x00\x00\x00\x0C\x6A\x50\x20\x20\x0D\x0A......ftypjpx\x20	0
+JPEG 2000 multi-layer image format (ISO 15444-6)	jpm	\x00\x00\x00.ftypjpm\x20	12
+JPEG Network Graphics bitmap	jng	\x8BJNG\x0D\x0A\x1A\x0A\x00\x00\x00\x10JHDR	0
+JPEG XR (AKA HD Photo, Windows Media Photo)	wdp;jxr	\x49\x49\xBC	0
+JPEG-2000 Code Stream bitmap	jpc;jp2	\xFF\x4F\xFF\x51\x00	0			x
+JPEG-LS	jls	\xFF\xD8\xFF\xF7\x00	0
+JRun server application	jsa	\xA2\xAB\x0B\xF0	0
+JScript Encoded	jse	\x23\x40\x7E\x5E	0	\x23\x7E\x40\x00
+Jasc PSP Browser Cache	jbf	JASC BROWS FILE\x00	0
+JasperReports Data	jasper	\xAC\xED\x00\x05\x73\x72\x00\x028	0
+JasperReports Print	jrprint	\xAC\xED\x00\x05\x73\x72\x00\x027	0
+Java Applet Cache	JIDX;idx	[\x00\x01][\x00\x01]\x00\x00\x02[\x5A\x5B\x5D]\x00\x00	0
+Java Applet Cache (old)	JIDX;idx	\x10\x00.http://	0
+Java Application Descriptor	jad	MIDlet-	0
+Java Deployment	lap	\x23LAP\x0D\x0A\x23	0
+Java KeyStore key database	keystore	\xFE\xED\xFE\xED\x00\x00	0
+Java Manifest	MF;jad	Manifest-Version:\x20	0			x
+Java Script	JS;aspx	(\x20?document\.write\(|\(function\([a-z]?\)\{)	0	\x00	12000
+Java Server Page	jsp	\x0A?<%@\x20?page (language|import)=\x22	0
+Java Zone Info	ZI	javazi\x00\x01	0
+JavaScript	js;css	\x2F\x2A[\x0A\x20]{1,5}HTTP Host:\x20	0
+JavaScript Class	cls	\xFA\xCE\xFA\xDE	0
+Jeff's Image Format bitmap	jif	JIF99a	0
+Jet-VoiceMail audio data	cvf	COWONVF	0
+JungUm Office Document	gul	SAMSUNG 	0
+KDE cache	kdecache	\x41\x0A\x00\x00\x00\x00\x00[\x00-\x05]\x00\x00\x00\x00.{24}http	0
+KODAK EASYSHARE	mbb	MediaEngine(4|FMT6)\x00	0
+Kaspersky	KDC1;kdc	KDC1\x00	0
+Kaspersky	kli	KLsw0\x00\x0D\x0A	0
+Kaspersky	vnd	KLsw5\x00\x0D\x0A	0
+Kaspersky Anti-virus DB	avc	AVP Antiviral	0
+Kaspersky Lab Key	KEY1;key	KLsw	0
+Kaspersky Lab black list	lst	KLBL	0
+KeePass password db	kdbx	\x03\xD9\xA2\x9A\x67\xFB\x4B\xB5	0
+KeyNote notes	knt	\#!GFKNT #\.0	0
+Keyboard macro	ekm	KMAP\x02\x00	0
+Keypass Database	kdb	\x03\xD9\xA2\x9A\x65\xFB\x4B\xB5	0
+Kindle Topaz eBook	TPZ;prc;azw	TPZ0	0
+Kinkos Photo	kdf	\xFE\xFF\x6B\x64\x66\x20\x00\x01	0
+Korg Trinity Song	sng	KORG	0
+Korg Trinity/Triton	kmp	MSP1	0
+Korg Trinity/Triton sample	ksf	SMP1	0
+Korg Trinity/Triton script	ksc	\#KORG Script Version\x20	0
+Kremlin Encrypted Container	krm	\x0C(\x00|\x01){6}\x10\x27\x01\x01\x00{9}KRM	0			y
+Kurzweil 2000 sample	krz	PRAM\x00\x00	0
+LEICA/Panasonic RAW	raw	IIU\x00	0
+LHA Compressed	lha	\x2Dlh[056d]\x2D	2
+LOGO!Soft Comfort Circuit	lsc	\xAC\xED\x00\x05\x77	0
+LU Library Archive	lbr	\x00 {11}\x00\x00	0			W
+LZIP	lz	LZIP\x01	0
+LZMA archive	lzma;lz	\x5D\x00\x00	0			W
+LZW Compressed	z	\x1F\x9D\x90	0
+LZX archive	lzx	LZX\x00	0
+LaTeX Auxiliary	aux	\x5Crelax\x20\x0D?\x0A	0
+LabVIEW Measurement	lvm	LabVIEW Measurement\x09	0
+Label Home document	lhd	LMD\x00	0
+Landmarks	LMK1;lmk	ASDB1\x04	0
+Lecturnity Player	lpd	EPFH	0
+Legato Letter	ltr	LTAR\x00\x01	0
+Lexware	btw	FC\x00\x00\x01\x00\x00\x00\x00...\xFF\xFF\xFF\xFF	0
+Liberty Video Recording	DCR1;dcr	HGCRLCRS...\x00	0
+LightWave 3D Object	lwo	FORM....(xLWO|LWO2TAGS)	0
+LightWave 3D Scene	lws	LWSC	0
+Lightroom index	noindex;lrprev	AgHg\x00	0
+LimeWire/FrostWire	props	\#(LimeWire|FrostWire|Mojito)\x20	0
+Limewire Kademlia	mojito	\x00\x00\x00\x0F\x00\x05CRC32	0
+Lineage II Replay	l2r	\x17LineageII Replay File	0
+Linguistic	hsp	FEP1\x00	0
+Linker Database	ilk	Microsoft Linker Database\x0A\x0A?\x07\x1A	0
+Linux kernel	vmlinuz	\xEA\x05\x00\xC0\x07\x8C\xC8\x8E\xD8\x8E\xC0\x8E\xD0\x31\xE4\xFB	0
+Liquid Audio	lqt	Lick\x00\x00\x00\x02\x00	0
+ListPro data	clf	\*Ilium Software\*\x0D\x0A\x0D\x0AThis is a ListPro	0
+Lotus 1-2-3 release 3.x spreadsheet	fm3	\x00\x00\x1A\x00\x07\x80\x01\x00\x00\x00\x00\x00\xFF.\xFF\x1F	0
+Lotus Ami Pro	AMI;sam;smm;sty	\[ver\]	0
+Lotus Approach database index	adx	\x03\x00\x00\x00APPR	0
+Lotus Domino Key Ring	kyr	7H\x01\x01\x00\x00\x00\x00	0
+Lotus Freelance Graphics	pre	\x00DEBR	3
+Lotus Freelance graphics	prz	\x00\x01\x0F\x00FREELANCE	0
+Lotus Notes	nsf;ntf;ndk	\x1A\x00\x00[\x03\x04]\x00\x00	0
+Lotus Picture	PIC1;pic	\x01\x00\x00\x00\x01\x00\x08\x00	0
+Lua Bytecode	OUT;cls	\x1BLua[@P]	0
+Lua Player for PSP	LUAC;lua	\x1BLuaQ\x00	0
+Lumix Raw	rw2;rwl	IIU\x00	0
+LuraWave Format bitmap	lwf	\x57\x56\x02\x00\x47\x45\x00\x0E\x00\x00	0
+LyX document	lyx	\#LyX #\.#	0
+MAGIX Hard Disk Project Audio	hdp	RIFF....SEKDSHDP	0
+MNG-PNG	mng	\x8AMNG\x0D\x0A\x1A\x0A	0
+MOD camcorders information	moi	V6\x00\x00	0
+MOZART Music Document	mz	DMWMZ:	0
+MP2	mp2	\xFF[\xFC\xFD]	0			W
+Fragmented MP4 Video	mp4	moof\x00	4
+MPEG	mpg;mpeg	\x00\x00\x01\xB3	0
+MS C++ Precompiled Header	pch	VCPCH0\x00	0
+MS C/C++ program database	VCB;pdb;ncb;idb	\x0D\x0A\x1AJG\x00	37
+MS Excel v1	xls	\x09\x00\x04\x00[\x00\x02\x04\x07]\x00\x10\x00	0
+MS Excel v2	xls	\x09\x02\x06\x00[\x00\x02\x03\x04\x07]\x00\x10\x00	0
+MS Excel v4	xls	\x09\x04\x06\x00[\x00\x02\x04\x07]\x00\x10\x00	0
+Pfaff Embroidery	pcs	\x32\x03\x10\x00	0
+MS Paint	MSP1;msp	LinS	0
+MS PlayReady/DRM	HDS1;hds	\xCB\xE1\xC8\xDE\x41\xA5\x73\x92\xE8\x25\x2D\x1D\x69\x91\x88\xED	4
+MS Policy	pol	PReg\x01\x00\x00\x00	0
+MS Visual FoxPro 7	fxp	\xFE\xF2\xFF	0			x
+MS Windows Journal	jnt;jtp	NB\x2A\x00	0
+MS Word 2	doc	\xDB\xA5\x2D\x00	0
+MS Word for DOS v6	doc	\x31\xBE\x00\x00\x00\xAB\x00\x00	0
+MS WordPad	DOC1;doc	\x9B\xA5\x21\x00	0
+MS legacy compression	szdd	SZDD\x88\xF0	0			x
+MS legacy compression	kwaj	KWAJ\x88\xF0	0			x
+MSIE icon cache	icache	\xCA\xC0\xE1\x01\x04\x00\x00\x00	0
+MSIE icon cache (XP)	icache	Win4[\x05\x06]\x05	4
+MSN6	MARS	MARS\x04\x00\x00\x00	0
+MSSQL	mdf;ldf;adf	\x01\x0F\x00\x00[\x00\x08][\x00-\x02]\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[\x01\x02]\x00\x63\x00\x00\x00	0
+MSSmallBusiness	CACHE1;cache	\x7D\xE5\xA3\x19\x03\x00\x00\x00	0
+MTV Movie	amv	RIFF....AMV LIST	0
+MUI	mui	\xCD\xFE\xCD\xFE..\x00\x00	0
+Mac Adobe InDesign document	InDesign	InDdInDn	65
+Mac Adobe Type 1 Font	lwfn	LWFNASPF	65
+Mac AppleSingle encoded	_as	\x00\x05\x16\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00	0			x
+Mac OS X Installer	vise	SVCT	0
+Mac OS X Universal Binary executable	OSX;cls;class	\xCA\xFE\xBA\xBE	0
+MacDraft drawing	mdd	MDDC20	0
+MacDraw drawing	macdraw	DRWGD2	0
+MacWrite II document	mcw	\xFE\x37\x00.\x00\x00\x00	0
+Mach-O	xcode	\xCE\xFA\xED\xFE	0
+Macintosh Application (MacBinary)	macapp	APPL.....\x00	65
+Macintosh Clipping - Picture	clpp	clpp.{8}\x00	62
+Macintosh Clipping - Sound	clps	clps.{8}\x00	62
+Macintosh Clipping - Text	clpt	clpt.{8}\x00	62
+Macintosh Clipping - Unknown type	clpu	clpu.{8}\x00	62
+Macintosh Encapsulated Postscript (MacBinary)	eps	EPSF.....\x00	65
+Macintosh JPEG bitmap (MacBinary)	jpg	JPEG.....\x00	65
+Macintosh Pict image (MacBinary)	pct	PICT.....\x00	65
+Macintosh PICT	pct	PICT\x00	0
+Macintosh PICT	pict;pct	\x00\x11\x02\xFF\x0C\x00\xFF\xFE	522
+Macintosh Quickdraw v2	pict	\x00\x11\x02\xFF\x0C\x00\xFF\xFE\x00\x00	10
+Macintosh TIFF bitmap (MacBinary)	tif	TIFF.....\x00	65
+Macintosh plaintext (MacBinary)	TXT1;txt	TEXT.....\x00	65
+Macrium Reflect Disk Image	mrimg	\x40\x00.\xEB\x52\x90NTFS\x20\x20\x20\x20	10
+Macromedia Director Protected Movie (MAC)	dxr	XFIR....39VMpami	0
+Macromedia Director Protected Movie (PC)	dxr	RIFX\x00...MV93imap	0
+Macromedia Director Shockwave Cast	cct	(XFIR...\x00CDGFrevF|RIFX....FGDC)	0
+Macromedia Director Shockwave Cast	cxt	XFIR...\x0059CMpami	0
+Macromedia Flash Paper	mfp	FWS\x05	0
+Macromedia Xtra Cache	mch	MoaCacheWin32_32	0
+MadTracker 2 module/song	mt2	MT20......MadTracker 	0
+Magellan Waypoint	TRK2;trk;wpt	\x0D4D53333	0
+MagicDraw UML project	mdr	MagicDrawUML \x22	0
+Magix Movie Edit video	mvd	RIFF....SEKDSVIP	0
+Magix Photo Manager	mxc2	\x10\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x00	0
+Magix Photo Manager	mxc3	\x00\x1C\x00[\x03\x04]\x00\x00\x00	0
+MapInfo map	map	\x00\x0A\x0E\x15\x0E\x16\x1B\xA2\xA6\xAB\x1A\x2A\x2F\xA5\xA9\xB5\xA7\xB5\xD9\x0F\x17\x23\x13\x1F\x2B\x0F\x17\x23\x4F\x57\x63	0
+MapInfo sea chart	bsb	!Copyright ####,	0			W
+MapInfo table	tab	!table	0
+Maple worksheet	mws	\{VERSION # 	0
+Master Page	master	<%@ ?[Mm]aster	0
+Material Exchange Format	mxf	\x06\x0E\x2B\x34\x02\x05\x01\x01\x0D\x01\x02\x01	0
+MathCaD Document	mcd	\.MCAD 	0
+Matlab Level 5 MAT-File	MAT;fig	MATLAB 5.0 MAT-file	0
+MaxTrax Music	mxtx	MXTX\x00	0
+Maxwell Studio Scene	mxs	\xF9\xB2\x2A\xD1	0
+Maya Binary Project	mb	FOR[4-8]	0
+Maya Project	ma	//Maya ASCII	0
+Media Descriptor Sheet(Alcohol)	mds;mdx	MEDIA DESCRIPTOR	0
+Windows Media Database	WMDB1;wmdb	\x33\xBE\xFA\x67\xCC\xE0\x44\x4C\x99\x53\x3D\x12\x5C\x57\x09\xBD	8
+Media Player library	WMDB2;wmdb	M\x00e\x00d\x00i\x00a\x00\x20\x00P\x00l\x00a\x00y\x00e\x00r\x00\x0A\x00\x43\x00\x6F\x00\x6D\x00\x70\x00\x72\x00\x65\x00\x73\x00\x73\x00\x65\x00\x64\x00\x20\x00\x44\x00\x42\x00\x20\x00\x49\x00\x6D\x00\x61\x00\x67\x00\x65	16
+MediaPlayer Classic playlist	mpcpl	MPCPLAYLIST\x0D\x0A	0
+Mega CAD	mac	MegaCad1#	0
+Memory Stick Voice	msv	MS_VOICE\x00	0
+Messages object	mo	\xDE\x12\x04\x95.\x00\x00\x00	0
+Messenger Plus! Encrypted Log	ple	MPLE2	0			y
+Messenger Plus! Live Encrypted Log	ple	(MPLE2.{10}\x68\x00\x74\x00\x6D\x00\x6C|\x10\x01MPLE1<<)	0			y
+MetaTrader indicator	mql	\x2F\x2A\x5B\x5B\x0D\x0A	0
+Metasequoia 3D scene	mqo	Metasequoia Document\x0D\x0AFormat 	0
+Micrografx ABC Flowcharter	abc	\x00\x00\x00ABC\x00\x00	0
+Micrografx Designer Graphics	ds4	RIFF....MGX itpd	0
+Micrografx FlowCharter 2.0 flowchart	af3;af2	\x00\x18\x00JFO\x00\x00\x00\x00\x00	0
+Microsoft Advisor Help	hlp	LN\x02\x00.\x00\x3A\x00	0
+Microsoft Debug	dbg	DI\x00\x80	0
+Microsoft DirectMusic Style	sty	RIFF....DMSTstyh	0
+Microsoft Encarta Yearbook	eyb	EYB\$	0
+Microsoft Exchange diagnostic	bdp	vCMM	0
+Microsoft Games	RGMH	RGMH\x01\x00\x00\x00	0			x
+Microsoft Groove Tool Archive	gta	\x97\x19\x30\x09\x00\x00\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00	0
+Microsoft Instrument Definition	idf	RIFF...\x00IDF 	0
+Microsoft Jet DB Workgroup Information	MDW;sdw	\x00\x01\x00\x00Jet System DB	0
+Microsoft Office	MSO	\x00..\x00\x78\x9C[\xBB\xEC\xED]	0
+Microsoft SZDD compressed	ex_	SZDD\x88\xF0\x27\x33\x41	0
+Microsoft Tape	BKF;trn;backup	TAPE	0
+Milestones	mls	MV2C	0
+Mindmaper MindManager	mmp	\x0A\x05\x01\x08\x00\x00\x00\x00	0
+Minitab Portable Worksheet	mtp	Minitab Portable Worksheet 	0
+Minolta Dimage RAW	mrw	\x00MRM	0
+Mobile 3D Graphics	m3g	\xAB\x4A\x53\x52\x31\x38\x34\xBB\x0D\x0A\x1A	0
+Mobipocket Notes	mbp	BPARMOBI	60
+Mobipocket eBook	mobi;azw;azw3	BOOKMOBI	60			x
+Modern ListGeo Output	lgo	Geotiff_Information:\x0A	0
+Monkey's Audio Track Information	apl	\[Monkey's Audio Image Link File\]	0
+Monkeys lossless	ape	MAC\x20	0			W
+Moove Resource Description	mpz	MOOVE_PACK	0
+Motion JPEG 2000	mj2	ftypmjp2	16
+Motorola Phone Skin	ski	SKI1	0
+Mozilla ARchive	MAR1;mar	MAR1[\x00-\x02]	0
+Mozilla XUL FastLoad/MozillaProfile	MFL1;mfl;mfasl	XPCOM\x0AMozFASL	0
+Mr. Photo temporary thumbnail	tof	POF:Prolab Object File\x00	0
+MrSID Image	sid	msid.\x00	0
+Ms Media Catalog	mmc	\xDE\x5D\xDD\x87\x19\xBD\xD1\x11\xA2\xCE\x00\x00\xF8\x75\xA8\x47	0
+Multimedia Fusion	CCA1;cca	CnC2U	0
+Multimedia container	nut	nut/multimedia container\x00	0
+Multisim 8 Circuit	MS8;ms12	MSMCompressedElectronicsWorkbenchXML	0
+Musepack	mpc	MP(\x2B\x07|Ch|CKSH)	0
+Musicnotes	mtd	RIFF....MTDFmtdp	0
+My Mobile phone book	lmb	LMB PB	0
+MyPhoneExplorer backup	mpb	\xFFMyPhoneExplorer_ContentID:	0	\xFFMyPhoneExplorer_ContentID:EndofData
+MySQL Database 3.23.52 Index File/MySQL MyISAM tables index	myi	\xFE\xFE\x07\x01\x00	0
+MySQL Database Format	frm	\xFE\x01[\x07-\x0A][\x09\x0C\x11]\x03\x00\x00\x10	0
+MySpace IM Conversation	txn	\x3C\x00\x66\x00\x20\x00\x66\x00\x3D\x00\x27\x00\x54\x00\x69\x00	0
+N360 Backup	nb20	NB[12]0.\x00[c-zA-Z]\x00:\x00	0
+NCSA Hierarchical Data Format	hdf	\x0E\x03\x13\x01	0
+NERO CoverDesigner Template	nct;ncd;ncw	COVER EDITOR	0
+NES sound/music/code dump	NSF2;nsf	NESM\x1A\x01	0
+NIST SPHERE Audio/Dragon NaturallySpeaking	sph;nwv	NIST_1A\x0a	0
+NJStar Document	njx	NJStar	6
+NMEA GPS log data	NMEA;nma	$GP...?,	0
+NOD32 Antivirus License data	lic	\x90\x0D\x03\x00\x02\x11\xC8\xFC\xA0\x02\x06\x7B\x03\xC9\x01\xAD\x02	0
+NTI CD-Maker Image	cdm	\x0ENTI_CDLAYOUTV	0
+NTI CD-Maker disk image	NCD1;ncd	\x88\xCD\x77\xCD\x00\x00\x00\x00	0
+Nadeo Game File	gbx	GBX\x06\x00BUCR	0
+Navigation Route	rte	\x03\x00\x00\x00\x26\x00\x00\x00\x46\x55\x47\x52\x54\x45\xFF\xFF	0
+Naviguide binary route	twl	\x00\xFF\xFF\x01\x00\x09\x00CWayPoint	0
+NeXT Interface Builder	nib;attr;helpindex;chat	(bplist00)|(\x04\x0Btypedstream)|(\x04\x0Bstreamtyped)	0
+Neko bytecode	n	NEKO	0
+Nero Audio-CD Compilation	nra	\x0DNeroCDAV	0
+Nero Audio-CD Compilation (Unicode)	nra	\xFF\xFE\xFF\x0D\x4E\x00\x65\x00\x72\x00\x6F\x00\x43\x00\x44\x00	0
+Nero BackItUp	nda	NERO\x00	0
+Nero DVD-Video compilation	nrd	DVDN\x00	0
+Nero ISO CD Compilation	NRI;nr3	\xFF\xFE\xFF\x0E\x4E\x00\x65\x00\x72\x00\x6F\x00\x49\x00\x53\x00	0
+Nero Mixed Mode CD Compilation	nrm	XIMN\x0D	0
+Nero UDF CD-ROM Compilation	nru	(\x0ENeroUDF0|\xFF\xFE\xFF\x0E\x4E\x00\x65\x00\x72\x00\x6F\x00\x55\x00\x44\x00)	0
+Nero cover designer	ncd	COVER EDITOR	0
+NeroMP3Type	nr3	\x0ENeroISO	0
+NeroVision Express	nvc	AMC\x11\x08\x19\x77\x06\x7E	0
+NetCDF	NC1;nc;ncr;grd	CDF[\x01\x02]	0
+NetMeeting WhiteboardMic	nmw	Microsoft NetMeeting Whiteboard\x00	0
+NetMon traffic capture	CAP3;cap	GMBU	0
+NetStumbler NS1 log	ns1	NetS	0
+Netscape Communicator	NAB1;nab	\x00\x0F\x42\x44\x00\x00\x00\x00	0
+Netscape History	HST;db	\x00\x06\x15\x61\x00\x00\x00\x02\x00\x00	0
+Netscape mail	snm	\x00\x1E\x84\x90\x00	0
+Netware executable	nlm;lan	NetWare Loadable Module\x1A	0
+Network capture	CAP2;cap	XCP\x00	0
+Nikon ViewNX thumbnail cache	nkd	(5FEB0C00-0C23-47C5|8BE1FF05-5FD8-4528|NKDB1000II\x00)	0
+Nintendo ARChive	narc	NARC.{12}BT	0
+Nintendo DS	nds	\x24\xFF\xAE\x51\x69\x9A\xA2\x21	192
+Nintendo Entertainment System ROM	nes	NES\x1A	0
+NoiseTracker Module	nst	NST\x1A	0
+Nokia	3140;flst	3140\x01\x02\x00\x00	0
+Nokia 9210/9290 Phone Contact Database	CDB1;cdb	DBFL\x01	0
+Nokia Phone Backup	nfc;nfb	\x03\x00\x00\x00\x05	0
+Nokia Ringtone	mxmf;xmf	XMF_#\.	0
+Nokia thumb	TEC;tn	\xFF\xD9\xFF\xD8\xFF	0
+Norton AntiVirus Scan	sca	SYM\xFE\x01\x00\x00\x00	0
+Norton Backup	ARC1;arc	\xB4\x6E\x68\x44\x0E\x9D\x6F\x04	0
+Norton Disk Doctor UnDo	UNDO	PNCIUNDO	0
+Norton bak db	@db	\xFE\xEF[\x01\x02]\x03\xED\xAF\x01\x03	0
+NoteWorthy Composer song/data	nwc	\[NWZ\]\x00	0
+NovaBACKUP Job	nbk	\[script\]\x0D\x0AScriptVersion=	0
+NovaBackup	nbd	NV\x00	0
+Novell ZENworks Suite network delivered application shortcut	nal	\xC4\x70\x33\x76\x8E\x26\x08\x43\xA6\x0C\xD8\xDA\x03\x42\xBE\x32	0
+Novell address book	nab	:::TAGMAP:::0FFE0003:	0
+NuppelVideo	nuv	MythTVVideo\x00	0
+OCR language	lng;shp	XIS\x00	0
+OS2	os2	\xA5\x96[\xFD\xFE]\xFF	0
+Office Personalized Settings	pip	(\x0F\x00\x02\x00\x0F\x00\x0F\x00|\x19\x00\x04\x00\x19\x00\x19\x00)	0
+Office Profile Settings	ops	D\x00\x00\x00\xFF\xFFO\x00P\x00S\x00\x20\x00	1
+OfficeFileCache	fsd	\x0C\x83\xD2\x91\xAE\x1B\xD4\x4D\xAA\x65\x46\x79\xFB\xDA\xDD\x7A	0
+Oktalyzer Module	okt	OKTASONGCMOD	0
+Olympus DSS Pro Audio	ds2	\x03ds2	0
+Olympus Raw	orf	IIRO|MMOR|IIRS	0
+Omnis Library	lbs	\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x03\x00\x01\x00\x04\x00\x81\x00\x05\x01\x01\x00\x07\x01\x01\x00\x02\x00\x01\x00\x00\x00	0
+Omnis Studio database	df1	\x01\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x03\x00\x01\x00\x04\x00\x81\x00\x05\x01\x01\x00\x07\x01\x01\x00\x02\x00\x01\x00\x00	1
+OneCare Backup	catalog	ccol\x00\x00\x00\00	0
+OneNote Table of Contents	onetoc2;onetoc	\xA1\x2F\xFF\x43\xD9\xEF\x76\x4C\x9E\xE2\x10\xEA\x57\x22\x76\x5F	0
+OneNote cache	onecache	\x99\x97\xEF\x44\x48\xD0\xEC\x47\xAC\xB3\xE5\xCC\x45\x1F\x90\xDA	0
+OnlineTvRecorder	otrkey	OTRKEYFILE	0
+Open Font	otf	OTTO\x00[\x09-\x16][\x00\x01][\x00\x30\x80]\x00[\x03\x04]\x00[\x00\x10\x20\x30\x40\x50\x60\x70\xB0\xC0]	0
+Open Office Gallery	sdg	SGA3\x04\x00	0
+Open eBook	meb	VNMEBOOK	0
+OpenEXR Image	exr	\x76\x2F\x31\x01	0
+OpenFlight 3D	flt	\x00\x01\x01.\x00{10}	0
+OpenOffice	oo	\x27\x11\x00\x03\x80\x00\x00[\x11\x12][36]#0m[19]	0
+OpenSSL salted	openssl;sec	Salted__	0
+Opera bookmark	adr	Opera Hotlist version	0
+Opus Creator multimedia	ilm	\x18\xE0\x97\x2C\xC6\x26\x4A\x4F\xB8\x84\x56\xD1\x9C\x68\xD2\xE3\x69\x6C\x6D\x63	0
+OrCAD	OPJ1;opj	\(ExpressProject\x20	0
+OrCAD layout	MAX2;max	\x01\x00\x2C\x00OrCAD INC\.	0
+Oracle 10g	DBF1;dbf	\x7D\x7C\x7B\x7A	28
+Oracle 9i	DBF0;dbf;ora	\x00mlkj	11			x
+Oracle Binary Form Source Code	fmb	ROS\.60050	0
+Oracle Executable Form	fmx	\x27\x1B\x00\x00\x00\x00\x00\x00	0
+Oracle dump	oracle-dmp;dmp	\x03..EXPORT:V##\.	0
+Orbiter mesh	msh	MSHX1\x0D\x0A	0
+Organizing chart	opx	UOCF	0
+Origin project	opj	CPYA\x20#	0
+Ots Media Library	omx	_OtsMX!_	0
+Outline Font Metric	afm	StartFontMetrics 	0
+Outlook 97 and 2000 E-mail Account Settings	iaf	fMAI\x00\x00	0
+Outlook Express Mailbox	MBX2;mbx	JMF6\x03\x00\x01\x00	0
+Outlook Rules	rwz	.{0,155}CRuleElement	64
+Outlook Shortcuts	fav	\x09\x00\x46\x00\x61\x00\x76\x00\x50\x00\x6C\x00\x61\x00\x63\x00\x65\x00\x73	0
+Ovation Pro	dpd	OvationPro	0
+Overture Musical Score	ove	OVSC	0
+OziExplorer Map data	OZIMAP;map	OziExplorer Map Data File Version 	0
+PEF Executable	peff;app	Joy!peff	0
+PEM encoded RSA private key	PEM1;pem	-----BEGIN RSA PRIVATE KEY-----	0
+PFM Font (alt)	pfm	\x00\x01.\x01\x00\x00\x00\x00\x00	0
+PGP	pgp	\xA8\x03PGP\xC1[\xC0\xC1]	0			y
+PKCS7	p7c;p7s;p7m;mobileconfig	\x06\x09\x2A\x86\x48\x86\xF7\x0D\x01\x07\x02	2
+PLT1	PLT1;plt	[\x0F-\x17]\x00\x01\xB9\x00\x00\x00	0
+PSP Movie	PMF1;pmf	PSMF0014	0
+Paint Shop Pro	pspcache;jpc	JASC PREF CACHE	0
+Paint.NET Image	pdn	(PDN3|\x1F\x8B\x08\x00....\x00\xFF)	0
+Palette	PAL1;pal	RIFF....PAL\x20	0
+Palm DateBook	dba	\x00\x01BD	0
+Palm Memo	mpa	\x00\x01PM	0
+Palm Pilot executable HB++	PRC2;prc	\x00{12}appl.{14}code	4
+Palm ToDo	tda	\x00\x01DT	0
+Palm address book	aba	\x00\x01BA	0
+Paragon Backup	PBF1;pbf	PImg	0
+Paragon Virtual Hard Drive	pvhd	Pdi:\x00	0
+Parallels Desktop Hard Disk	hds	WithoutFreeSpace	0
+Parity Archive Volume Set	par2	PAR2\x00PKT	0
+Password Safe database	psafe3	PWS3	0
+PcSync2.SML	lml	\x02\x00\x00\x6A\x1C\x2D//LOGML//DTD	0
+PeaZip v2	pea	\xEA[\x01\x02]	0			W
+Pegasus Mail Mailbox	pmm	\x00[0-9A-F]{8}:[0-9A-F]{4}:FOL	85
+Penultimate Backup	pen	BZ[\x01\x02]\x00\x00\x00	0
+Perl	pl;cgi;pm	\#! ?(/usr/bin/)?perl	0
+Personal Ancestral File	paf	(500\x00500\x00)?PAF\x00	0
+Photo Explorer Thumbnail Archive	pe4	IIO2H\x00	0
+PhotoShop Gradient	grd	8BGR\x00	0
+PhotoStudio	psf	FSPA	0
+Photodex Cache	pxc	FCXP...\x00	0
+PhotoFiltre Image	pfi	PhotoFiltre Image\x03	0
+Photometric data	ies	IESNA	0
+Photoshop Brush	abr	8BIMsamp	4
+Photoshop Custom Shape	CSH2;csh;psp	cush\x00\x00\x00[\0x01\x02]	0
+Photoshop DNG profile	dcp	IIRC\x08\x00\x00\x00	0
+Photoshop Duotone	ado	\x00\x01\x00[\x01-\x04]\x00\x02\xFF\xFF\xFF\xFF\xFF\xFF	0
+Photoshop styles	irs	\x03[\xEA\xEB]\x00\x098BIM	0
+Photoshop Layer Style	ASL1;asl	\x00[\x01\x02]8BSL	0
+Photoshop.ColorBooks	acb	8BCB\x00\x01\x0B	0
+Picasa	bigthumbs	\xCD\xCC\xCC\x3F(\xFF\xD8\xFF\xE0|\x00\x00\x00\x00)	0
+PingPlotter	pp2	\xFFPing Plotter Sample	0
+Pinnacle Studio Project	stu	ali[ 1]	0
+Plain Text VRML File	wrl	\#VRML V#	0
+PlayStation Compressed Sound	vag	VAGp\x00\x00\x00	0
+Pocket Access Database	cdb	\x00\x00\x00\x00EKIM	4
+Pocket Excel sheet	pxl	\x09.\x01\x05\x00\x42.\x04\x8C.\x00	0
+Pocket Streets Map	MPS1;mps	MS Pstreets - V8\.0\x00	36
+Pocket Word	pwd	\{\\pwd2\\	0
+PolyTracker	PTM1;ptm	\x1A\x03\x02\x00	28
+Polyphonic Ringtone	PMD2;pmd	cmid\x00\x00	0
+Portable Compiled Format	PCF1;pcf;pmf	\x01fcp[^\x00]\x00\x00	0
+Portable object	po	msgid\x20\x22\x22\x0D?\x0D?\x0A	0
+Poser 3D Morph	mor	\xFFLTD	0
+Poser Scene	pz3	\x7B\x0D\x0A\x0D\x0Aversion\x0D\x0A\x09\x7B\x0D\x0A\x09number\x20#	0
+PostScript Printer Description	ppd	\*(MSPrintSchema|PPD-Adobe)	0
+PostScript Type1 Font	pfb	\x80\x01..\x00\x00%!	0
+Power Tab	ptb	ptab\x04	0
+PowerISO Direct Access Archive	daa	DAA\x00{5}	0
+PowerTracks Pro Audio Project	seq	PowerTracks File\x20\x1A	0
+Precompiled Setup PNF	pnf	\x01\x01[\x01\x02]\x00..\x00	0
+Precompiled Setup PNF (Vista)	pnf	\x01\x03\x02\x00..\x00	0
+Premiere 6 proj	ppj	\[HEAD\]\x0D\x0Asignature=	0
+Printed Circuit Board	pcb	PCB FILE #	0
+Private Key	pvk	(\xB0\xB5\xF1\x1E|\x1E\xF1\xB5\xB0)	0
+Pro Tools (audio)	PTX;ptf;pts;grv;pim;pio	\x030010111100101011	0
+Process Monitor Log	pml	\x50\x4D\x4C\x5F	0
+Program Information File	pif	MICROSOFT PIFEX\x00	369
+Progressive Graphics	pgf	PGF\x01\x10\x00	0
+Protracker	psm	PSM\xFE	0
+Proximity Technology	FCA1;fca	FCA1	0
+Proxy Auto-Config	pac	FR5B	0	FR5B
+Psion Series 3 eBook	tcr	!!8-Bit!!	0
+Psion serie 3 word	wrd	PSIONWPDATAFILE	0
+PuTTY Private Key	ppk	PuTTY-User-Key-File-2:\x20	0
+PushPin	PSP1;psp	1niP\x20\x00	0
+Python	py;fcgi	\#!(/usr)?/bin/python	0
+Python	py	\#!/usr/bin/env python	0
+Python Script	pyc;pyo	([\x3B\x6D\xB3\xD1]\xF2|\x03\xF3)\x0D\x0A	0
+QEMU qcow disk image	img	QFI\xFB	0
+QEMU's suspend to disk	QEVM	QEVM	0
+QIP Infium	qhf	QHF\x03	0
+QIP Infium account	qip	QUDF[\x04\x05]\x00	0
+QlikView document	qvw	\x70\x17\x01\x00\xC1\x06\x00\x00\x02\x00\x00\x00	0
+Qt Software	qm	\x3C\xB8\x64\x18\xCA\xEF\x9C\x95\xCD\x21\x1C\xBF\x60\xA1\xBD\xDD\x42\x00\x00	0
+Quake 2 model	md2	IDP2\x08\x00\x00\x00	0
+Quake III Arena model	md3	IDP3\x0F\x00\x00\x00	0
+Quake2 map	bsp	\x49\x42\x53\x50\x26\x00\x00\x00	0
+QualComm PureVoice	qcp	RIFF....QLCMfmt\x20	0
+Quark Express document	qxd;qxp;qxt	\x00\x00(II|MM)XPR	0
+QuarkXPress Book	qxb	\x00\x00..XPR	0
+Query	query	QRB\x02	0
+QuickBooks autosave	ADR1;adr	\x5E\xBA\x7A\xDA	36
+QuickDraw 3D Metafile	3dmf	(3DMetafile \(|3DMF\x00) 	0
+QuickFileCollection	qfc	QF\x1A\x1A	0
+QuickTime Preferences	qtp	sean\x00	16
+Quicken data	qel	QEL\x20	92
+Quicken file	qif	\x0D?\x0A{0,12}![Tt]ype:[A-Z]	0
+Quicken file	qif	!(Option|TYPE):	0
+Quicktime patch	qtch	\x00\x00\x00Pqtch	0
+R Workspace	rdata	RDX2\x0A	0
+RARC compressed	ARC3;arc	RARC	0
+REDCODE Video	r3d	\x00\x00\x01DRED1	0
+RIFF MIDI	rmi	RIFF....RMIDdata	0
+RPG Maker Game Save	LSD1;lsd	\x0BLcfSaveData	0
+RSLogix 5000 Program	ACD1;acd	\x20RSLogix 5000	32
+RTPatch	rtp	\x4B\x2A\x84\x03\x60[\x94\x95]\x00\x00\x01\x00\x08	0
+Rating System	rat	\(\(PICS-version 1\.#\)	0
+Ray Dream Studio Scene	rds	3DC \{\x0D	0
+ReCycle Loop	rex	FORM\x00...AIFFSSND	0
+Readiris font dictionary	dus	\x42\x86\x57\x93	0
+ReadyBoot	fx	xFcE\x2C	0
+Real Audio Metadata	RAM;rmm;rm:ra	rtsp://	0
+Real Music Store	rax	\x2ERMS\x00	0
+RealJukebox	rmx	\.RMX	0
+RealPlayer video	ivr	\.R(EC|1M)\x00	0
+RealText Streaming	rt	RT\x01\x01\x0a	0
+Reason Song file	rns	Propellerheads Reason Song File\x1A	0
+Rebirth Song	rbs	CAT \x00\x00..RB40HEAD	0
+Recent	CUSTOMDESTINATIONS-MS;temp	(\xAB\xFB\xBF\xBA|\x01\x14\x02\x00\x00\x00\x00\x00\xC0\x00\x00\x00\x00\x00\x00\x46)	20
+Red Hat Linux Archive	rpm	\xED\xAB\xEE\xDB	0
+Report	report;letter	\x01\x00{15}[a-zA-Z ]	0			x
+Resource script/GoogleEarth	rcc	qres\x00	0
+Resume Builder 4	rb4	RB4\x00	0
+Retrospect Backup	rdb	\.shd\x00	0
+Retrospect catalog	rbc	\.hfC	0
+Rich music format	RMF1;rmf;gm	IREZ\x00	0
+RoboForm Bookmark	rfb;rfn;rfp	URL3:ver3:O~	0
+RoboForm Option	rfo	(rfcache|rfuseinf)	0
+Rollercoaster Tycoon 3	ovl	FGRK	0
+Roxio Project	roxio;sonic	\x00\xBB\x00\xBB\x01\x00\x00\x00	0
+SAP Tutor	sim	iTut\x02\x00\x00\x00	0
+SAS JMP discovery	jmp	\x00\x00\xFF\xFF\x00\x00\x00\x03	0
+SAS catalog	sas7bcat	\xC2\xEA\x81\x63\xB3\x14\x11\xCF\xBD\x92\x08\x00\x09\xC7\x31\x8C\x18\x1F\x10\x11\x22\x22\x00\x32\x22\x01\x02\x32	12
+SAS dataset	sas7bdat	\xC2\xEA\x81\x60\xB3\x14\x11\xCF\xBD\x92\x08\x00\x09\xC7\x31\x8C\x18\x1F\x10\x11	12
+SAS index	sas7bndx	\xC2\xEA\x81\x65\xB3\x14\x11\xCF\xBD\x92\x08\x00\x09\xC7\x31\x8C	12
+SBF1	SBF1;sbf	SB\xF7\x40\x01\x00	0
+SGI Open Inventor	iv	\#Inventor V	0
+SIBELIUS score	sib	\x0FSIBELIUS	0
+SMJPEG Video	mjpeg	\x5E\x40\x5CnSMJPEG	0
+SNES Soundtrack	spc	SNES-SPC700 Sound File Data v	0
+SPPMetadataCache	sppmeta	\x04\x63\xFF\xB8\x48\x7E\x3E\x4E\x96\x35\x8A\x35\x34\xE3\x54\xD2	0
+SPSS Data	sav	\$FL2@\(\#\) (SPSS|IBM)	0
+SPSS Portable File	por	(ASCII SPSS PORT FILE\x20\x20|\xC1\xE2\xC3\xC9\xC9\x40\xE2\xD7\xE2\xE2\x40\xD7\xD6\xD9\xE3\x40)	0
+SPSS TableLooks	tlo	\xFF\xFF\x00\x00\x0B\x00TableLook	0
+SQL Server Compact Edition Database (SSCE)	SDF2;sdf	\x00\x00\x00\x00\x00\x01\x00\x00SSCE Database\x20	0
+SQLite database journal	db-wal	\x37\x7F\x06\x82\x00\x2D\xE2\x18	0			x
+SQLite journal	db-wal;db-journal	\x00\x00\x00\x01SQLite format	512
+SQLite database journal	db-wal;sqlite-wal	\x37\x7F\x06\x82\x00\x2D\xE2\x18	0
+SQLite shared mem	db-shm;sqlite-shm	\x18\xE2\x2D\x00\x00\x00\x00\x00	0
+STEP 3D CAD	step;stp;ifc	ISO-10303-21;\x0D?\x0AHEADER;	0
+STEP7-Micro WIN	mwp	GJK\x00R0	0
+SUN Raster	ras;im1;im8;sun	\x59\xA6\x6A\x95	0
+SWiSH Project	swi	\x00\x05\xFF\xFE\xFF\x13\x53\x00\x57\x00\x69\x00\x53\x00\x48\x00	0
+Sage	sly;srt;slt	\x53\x52\x01\x00	0
+Sage Backup	001	SAGEBACKUP\x00	0
+Sage ACT! 3,4 Email	det	\x1BNew ACT! Email File Format[34]	0
+Sage ACT! 5 Email	det	Message:\x0D\x0A[ 0-9]{10}\x0D\x0A	0
+Samba Trivial DB	TDB1;tdb	TDB file\x0A\x00	0
+SampleVision	smp	SOUND SAMPLE DATA 	0
+Samsung AllShare metadata	mta	MTAFile\x00	0
+Samsung Kies Phonebook	spb;smm;sn3;scc;ssn	(\x6B\x39\xA4\x74\x05\xAF\x63\xBE|\xCA\x7B\x69\xA0\xFF\x1A\x74\x84)	0
+Samsung backup	sbu	SBU_	0
+Samsung cell phone voice memo	vm	S2\x00\x00\x00\x00	0
+Saved AIM Buddy List	blt	Config \{	0
+Saved ICQ Contact	uin	\[ICQ User\]\x0D\x0A
+Savings Bonds Wizard	sbw	CBond	0
+Scenario File	scn	\x63\x26\x01\x00\x04\x00	0
+ScreamTracker 3 Module	s3m	\x01\x00SCRM	0
+Screen Capture 	xesc	\x30\x26\xB2\x75\x8E\x66\xCF\x11\xA6\xD9\x00\xAA\x00\x62\xCE\x6C	0
+ScreenCam Recording	scm	\x80SCMOVv	0
+Screenwriter Document	scw	ScreenwriterWinVer\.	0
+Seamonkey Address Book	na2	\x00\x0FBI\x00[\x00-\x20]	0
+SeeYou Waypoint	ndb	! ILEC\x20	0
+Sega Dreamcast VR texture	pvr	PVR!	44
+Segmented Hyper-Graphic	shg	\x6C.\x01\x00\x08\x00\x00\x00	0
+Serialized Certificate Store	sst	\x33\x15\x33\x13\xE9\xA1\x85\x41\xA7\xA8\x91\x8E\x21\x4C\xB5\x9B	0
+Service Archive	sar	CAR 2\.0#(RG|DR)	0
+SharePoint Groove	xss;xssr	\x1E\x22\x70\x8A\x02\x00\x00\x00	0
+SharePoint Groove log	xsslog	\x33\x62\x67\x81\x02\x00\x00\x00	0
+Shared Memory	db_shm	\x18\xE2\x2D\x00\x00\x00\x00\x00	0
+Shell Script	sh;pl;cgi;vmx;command;py;rb;tcl	\#!/(usr/)?bin/	0		100000	x
+ShockWave Audio	swa	MACRZ\x08	36
+Shockwave Media	dir;dcr	RIFX....FGDM	0
+Shorten Compressed Audio	shn	ajkg	0
+SideKick calendar	skw	SKW[CDMRT]	0
+Sierra Generations	uds	UDS2	0
+Sigma Raw	x3f	FOVb	0
+Silicon Graphics 24bit compressed bitmap	sgi	\x01\xDA\x00\x03\x00\x01	0
+Silicon Graphics B/W bitmap	bw	\x01\xDA\x01\x01\x00\x02	0
+Silicon Graphics RGB	sgi;rgb	\x01\xDA\x01\x01\x00	0
+Silverlight	PROFILE1;profile	\x40\x00\x00\x01\x65\x00\x00\x00\x00\x00\x00\x00	0
+Simple Vector Format	svf	SVF v#\.	0
+SketchUp (v3,v4)	skp	\x0ESketchUp Model	0
+SketchUp Materials	skm	\x00\x00\x00\x14ftypskm3	0
+Skin	skin;aspx;ascx	<%@ Register 	0
+SkinMagic Skin	SMF1;smf	SKINMAGIC_SKIN_FILE\x00	6
+Skype Extras Manager	ezlog	\x70\x00\x00\x00\x00\x00\x00\x00\x1B\xA3\xD6\x46\x11\xCC\xAE\x15	0
+Smacker Compressed Movie	smk	SMK2	0
+Smart Draw	sdr	(SMARTDRW|SmartDraw)\x01\x80	0
+SmartDraw Collection	scz	WNGZWZSC	0
+SmarterMail Group	grp	\x00\x00\xB8\x04\x00\x00\x00\x00\x00\x00	2
+SnagIt Capture	snag	\xCB\x54\x53\x43\x53\x4E\x41\x47\x4E\xE5\x0D\x9A\x8E\x1B\x44\x76	0
+Snoop capture	CAP4;cap	snoop	0
+Softbook eBook	IMP1;imp	\x00\x02BOOKDOUG	0
+Software Quality Management	sqm;cvr;psqm	MSQM\x78\x00\x00\x00	0		65536
+Sony AVCHD index	moff	MOFF	0
+Sony Ericsson PC Suite	cah	tfst	0
+Sony Movie Player	mqv	\x00\x00\x00\x18ftypmqt	0
+Sony OpenMG Audio (SonicStage)/ATRAC	oma	ea3\x03\x00\x00\x00..v	0
+Sony OpenMG Music/ATRAC3+	oma	EA3\x01\x00	0
+Sony Playstation Executable	EXE1:exe	PS-X EXE	0
+Sony Wave64	w64;veg;acd;sfvidcap	riff\x2E\x91\xCF\x11\xA5\xD6\x28\xDB\x04\xC1\x00\x00	0
+Sony eBook	lrx	ftypLRX2	4
+Sony ebook	lrf	L\x00R\x00F\x00\x00\x00	0
+Sound Blaster Instrument	sbi	SBI\x1A	0
+Sound Font	sbk;sf2	RIFF...\x00sfbkLIS	0
+Sound Forge Audio Peak	sfk	SFPK\x01\x00\x00\x00	0
+Sound Forge project	frg	\xFF\xFE\x3C\x00\x73\x00\x6F\x00\x75\x00\x6E\x00\x64\x00\x5F\x00\x66\x00\x6F\x00\x72\x00\x67\x00\x65\x00\x5F\x00\x70\x00\x72\x00	0
+SourceSafe	scc	\[SCC\]	0
+SpeechEngine Lexicon	lxa	\xD3\x11\x9C\x26\x00\xC0\x4F\x8E\xF8\x7C	0
+SpriteBackup	pbf	POCKETPCIMAGE	0
+Spyware Doctor quarantine	sdq	\x8B\x2F\x01\x95	0
+Start screen layout	itemdata-ms	.{0,8}\x31\x53\x50\x53\xB3\x77\xED\x0D\x14\xC6\x6C\x45\xAE\x5B\x28\x5B	48
+Starview metafile	svm	VCLMTF.\x00	0
+Steam obj	blob	\x01\x50....\x00\x00\x00\x00......TopKey	0
+Steganos Safe	sle	ACL[2-5]\x00	0			c
+StorageSync Backup	bpa	\x00\xB1\xFA\x52\xE0\x4B\x9B\xB6\x01	258
+Strong Keyname	SNK;sn	\x07\x02\x00\x00\x00\x24\x00\x00RSA	0		596
+Structured Fax	sff	Sfff	0
+StuffIt Expander archive	sea	\x00	0			W
+Stuffit v1 Archive	sit	SIT!	0
+Sun VirtualBox	vdi	(<<< Sun VirtualBox Disk Image|innotek VirtualBox)	0
+Super Nintendo	smc	\x00\x01ME DOCTOR SF 3	0
+SureThing CD Labeler	STD1;std	MV\x00\xFF\x0C\x00\x12\x00	0
+Symantec Guard Header	GRD1;grd	\[GuardHeader\]\x0D\x0A	0
+Symantec disk image	V2I;iv2i	\$CAN	0
+Symantec user	userprofile;vcpref;livereg	\x58\xB3\x1D\x03\x00\x00\x00\x00	0
+Symbian OS	APP1;app	EPOC\x00\x20\x00\x00	16
+Symbian Series 3 Installation	sisx;sis	\x7A\x1A\x20\x10	0
+Symbian installation archive	sis	\x10\x12\x3A\x00\x10\x19\x04\x00\x10	3
+System Deployment Image	sdi	\$SDI0001	0
+T-Online Banking	crp	01funcrypt	0
+TAXACT 2012	ta2	TaxACT Encrypted Data 12D\x00	0			y
+TAXACT 2013	ta3	TaxACT Encrypted Data 13D\x00	0			y
+TCPDUMP	pcap	(\xD4\xC3\xB2\xA1|\xA1\xB2\xC3\xD4)	0
+TINA Design	tsc	OBSS\x1A	0
+TNEF	tnef	\x78\x9F\x3E\x22	0
+Tabet PC Journal	JTP1;jtp	NB\*\x00	0
+Tax Fmt1	TAX1;tax;eft	\xC0\x45\x01\x64\x0D\x00\x00	0
+TaxACT 2011	ta1	TaxACT Encrypted Data 11D\x00	0			y
+TeX	dvi	\x1B\x20TeX\x20output	14
+TeX Info	TEXI;texinfo;tex	\\input texinfo	0
+TeamViewer Session	tvs	Teamviewer Session File\x0D\x0A	0
+TechSoft 2D Design drawing	DTD1;dtd	\x07dt2ddtd	0
+Teledisk	td0	TD\x00	0
+The Bat! Address Book	abd	\x91\x89\x98\x19\x44\x00\x00\x00	0
+The Bat! E-mail Hives	tbb	\x20\x06\x79\x19\x08\x0C\x00\x00	0
+The Bat! Hive Index	tbi	\x01\x01\x47\x19\xA4\x00{7}	0
+The Bat! mbox	flb	ZZ\x12\xAB	0
+The Sims Archive	far	FAR!byAZ	0
+Maxis XA Audio	xa	XA[IJ]\x00	0
+The Sims Compacted Resource	sims2pack	Sims2 Packager #\.	0
+The Sims Compacted Resource	sims3pack	TS3Pack\x01	4
+Thumbcache index	THUMBCACHE_IDX;db	(IMMM[\x14\x15]\x00\x00\x00|\x00\x30\x20\x10IMMM)	0
+TiVo video	tivo	TiVo\x00	0
+Timeliner 5	tl5	Timeliner 5\.	0
+Titanium Backup	properties	\#Titanium Backup\x0A	0
+Toast CD Image	toast;dmg	ER[\x02\x08]\x00\x00	0
+Tom's Lossless Audio	tak	tBaK	0
+TomTom general info	bif	\[TomTomGo\]\x0D\x0A	0
+TomTom traffic data	TOMTOM	NAVTRAFFIC	0
+TomeRaider 3 eBook	tr3	TR3DTR3C	60
+Tone Curve	crv	COREL PhotoPaint8 Tone Curve File\x00	0
+Topografix's EasyGPS/TerraByte Location	loc	TerraByte Location File	0
+Trimble Standard Storage	ssf	\xFF\x00\xAA\x00.\x01	0
+Tripmaker	trp	AZMS	0			W
+True Motion video	vp6	MVhd\x20\x00\x00\x00	0
+True Type Font	ttf	\x00\x01\x00\x00\x00[\x0a-\x17][\x00\x01][\x00\x30\x80]\x00[\x03\x04]\x00[\x00\x10\x20\x30\x40\x50\x60\x70\xA0\xB0\xC0]	0
+TrueType Font Collection	ttc	ttcf	0
+TurboTax	1pe;1ph	XPRF\x00	0
+TurboTax return	TAX;tax2008;tax2009;tax2010;tax2011;tax2012;tax2013	TTFN\x01\x01	0			x
+Twitter journal	journal	\x81JLE\x0D\x0A\x1A\x0A	0
+Type Library	tlb;exd	MSFT\x02\x00\x01\x00	0
+UAC control (Vista)	CDF-MS;cdf	PcmH	0
+UFile 2010 Tax Return	u10	UBXF1\x0010	0
+UFile 2011 Tax Return	u11	UBXF1\x0011	0
+UFile 2012 Tax Return	u12	UBXF1\x0012	0
+UFile 2013 Tax Return	u13	UBXF1\x0013	0
+UHArc Archive	uha	UHA[\x03-\x06]	0
+UTF16 Log	log	[0-3]\x00#\x00\x2F\x00[01]\x00#\x00\x2F\x00[12]\x00#\x00#\x00#\x00\x20\x00[0-2]\x00#\x00\x3A\x00[0-5]\x00#\x00\x3A\x00[0-5]\x00#	0
+UUencoded	UUE;uu	begin [674][0-7][0-7] 	0
+UltraIso	isz	IsZ\x21	0
+UltraTracker	ult	MAS_UTrack_V	0
+UltraTracker Wave	uwf	\x00\x1A\x10\x4D\x55\x57\x46\x44\x00\x00\x00\x2E\x00\x00\x00	0
+UniCode Extensions UCE	uce	UCEX...\x00	0
+Unity Player Pref	upp	UnityPrf\x00	0
+Unity3d	UNITYWEB;assetbundle	UnityWeb\x00	0
+Unix Library (WOT)	wot	!<arch>\x0AREADME/	0
+Unix library	a;lib	!<arch>\x0A	0
+Unpackaged Authorware 3 for Windows	a3w	WCRS\xA8\xBC\xAD\xAC	0
+Unreal Texture	utx	\xC1\x83\x2A\x9E	0
+User Word List	uwl	\xFFWPC..\x00\x00\x20\x0A	0
+VB Binary Form	frx	\x4C\x42\x08\x00	0
+VB Text Form/Active Designer	FRM1;frm;dsr;dob	VERSION [2-5]\.00\x0D\x0A(Begin|begin|Object)	0
+VICAR Image	vic	LBLSIZE=.{16}FORMAT=	0
+VIFF bitmap	xv	\xAB\x01\x01\x03\x08\x00\x00\x00	0
+VMWare	appicon	\x00\x00\x00\x01.{24}\x89PNG	0
+VMWare snapshot	vmsn;vmsn	(\xD2\xBE\xD2\xBE\x08\x00\x00\x00|\xD0\xBE\xD0\xBE\x07\x00\x00\x00)	0
+VMware VM BIOS state	nvram	MRVN\x01	0
+VMware configuration	vmx	(\.encoding|config\.version) = "	0
+VNC Configuration	vnc	\[[Cc]onnection\]\x0D?\x0A	0
+VP3 sewing machine	vp3	\x25vsm\x25\x00	0
+VRG	vrg	VSREG7\x0D\x0A	0
+Valve Package	vpk	\x34\x12\xAA\x55\x01\x00\x00\x00	0
+Valve Texture	vtf	VTF\x00	0
+VectorWorks Drawing	MCD2;mcd;vwx	\x00VectorWorks	57
+Vectorworks Design	vwx	\x00\x00\x08[\x58\x74]\x00\x00\x00\x00\x00\x00\x00\x94\x00\x20V	0
+Veeam Backup	vbk	[\x05\x07]\x00\x00\x00\x01\x00\x00\x00\x03\x00\x00\x00md5\x00	0
+Velvet Studio Module	ams	AMShdr\x1A	0
+Vertex Shader	vs	DXBC.{16}\x01\x00\x00\x00....[\x05\x08]	0
+Vi Swap File	swp	b0VIM #\.#.\x00	0
+ViX image catalog	vix	ViX\x20\x00	0
+Video Format Object	vfo	FOFV..\x00\x00	0
+VirtuaNES	vmv	VirtuaNES MV	0
+Virtual CD	VCD1;vcd	FarStone\$	0
+Virtual CD-ROM File	FCD1;fcd	\x00\x00\x46\x43\x44\x20\x56\x31\x2E\x30\x00	0
+VirusDefinition	symc	SYM[C\xFE]	0
+VisiForm	vft	\x0E---VISIFORM---\x00	0
+Vista Digital Elevation Map	dem	Vista DEM File	0
+Visual Basic project	vbp	Type=Exe\x0D\x0A[FR]	0
+Visual C++ Resource (Bin)	aps	\x24\x00\x00\x00\x48\x00\x57\x00\x42\x00\x00\x00	36
+Visual CertExam	vce	\x85\xA8\x01\x01\x00	0
+Visual SourceSafe 6	SCC1;scc	\x34\x12\x01\x00	0
+Visual Studio DeploymentPrj	vdproj	\x22DeployProject\x22\x0D\x0A\x7B	0
+VisualGPSXP path	pth	VisualGPS\x00	0
+VisualNastran Desktop Document	wm3	FzzX..Wm3D	0
+VisualStudio	NCB;pdb;idb	Microsoft C/C\x2B\x2B\x20	0
+VisualStudio solution	sln	Microsoft Visual Studio Solution File, Format	0
+Vivid 3D Scanner	vvd	IDSV\x04\x00\x00\x00	0
+Vividas video	viv	vividas	0
+Vue Scene	vue	\xFF\xFF\xFF\x5D\x00\x00\x00\x02\x00\x01\x00\x00\x00\xFC\xFF\x35\x00\x00\x00\x09\x00\x29	0
+WAP Bookmark info	vbm	BEGIN:VBKM\x0D\x0A	0
+Warcraft 3 Map	W3M;w3x	HM3W	0
+Warcraft 3 Replay	w3g	Warcraft III recorded game\x1A	0
+Watchtower Library Font	MCF1;mcf	\xF2\xE1\xB9\xE4\x01	0
+WavPack Lossless Audio Compression	wv;wvc	wvpk	0
+Web Open Font	woff	wOFFOTTO\x00	0
+Web Query	iqy	WEB\x0D\x0A	0
+WebEx Media File	ucf	WPDF	0
+WebEx Recording	wrf	WOTF[\x00\x01\x03]	0
+WebShots	wbz	\x43\xAB\x91\x67\x98\x00\x00\x00	0
+Webshots Collection File	wbc	\xAB\x16\xFA\x95\xA0\x21\x00\x00	0
+Webshots Image	wb1;wbd	WWBB1111	0
+Webshots Picture	wb0	WWBB0000	0
+WhatsApp Backup	crypt	\x49\xEF\x23\xAE\xFF\xF9\x75\x0E\xC6\xCD\x5C\xA0\xA5\x9F\x2D\x35	0			y
+WhatsUp Gold network map	wup	WUP\x00	0
+WhereIsIt? catalog	ctf	Catalog 3\.00\x00	0
+Win Registry Export v4	reg	REGEDIT4\x0D\x0A	0			x
+Win Registry Export v5	reg	Windows Registry Editor Version 5\.00\x0D\x0A	0
+WinFax Document	fxd;fxm;fxr;fxs	\x0B\x23.\xC0\x06..\x00\x00	0
+WinSxS backup	WINSXS	DC[NS]\x01[P\x01]	0			x
+Windows Backup	qic	VTBL	0
+Windows Credential Manager policy	vpol	\x01\x00\x00\x00\x42\xC4\xF4\x4B\x8A\x9B\xA0\x41\xB3\x80\xDD\x4A	0
+Windows Explorer Command	scf	(\x0D\x0A)?\[[Ss]hell\]\x0D\x0A[Cc]ommand	0
+Windows Explorer saved search	fnd	\x44\x46\x04\x00\x00\x00\x00\x00\x00\x00\x10\x00\x24	0
+Windows Help Full-Text Search index	fts	tfMR.\x00\x00\x00	0
+Windows Media Video Redirector	wvx	\[[Rr]eference\]\x0D?\x0ARef1\x20?=	0
+Windows Migration Backup	mig	1giM\x02\x00\x00\x00	0
+Windows Minidump	MDMP	MDMP	0			W
+Windows Prepackaged Database	sdb	[\x02\x03]\x00\x00\x00...\x00sdbf	0
+Windows Program Manager Group	GRP1;grp	PMCC	0
+Windows Script	wsf	(\x0D\x0A)?\x3C(Job\x20[Ii][Dd]=|job>)	0
+Windows Security Catalog	cat	\x06\x09\x2A\x86\x48\x86\xF7\x0D\x01\x07\x02	4
+Windows System Deployment Image	sdi	$SDI0001	0
+Windows Theme	theme	;[-\.,:A-Za-z0-9 \xA9\x0D\x0A]{0,48}\[Theme\]\x0D\x0A
+Windows Update Status	grl	\x4D\x00\x53\x00\x47\x00\x52\x00\x4C\x00\x00\x00	0
+Windows Vault Credentials	vcrd	\x99\x54\xCD\x3C\xA8\x87\x10\x4B\xA2\x15\x60\x88\x88\xDD\x3B\x55	0
+Windows XP Backup Password	PSW1;psw	MSRB.{12}RSA2	0
+Windows backup catalog	wbcat	C(lbG|coL)	0
+Wink Presentation	wnk	RPKW...\x00	0
+WordPerfect Label	lab	\xFFWPC..\x00\x00\x01\x44	0
+WordPerfect Macro	wcm	\xFFWPC..\x00\x00\x01\x0A	0
+WordPerfect Macro	wpk	\xFFWPC...\x00\x01\x03	0
+WordPerfect macro	wpm	\xFFWPC...\x00\x01\x01	0
+WordPerfect presentation	SHW1;shw	\xFFWPC...\x00\x0F\x0F	0
+WordStar for Windows V2 Document	ws2	WS2000	0
+Working Model 2D data	WM2D;wm	FzzX..WM3X	0
+X11 Pixmap	XPM;pm	\x2F\x2A XPM \x2A\x2F\x20?\x0D?\x0A	0
+XACT (Cross-Platform Audio Creation Tool)	xwb	WBND...\x00	0
+XAML Binary	xbf	XBF\x00	0
+XAR archive	xar;pkg;safariextz	xar!	0
+XBOX executable	xex	XEX2	0
+XESS Worksheet	xs3	0::XS#	0
+XPB	xpb	\x011BPX	0
+XPCOM type libraries for the XPIDL compiler	xpt	XPCOM\x0aTypeLib	0
+XQuery	xq	xquery version \x221\.	0
+XZ Compressed Archive	xz;txz	\xFD7zXZ\x00	0	YZ
+Xbox executable	xbe	XBEH	0
+Xcode Dynamic Library	dylib	\xFE\xED\xFA\xCE	0
+Xcursor	xcur	Xcur	0
+Xilinx Project	npl	JDF .../	0
+YAML	yaml;lua;yml;sql	---[\x0D\x0A\x20]	0			x
+Yahoo! Widget	widget	wdgt	0
+Yamaha SMAF Synthetic music Mobile Application Format	MMF2;mmf	MMMD....CNTI\x00	0
+ZAM 3D	z3d	Z3DM...\x00	0
+ZENworks Desktop	zmg	\xAA\x00\x00\x00ZENworks	0
+ZLIB	ZLIB;z	\x78\x9c[\x53\x5D\x63\x65\x7D\x95\xDD\xED]	0
+Zoner	zbr	\x9A\x02\x02\x00\x2D\x2D\x2D\x00	0
+application/x-java-serialized-object	ser;jrprint	\xAC\xED\x00\x05\x73\x72\x00	0			x
+audio/x-twinvq	vqf	TWIN########	0
+com.apple.quarantine	adea	adEA\x00	0		4096	x
+compressed bookmark backup	jsonlz4;mozlz4	mozLz40\x00	0
+dockzip format	dockzip	\xE8\x04\x00\x00\x2Edockzip format	0
+eMemoPad Data File	edf	eMemoPad Data File\x0D\x0A	0
+eMule Collection	emulecollection	ed2k://\|file\|	0
+eWallet	wlt	\*Ilium Software\*\x0D\x0A\x0D\x0AThis is an eWallet	0
+geocodeing	json	_xdc_\._	0
+iGrafx FlowCharter	flo	%WANG-CPro	0
+iLeap	lp2	LEAP\x00	96	0
+iMelody mobile phone ring-tone	imy	(BEGIN:IMELODY|MELODY:)	0
+iMovie Project	imovieproj	iMovie Project File	0
+iOS PRC	PDB1;pdb	PNRdPPrs\x00	60
+iOS words	wrds;lbk	WRDS\x20\x00\x00\x00	16
+iPhone sharded lib	dyld	dyld_v1\x20	0
+iPhoto	data1	iPhotoSegmentCache\x00	0
+iPod Photo Database	itl1	mhfd..\x00\x00	0
+iTunes CoverFlow	itc	\x00\x00\x01\x1C\x69\x74\x63\x68	0
+iTunes Library	itl	hdfm\x00	0
+iTunes Library Extras	itb	\x0F\x0F\x03\x00\x01\x02\x00\x00	0
+iTunes Video	m4v	\x00\x00..ftypM4VH	0
+id Software's DOOM	wad	[IP]WAD	0
+image size cache(MSIMGSIZ.DAT)	DAT1	\x17\xEF\xC8\xCA\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00	0
+image/x-cpi	cpc	CPC\xB2	0
+l33t	l33t;svx;rcx	l33t	0
+lzh archive	lzh	-lh[1-5]-	2
+mupen64 movie capture	m64	M64\x1A	0
+myBase Database	nyf	\x75\x54\x31\x01\x01\x80\x00\x00\x00	0
+olk14Contact	olk14Contact	CTRC\x00	0
+olk14Folder	olk14Folder	FLRC\x00	0
+olk14Signature	olk14Signature	SiRC\x00	0
+pcAnywhere Host File	bhf	\x10\xAB\xAA\xA8\x6F\x7B\x7E\x78\x7E\x76\x7E\x74\x77\x74\x79\x77	0
+pcAnywhere remote control	chf	\x01\xAB\xAA\xA8	0
+text/x-speech	SPC1;spc	CELP\x01\x00\x00\x00	0
+thumbcache	THUMBCACHE;db	CMMM[\x13\x14\x15\x1C\x1E\x1F\x20]\x00\x00	0	~38
+thumbschunk	thumbschunk	\x00\x00\x00\x00\x00\x00..\x00[\x3D-\x40]\x00[\x2B-\x30]\xFF\xD8\xFF\xE0	0
+vCard (alt)	vcf	begin:\x20{0,10}vcard\x20?\x0d?\x0a	0
+videoplayback	DAT7	\x1F\x43\xB6\x75\x01\x00\x00\x00	0
+winmail	FOL;%%%OECustomProperty	1SPS\x30\xF1\x25\xB7\xEF\x47\x1A\x10\xA5\xF1\x02\x60	8
+zoneinfo	zoneinfo	TZif2?\x00	0
+ADPCM Compressed Audio	act	\x00\x00\xFF{32}	0			W
+AOL Organizer	arl	\x01\x00[\x00\x01]\x00\x00\x00	2			W
+ARC Archive	arc	\x1a[\x08\x09]	0			W
+AVCHD video clips	mts	\x00\x00..G@	0			W
+Access Record-Locking	laccdb;ldb	[Aa]dmin\x00\x20{10}	32			W
+AceMoney	mmw	[\x01\x04]\x00\x00\x00\x01\x00\x00\x00	0			W
+Active Server Page	asp	\x0D?\x0A?\x3C\x25	0			W
+Adobe Extension Package	mxp	[\x03\\x04]x00\x00\x00\x01\x00\x00\x00	0			W
+Adobe Save For Web Settings	iros	\x00\x00\x00\x10\x00\x00\x00\x01\x00\x00\x00\x00\x00	0			W
+After Effects Project	aep	RIFX\x00	0			W
+Album	abm	\x01\x00\x00\x00[\x02\x03]\x00	0			W
+Ami Pro Document	sam	\x5BVER\x5D\x0D\x0A\x09	0			W
+Any Password data	apw	AP	0			W
+Apple Resources	resources	\xCE\xCA\xEF\xBE\x01\x00\x00\x00	0			W
+ArchiCAD Library	lcf	GLCF	0			W
+ArcGIS geodatabase	gdbtable	\x03\x00\x00\x00	0			W
+ArchiCAD Project Backup	bpn	WW|mm	0			W
+Autodesk Animator	fli	\x11\xAF	4			W
+Autodesk animation (compr.)	flc	\x12\xAF	4			W
+AutoCAD Material-Library	mli	\xAA\x3D	0			W
+Avast! Virus Update	vpx	HLEN|ASWsetupFPkgFil	0			W
+Bethesda Softworks Archive	bsa	BSA\x00	0			W
+BibTeX	bib	@[^\x00]	0			W
+Boardmaker Interactive	bm2	[\x68\x69]\x00	0			W
+C++ source	cpp;h	\#include\x20	0			W
+CAD Zone Drawing	czd	\x50\x00\x00\x00	0			W
+CCTV Video Clip	60d	\xFF\xFF\xFF\xFF.\x00\x00\x00	0			W
+CPIO Archive File	cpio	(\x30\x37\x30\x37\x30|\x71\xC7|\xC7\x71)	0			W
+Calyx Point Borrower	brw	\x01\x00	0			W
+Canvas Drawing	cvx	\x00{10}[\x01\x02]	0			W
+Chrome pack	PAK1;pak	\x04\x00\x00\x00..\x00\x00\x00?\x01	0			W
+Citrix architecture	ica	\[	0			W
+Compressed Bitmap	bmz	\x78\xDA	0			W
+Computer Graphics Metafile	cgm	BEGMF\x20\x27	0
+Computer Graphics Metafile	cgm	\x00(\x3F\x00|\x2A\x08|\x3E\x1D)	0			W
+Cue Sheet	cue	(FILE \x22|REM |PERFORMER \x22)	0			W
+DIGILINEAR archive	dlc	DLC0	0			W
+DVD Info	ifo	DVD.{9}\x00.\x00\x00\x00\x00	0			W
+Data Fork Font	dfont	\x00\x00\x01\x00\x00	0			W
+Descent Mission	hog	DHF	0			W
+Desktop Services Store	ds_store	Bud1	0			W
+Dial-Up Phone Book	pbk	\[	0			W
+Digital Video	dv	\x1F\x07\x00	0			W
+DirectX Model	x	xof 030	0			W
+Dropbox	attributes	\x78\x9C	0			W
+DYMO Label Address Book	dal	\x01\x02\x03\x04	0			W
+EAGLE Schematics	sch	\*version\x20#	0			W
+Electronic Arts Game Data	big	BIGF	0			W
+Elster	elfo	\x00\x00\x00[\x01\x02]\x00	0			W
+Enhanced Compression Wavelet	ecw	\x65\x02\x01	0			W
+Eudora Table of Contents	toc	\x30\x00	0			W
+Exchange Extended Configuration	ecf	\[General\]\x0D\x0A	0			W
+File List Creator Playlist	mpd	\x00\x00\x00\x00\x00\x00\x05\x00	0			W
+FileMaker	fp3;fp5	\x00\x01\x00\x00\x00\x02\x00\x01\x00\x05\x00\x02\x00\x02\xC0	0			W
+FileMaker Pro Spreadsheet	FP1;fp	\xBA\xDE	0			W
+FinePrint	fp	FIN	0			W
+Fortran	f;f90	\x20{0,9}(subroutine|SUBROUTINE|module|program)	0			W
+FoxPro Project Memo	pjt	\x00\x00\x00.\x00\x00\x00\x40	0			W
+Fractal Image Format	fif	FIF	0			W
+GRIB Meteorological	grb	GRIB	0			W
+GenePix Array List	GAL1;gal	ATF\x09	0			W
+General Content Descriptor	GCD1;gcd	Content-Type: 	0			W
+Google Picasa Font Cache	ytf	\x64\x00\x00\x00	0			W
+Google sheet	gsheet	\{url:	0			W
+HP Digital Sender	hps	\[Info\]\x0D\x0AVersion=	0			W
+HPack archive data	hpk	HPAK	0			W
+Handy Backup Backup Index File (Novosoft LLC)	hbi	\x02\x00\x00\x00	0			W
+Header file	h	class\x20	0			W
+Help CNT	cnt	:Base 	0			W
+Home Designer plan	plan	\x01\xCA..\x00\x00	0			W
+IGC Flight Track	igc	A[A-Z]{2}	0			W
+IPIX Image	ipx	sb	0			W
+Intuit Interchange Format	iif	\x21[A-Z]	0			W
+Joboptions	joboptions	\x3C\x3C\x0D\x0A	0			W
+KaraFun Karaoke	kfn	KFN	0			W
+Kies Sync Schedule	sync	\x00\x01\x00\x00\x00\xFF\xFF\xFF\xFF\x01\x00\x00\x00\x00\x00\x00\x00	0			W
+Kodak Photo CD	pcd	\xFF{32}....\x00	0			W
+Lotus 1-2-3,Lotus Symphony	wks	\x00\x00\x02\x00\x04[\x04\x05]	0			W
+Lotus MS Works	wks	\x00\x00\x1A\x00\x10\x04	0			W
+Lotus Notes ID	id	[\x01-\x07]\x00[\x00\x01]\x00[\x2E\x50]\x01\x00\x00	0			W
+MO3 MOD audio format	mo3	MO3	0			W
+MOV Video (variant)	mov	skip	4			W
+MQL 4 compiled Expert Advisor	ex4	EX4	0			W
+MTV video	mtv	AMV	0			W
+Mac BinHex	hqx	\(This file	0			W
+Mac OS X Disk Image	dmg	x	0			W
+Managed Object Format	mof	\#(pragma|PRAGMA)\x20	0			W
+Map Info Sea Chart	kap	!(Copyright\x20|\x0D\x0ACRR/)	0			W
+Mapinfo Interchange	mif	VERSION 300\x0D\x0A[CD]	0			W
+Microsoft Money auto saved report	mny	\xBA\xBA\xFF	0			W
+MultiTracker	mtm	MTM	0			W
+Multimedia Messaging Service	mms	\x8C[\x80\x82\x84][\x89\x98]	0			W
+Nero Video-CD compilation	nrv	[\x03-\x05]\x00\x00\x00\x01\x00\x01\x00\x00	0			W
+Nikon ViewNX	nki	[0-9A-F]{8}-[0-9A-F]{4}-	0			W
+Nokia Logo Manager bitmap	NLM1;nlm	NLM 	0			W
+Nullsoft Streaming Video	nsv	NSV	0			W
+OMF Interchange Image	omf	\x00{7}	0			W
+Office14 PUBWIZ	poc	POCP	0			W
+Offline Address Book	oab	\x20\x00\x00\x00.{10}\x00\x00	0			W
+PC Paintbrush	pcx	\x0A\x05[\x00\x01][\x01\x08]	0			W
+PFM Font	pfm	\x00\x01.[\x02-\x17]\x00\x00[A-Z1\x5C]	0			W
+Unix CPIO Archive	CPIO;pax	([0-7]{72}|[0-9A-Fa-f]{106})0000\.\x00	0
+POSIX Archive	pax	\x00paxxx	256
+PaperPort Thumbnail	ptn	\x00\x10\x00\x00\x01\x00\x00\x00	0			W
+Photoshop Action	atn	\x00\x00\x00	0			W
+Picasa	pmp	\xCD\xCC\xCC\x3F	0			W
+Pictor Picture	pic	\x34\x12	0			W
+Polygon Model	ply	ply\x0A	0			W
+Portable Bitmap	pbm	P[1-6]\x0D?\x0A\#	0			W
+Portable Gray Map	pgm	P[1-6]\x0D?\x0A[\x231-9]	0			W
+PBM Portable Any Map	pnm	P[1-6]\x0D?\x0A[\x231-9]	0			W
+Portable Pixmap	ppm	P[1-6]\x0D?\x0A	0			W
+Power Tab	ptb	ptab	0			W
+Printable File	prn	\x00{0,4}\x1B	0			W
+Quake Engine	bsp	\x00\x00\x00...\x00..\x00\x7c\x00\x00\x00	0			W
+Quattro Pro spreadsheet	wq1	\x00\x00\x02\x00\x20?Q	0			W
+QuickBooks Loan Manager	lmr	\x04\x00	0			W
+Quicken Price History	qph	\x03\x00\x00\x00....\x00\x00\x00\x00	0			W
+SAFA Media Audio	zvr	ZVR@	0			W
+SolidWorks eDrawings	easm;eprt	;; HSF V	0			W
+SubRip Subtitle	srt	\x20-->\x20	15			W
+Symbolic Link	slk	ID;P	0			W
+The Bee Archiver	bee	Bee	0			W
+ToolBook	tbk	JBO	0			W
+Transport Stream	mts;m2ts;ts	\x47.{191}\x47	4			W
+Truevision Targa	tga	\x00	1			W
+Video Game Music	vgm	Vgm	0			W
+Visual Basic	vb;bas	\x27[\x09-\x7E]	0			W
+Warcraft 3 Saved Game	w3z	W3Z	0			W
+Web Open Font	woff	wOFF	0			W
+Web User Control	ascx;aspx	<%@ 	0			W
+WebEx Advanced Recording	arf	[\x01\x02]\x00[\x00\x02]\x00........\x00\x00\x00\x00	0			W
+WinFax cover	cvp	\x0C\xBD\x03	0			W
+Windows compiled resource	res	\x00\x00\x00\x00\x20\x00\x00\x00\xFF\xFF\x00\x00\xFF\xFF	0			W
+Windows Clipboard	clp	\x50\xC3[\x01-\x08]\x00	0			W
+Wireless Bitmap	wbmp	\x00\x00	0			W
+WordStar2000	wsd	\x7F WS2000	0			W
+WordStar7	wsd	\x1D\x7D\x00\x00	0			W
+XNA Game Studio Binary	xnb	XN[AB]	0			W
+XQuery	xq	\x28\x3A\x0D\x0A	0			W
+ZOO Compressed	zoo	ZOO 	0			W
+ZSNES Movie	zmv	ZMV	0			W
+Zinio Electronic Magazine	zno	ZNO	0			W
+j2 Global Communications eFax	efx	[\xD5\xDC]\xFE	0			W
+Office AutoCorrect List	acl	\x04[\x00\x01]\x96\x00	0			W
+FrontPage Binary-tree index	btr	\x1C\x01\x00\x00	0			W
+Firefox	pset	\x01\x00\x00\x00	0			W
+PP11Thumbs	ptn2	\x14\x01\x00\x00	1			W
+3D Studio Scene	3ds	MM	0			W
+Joint Bi-level Image Group	jbg	\x00[\x00\x03]	0			W
+Joint Bi-level Image Group	jbig	\x00\x00	0			W
+eFAX Jet Suite	jsd	\xDC\xFE	0			W
+WhatsApp Encrypted Database	crypt7	\x00\x01\x01	0			yW
+WhatsApp Encrypted Database	crypt8	\x00\x01\x01	0			yW
+Dalvik Virtual Machine resource pack	arsc	\x02\x00\x0C\x00	0			W
+$MFT	$MFT;;	FILE\x30\x00\x03\x00	0

@@ -1,0 +1,166 @@
+??	HKCU\Software\7-Zip\Compression\ArcHistory\*		Compression History
+??	HKCU\SOFTWARE\7-Zip\Extraction\PathHistory\*		Extraction History
+??	HKCU\Software\7-ZIP\FM\CopyHistory			7-ZIP copy history
+??	HKCU\Software\7-ZIP\FM\FolderHistory			7-ZIP folder history
+//	??	HKCU\Software\Acronis\TrueImageHome\FileHistory\*			TrueImage file history
+??	HKCU\Software\Acronis\TrueImageHome\Settings\LastFile			TrueImage last
+??	HKCU\Software\Adobe\Adobe Acrobat\*\AVGeneral\cRecentFiles\c*\tDIText	Recent documents opened in Acrobat %4x
+??	HKCU\Software\Adobe\Acrobat Reader\*\AVGeneral\cRecentFiles\c*\sDI	Recent documents opened in Acrobat Reader%x
+??	HKCU\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\*\(Default)	Adobe Media Browser %7
+??	HKCU\Software\Adobe\photoshop elements\*\common\settings\Elements MRU\*	Photoshop Elements MRU
+??	HKCU\Software\Adobe\Photoshop*\*\VisitedDirs\STARTUPIMAGEDIRECTORY	Photoshop recent visited directories
+??	HKCU\Software\Adobe\Shockwave 11\movies\*\url\(Default)			Shockwave 11 url
+??	HKCU\Software\Alcohol Soft\Alcohol 120%\Images\Location\*		Alcohol 120
+??	HKCU\Software\Alcohol Soft\Alcohol 120%\MountedMRU\*\*			Alcohol 120 mounted
+??	HKCU\\Software\Microsoft\MSN Apps\SearchBox\History			MSN SearchBox
+//	??	HKCU\Software\AppDataLow\Software\Yahoo\Companion\Profiles\*\LastUse	Yahoo companion %7e
+??	HKCU\Software\BearShare\DownloadFolder\Folder				BearShare
+VT	HKCU\Software\Classes\Wow6432Node\Local Settings\Software\Microsoft\Windows\Shell\BagMRU\*	BagMRU (64 Bit)
+VT	HKCU\Software\Classes\Wow6432Node\Local Settings\Software\Microsoft\Windows\Shell\Bags\*	Shell Bags (64 Bit)
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\RecentTask*	Control panel recent
+??	HKCU\Software\Cyberlink\MediaCache\Data3\*		Cyblerlink Media cache
+??	HKCU\Software\Cyberlink\MediaCache\Data4\*		Cyblerlink Media cache
+??	HKCU\Software\Cyberlink\MediaCache\Thumbnail3\*		Cyblerlink Media cache
+??	HKCU\Software\Cyberlink\MediaCache\Thumbnail4\*		Cyberlink MediaCache%S
+??	HKCU\Software\Elaborate Bytes\VirtualCloneDrive\LRU\*	VirtualCloneDrive
+??	HKCU\Software\Foxit Software\Foxit Reader\History\*\FileName	Foxit Reader
+??	HKCU\Software\Google\Google Earth Plus\Search\*			Google Earth search
+??	HKCU\Software\Google\Google Toolbar\4.0\Options\Custom Buttons\*\Feed\URL	Google custom buttons
+??	HKCU\Software\Google\Google Toolbar\Prefetch\Domains\*				Google toolbar prefetch
+??	HKCU\Software\Google\NavClient\1.1\History\*					Google NavClient history%e#20005
+??	HKCU\Software\Google\Picasa\PicasaNet\Preferences\FilesFromBrowse		Picasa
+??	HKCU\Software\ImgBurn\IBB_MRUFile						ImgBurn: last opened
+??	HKCU\Software\Macromedia\Flash *\LastOpenDocs\*\Path				Flash recent
+??	HKCU\Software\Macromedia\FlashPlayer\*						Flash player
+??	HKCU\Software\MagicISO\Reopen\*							MagicISO recent
+??	HKCU\Software\Microsoft\DirectInput\MostRecentMapperApplication\Name		Last application that used DirectInput mapper
+??	HKCU\Software\Microsoft\FrontPage\Explorer\FrontPage Explorer\Recent Page List\*	Frontpage recent
+NT	HKCU\Software\Microsoft\Internet Explorer\Explorer Bars\{C4EE31F3-4768-11D2-BE5C-00A0C9A83DA1}\ComputerNameMRU\*	Windows Explorer: Computer search history%S
+NT	HKCU\Software\Microsoft\Internet Explorer\Explorer Bars\{C4EE31F3-4768-11D2-BE5C-00A0C9A83DA1}\ContainingTextMRU\*	Windows Explorer: Containing text qualifiers that were used in searches%S
+NT	HKCU\Software\Microsoft\Internet Explorer\Explorer Bars\{C4EE31F3-4768-11D2-BE5C-00A0C9A83DA1}\FilesNamedMRU\*		Windows Explorer: File search history%S
+??	HKCU\Software\Microsoft\Internet Explorer\LowRegistry\Audio\PolicyConfig\PropertyStore\*\(Default)	Property store %8
+??	HKCU\Software\Microsoft\Internet Explorer\Main\Start Page			Start page in Internet Explorer%x
+??	HKCU\Software\Microsoft\Internet Explorer\Main\WindowsSearch\Cleared_TIMESTAMP	IE History cleared%f
+??	HKCU\Software\Microsoft\Internet Explorer\TypedURLs\*				URLs typed in Internet Explorer%x
+VT	HKCU\Software\Microsoft\Internet Explorer\TypedURLsTime\*			URLs typed event%f
+??	HKCU\Software\Microsoft\MediaPlayer\AutoComplete\*\*				Mediaplayer auto complete%T
+NT	HKCU\Software\Microsoft\MediaPlayer\Player\RecentURLList\*			Video files that were opened with Windows Media Player
+??	HKCU\Software\Microsoft\MediaPlayer\Player\Settings\OpenDir			MS Media Player: Recent open directory
+??	HKCU\Software\Microsoft\MediaPlayer\Preferences\CurrentBackgroundScanFolder	MS Media Player: Scan folder%x
+??	HKCU\Software\Microsoft\MediaPlayer\Preferences\DisableMRU			MediaPlayer: Disable MRU%B
+NT	HKCU\Software\Microsoft\MediaPlayer\Preferences\LastPlaylist		MS Media Player: Last opened playlist
+NT	HKCU\Software\Microsoft\MediaPlayer\Preferences\SearchPath			Search path%x
+??	HKCU\Software\Microsoft\Microsoft SQL Server\90\Tools\Shell\FileMRUList\*	Ms SQL Server
+??	HKCU\Software\Microsoft\MM20\Recent Document List\*				Windows Movie Maker%x
+??	HKCU\Software\Microsoft\Office\*\Access\Settings\MRU*				MS Access: recent file
+NT	HKCU\Software\Microsoft\Office\*\Common\Open Find\Places\UserDefinedPlaces\*\*			User defined places %9
+??	HKCU\Software\Microsoft\Office\*\Excel\Recent Files\*						MS Excel: recent file list%x
+??	HKCU\Software\Microsoft\Office\*\Excel\Resiliency\DocumentRecovery\*\*				Excel document recovery
+??	HKCU\Software\Microsoft\Office\*\Outlook\Catalog\*						Outlook catalog
+NT	HKCU\Software\Microsoft\Office\*\Outlook\Contact\StripSearchMRU\StripSearchMRU			StripSearchMRU%x
+??	HKCU\Software\Microsoft\Office\*\Outlook\Security\OutlookSecureTempFolder			Last download location for attachments received in Outlook
+??	HKCU\Software\Microsoft\Office\*\Word\Resiliency\DocumentRecovery\*\*				Word document recovery
+??	HKCU\Software\Microsoft\Office\*\Word\Data\Settings						Word - Recent Files%A
+??	HKCU\Software\Microsoft\Office\1*\Common\Internet\Server Cache\*\Expiration			Server cache expiration for %8f
+??	HKCU\Software\Microsoft\Office\*\OneNote\OpenNotebooks\*					OneNote notebooks
+VT	HKCU\Software\Microsoft\Office\14.0\Word\Place MRU\*						Word Place MRU
+VT	HKCU\Software\Microsoft\Office\14.0\Excel\Place MRU\*						Excel Place MRU
+VT	HKCU\Software\Microsoft\Office\14.0\PowerPoint\Place MRU\*					PPT Place MRU
+VT	HKCU\Software\Microsoft\Office\15.0\Word\Reading Locations\Document*\*				Reading Location
+NT	HKCU\Software\Microsoft\Photo Editor\3.0\Microsoft Photo Editor\LastFile*			Photo Editor%x
+//	NT	HKCU\Software\Microsoft\Search Assistant\ACMru\5001\*				Expressions that were searched for on the Internet
+NT	HKCU\Software\Microsoft\Search Assistant\ACMru\5603\*				Expressions that were searched for in local files, folders or documents%x
+NT	HKCU\Software\Microsoft\Search Assistant\ACMru\5604\*				Pictures, music or videos that were searched for%x
+NT	HKCU\Software\Microsoft\Search Assistant\ACMru\5647\*				Printers, computers or people that were searched for
+??	HKCU\Software\Microsoft\Terminal Server Client\Default\MRU*			Remote Desktop list of recent visited computers
+//	NT	HKCU\Software\Microsoft\Windows Media\WMSDK\etacsufbO\*\htaP			Windows Media obfuscated %6
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Applets\Regedit\LastKey		Last key edited by RegEdit%x
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\CIDSizeMRU\*	CIDSizeMRU%S
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\FirstFolder\*		FirstFolder
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedMRU\*		Folders visited%x
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\LastVisitedPidlMRULegacy\*	LastVisitedPidlMRULegacy%S
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSaveMRU\*			Files that were opened or saved: %8x+
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32\OpenSavePidlMRU\*\*		Open/Save dialogs for %8
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\CopyMoveTo\LastFolder			LastFolder
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\*\OpenWithList\*		OpenWithList %7
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\*\OpenWithProgids\*		OpenWithProgids %7
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileExts\*\UserChoice\Progid		UserChoice %7
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\FileHistory\ProtectedUpToTime		FileHistory%f
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\*				Documents opened %7+S
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU\*				Programs started from run dialog box
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams\*\ViewView2			Files on removable media
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StreamMRU\*				Folders on removable media
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TrayNotify\IconStreams			Tray notifications
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths\*				Typed paths
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{0D6D4F41-2994-4BA0-8FEF-620E43CD2812}\Count\*	IE Microsoft Internet Toolbar (ROT13-decrypted)
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{5E6AB780-7743-11CF-A12B-00AA004AE837}\Count\*	Web pages visited with IE (ROT13-decrypted)
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{75048700-EF1F-11D0-9888-006097DEACF9}\Count\*	Programs started (ROT13-decrypted)
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\Count\*	Programs started (ROT13-decrypted,Win7)
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}\Count\*	Programs started (ROT13-decrypted,Win7)
+//	VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers\Images\*	Wallpaper image
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpaper\MRU\*		Wallpaper MRU%S
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery\*	Win7 search history%S
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Media Center\MRU\VideosMRU\*	Media Center MRU
+VT	HKCU\Software\Microsoft\Windows\CurrentVersion\PushNotification\TimestampWhenSeen	Toast notification%f
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\WIA\WiaAcquisitionManager\DirectoryNameMru	Windows Image Acquisition folder MRU
+NT	HKCU\Software\Microsoft\Windows\CurrentVersion\WIA\WiaAcquisitionManager\RootFileNameMru	Windows Image Acquisition root
+NT	HKCU\Software\Microsoft\Windows\ShellNoRoam\BagMRU\*				Folder view (local)%+
+??	HKCU\Software\Microsoft\Windows\Shell\BagMRU\*					Folder view (remote)%+
+??	HKCU\Software\Mirabilis\ICQ\NewOwners\*\XtrazShortcuts\ICQChat\LastUsed		ICQ last chat (UTC)
+??	HKCU\Software\Nico Mak Computing\WinZip\extract\*				Extraction History
+??	HKCU\Software\Nico Mak Computing\WinZip\filemenu\*				WinZip archive history
+??	HKCU\Software\Nico Mak Computing\WinZip\mru\archives\*				Extraction History
+??	HKCU\Software\Nico Mak Computing\WinZip\WIZDIR\*				WinZip dirs
+//	??	HKCU\Software\NSIS\Mru\*							NSIS recent used files
+??	HKCU\Software\ORL\VNCviewer\MRU\*						VNCViewer system list
+??	HKCU\Software\RealNetworks\RealPlayer\*\Preferences\MostRecentClips*\(Default)	RealPlayer %4x
+//	??	HKCU\Software\realvnc\vncviewer4\mru\*						VNCViewer recent
+??	HKCU\Software\Roxio\RoxioCentral33\Preference\Plugins\*\ImageList\*		Roxio Central
+??	HKCU\Software\Shareaza\Shareaza\Downloads\CompletePath				Shareaza complete path
+??	HKCU\Software\Shareaza\Shareaza\Downloads\IncompletePath			Shareaza incomplete path
+??	HKCU\Software\Shareaza\Shareaza\UserPath				Shareaza Library1.dat
+??	HKCU\Software\Shareaza\Shareaza\Search\Search.*			Shareza search history
+??	HKCU\Software\SlySoft\CloneCD\Settings\ImageFileName				CloneCD: last image file
+??	HKCU\Software\Smart Projects\IsoBuster\RecentImages\*				IsoBuster rescent%x
+//	??	HKCU\Software\Sonic\MediaHub\Preference\Plugins\*\ImageList\*			Sonic MediaHub
+??	HKCU\Software\Sonic\RecordNow\Preference\MRUImages\*				RecordNow recent
+??	HKCU\Software\Tracker Software\PDFViewer\Documents\LastOpened\*\FileName	PDFXChange viewer: last opened
+??	HKCU\Software\Vodafone\LRU\*							Vodafone
+??	HKCU\Software\WinRar\ArcHistory\*						WinRar Compression History%x
+??	HKCU\Software\WinRAR\DialogEditHistory\ArcName\*				WinRAR Extraction
+//	??	HKCU\Software\WinRAR\DialogEditHistory\EmailArcTo\*				EmailArcTo
+??	HKCU\Software\WinRAR\DialogEditHistory\ExtrPath\*				WinRAR Extraction%x
+??	HKCU\Software\WinRAR\DialogEditHistory\WizArcName\*				WizArcName
+??	HKCU\Software\WinRAR\General\LastFolder						WinRAR last folder%x
+??	HKCU\Software\Yahoo\Companion\Profiles\*\LastUse				Yahoo companion last use %5e
+??	HKCU\Software\Yahoo\Companion\SearchHistory\*					Yahoo search history
+??	HKCU\Software\Yahoo\Pager\File Transfer\*					Yahoo Messenger file transfer history
+??	HKCU\Software\Yahoo\Pager\profiles\*\Chat\LastSelCategory			Yahoo Messenger last chat room visited
+VT	UsrClass\Local Settings\Software\Microsoft\Windows\Shell\BagMRU\*		Folder View%+
+VT	UsrClass\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify\IconStreams	Tray notifications
+**	HKCU\Order		Menu order cache %.P
+**	HKCU\ItemPos*		Shell Bag %6I
+**	UsrClass\ItemPos*	Shell Bag%I
+
+??	HKLM\SOFTWARE\DivXNetworks\DivX Player\LastOpenFileFolder	DivX Player folder
+??	HKLM\SOFTWARE\DivXNetworks\Installer\Link\*\*	DivX Link
+??	HKLM\Software\Google\Picasa\PicasaNet\Users\*\*	Picasa
+VT	HKLM\SOFTWARE\Microsoft\Windows Search\VolumeInfoCache\*\VolumeLabel	Windows Search: Volume label of %5
+??	HKLM\Software\KasperskyLab\protected\*\Data\LastStart			Kaspersky: Last Start%f#20005
+??	HKLM\Software\Mirabilis\ICQ\NewOwners\*\ls\*\ugin			ICQ: user data
+??	HKLM\Software\Mirabilis\ICQ\NewOwners\*\ls\*\uhi			ICQ: user data
+??	HKLM\Software\Apple Computer, Inc.\QuickTime\Recent Movies\*	QT recent movies
+
+??	SAM\SAM\Domains\Account\Users\*\F		User Account%#20007
+
+??	*\Recent File List\*	Recent File List %.
+??	*\RecentFileList\*	Recent File List %.x
+??	*\RecentFiles\*		Recent Files %.
+??	*\MostRecentApplication\Name	MostRecentApplication %.x
+??	*\File MRU\*	File MRU %.
+??	*\MRU List\*	File MRU %.
+??	*\History\Default Search Engine		Search history
+??	*\File Name MRU\Value	File Name MRU %.x
+
+??	HKCU\Software\AppDataLow\Software\Microsoft\MSN\Toolbar\versionindependent\msntb\SearchHistory\History	MSN Toolbar search
+??	HKCU\Software\AppDataLow\Software\Microsoft\MSN\Toolbar\versionindependent\msntb\Weather\WeatherData	MSN Toolbar weather

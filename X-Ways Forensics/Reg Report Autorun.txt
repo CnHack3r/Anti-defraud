@@ -1,0 +1,191 @@
+??	HKCU\Control Panel\Desktop\Scrnsave.exe\*	HKCU\Control Panel\Desktop\Scrnsave.exe
+??	HKCU\Software\Classes\*\ShellEx\ContextMenuHandlers\*	HKCU\Software\Classes\*\ShellEx\ContextMenuHandlers
+??	HKCU\Software\Classes\*\ShellEx\PropertySheetHandlers\*	HKCU\Software\Classes\*\ShellEx\PropertySheetHandlers
+??	HKCU\Software\Classes\.cmd\*	HKCU\Software\Classes\.cmd
+??	HKCU\Software\Classes\.exe\*	HKCU\Software\Classes\.exe
+??	HKCU\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\*	HKCU\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers
+??	HKCU\Software\Classes\AllFileSystemObjects\ShellEx\DragDropHandlers\*	HKCU\Software\Classes\AllFileSystemObjects\ShellEx\DragDropHandlers
+??	HKCU\Software\Classes\AllFileSystemObjects\ShellEx\PropertySheetHandlers\*	HKCU\Software\Classes\AllFileSystemObjects\ShellEx\PropertySheetHandlers
+??	HKCU\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\*	HKCU\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance
+??	HKCU\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\*	HKCU\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance
+??	HKCU\Software\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance\*	HKCU\Software\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance
+??	HKCU\Software\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance\*	HKCU\Software\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance
+??	HKCU\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers\*	HKCU\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers
+??	HKCU\Software\Classes\Directory\ShellEx\ContextMenuHandlers\*	HKCU\Software\Classes\Directory\ShellEx\ContextMenuHandlers
+??	HKCU\Software\Classes\Directory\Shellex\CopyHookHandlers\*	HKCU\Software\Classes\Directory\Shellex\CopyHookHandlers
+??	HKCU\Software\Classes\Directory\Shellex\DragDropHandlers\*	HKCU\Software\Classes\Directory\Shellex\DragDropHandlers
+??	HKCU\Software\Classes\Directory\Shellex\PropertySheetHandlers\*	HKCU\Software\Classes\Directory\Shellex\PropertySheetHandlers
+??	HKCU\SOFTWARE\Classes\Exefile\Shell\Open\Command\(Default)\*	HKCU\SOFTWARE\Classes\Exefile\Shell\Open\Command\(Default)
+??	HKCU\Software\Classes\Filter\*	HKCU\Software\Classes\Filter
+??	HKCU\Software\Classes\Folder\Shellex\ColumnHandlers\*	HKCU\Software\Classes\Folder\Shellex\ColumnHandlers
+??	HKCU\Software\Classes\Folder\ShellEx\ContextMenuHandlers\*	HKCU\Software\Classes\Folder\ShellEx\ContextMenuHandlers
+??	HKCU\Software\Classes\Folder\ShellEx\DragDropHandlers\*	HKCU\Software\Classes\Folder\ShellEx\DragDropHandlers
+??	HKCU\Software\Classes\Folder\ShellEx\ExtShellFolderViews\*	HKCU\Software\Classes\Folder\ShellEx\ExtShellFolderViews
+??	HKCU\Software\Classes\Folder\ShellEx\PropertySheetHandlers\*	HKCU\Software\Classes\Folder\ShellEx\PropertySheetHandlers
+??	HKCU\SOFTWARE\Classes\Protocols\Filter\*	HKCU\SOFTWARE\Classes\Protocols\Filter
+??	HKCU\SOFTWARE\Classes\Protocols\Handler\*	HKCU\SOFTWARE\Classes\Protocols\Handler
+NT	HKCU\Software\Microsoft\Command Processor\Autorun\*		Cmd auto run
+??	HKCU\Software\Microsoft\Ctf\LangBarAddin\*	HKCU\Software\Microsoft\Ctf\LangBarAddin
+??	HKCU\SOFTWARE\Microsoft\Internet Explorer\Desktop\Components\*	HKCU\SOFTWARE\Microsoft\Internet Explorer\Desktop\Components
+??	HKCU\Software\Microsoft\Internet Explorer\Explorer Bars\*	HKCU\Software\Microsoft\Internet Explorer\Explorer Bars
+??	HKCU\Software\Microsoft\Internet Explorer\Extensions\*	HKCU\Software\Microsoft\Internet Explorer\Extensions
+??	HKCU\Software\Microsoft\Internet Explorer\UrlSearchHooks\*	HKCU\Software\Microsoft\Internet Explorer\UrlSearchHooks
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Drivers32\*	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Drivers32
+??	HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run\*	HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run
+??	HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce\*	HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Load\*	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Load
+??	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run\*	HKCU\Software\Microsoft\Windows NT\CurrentVersion\Windows\Run
+??	HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell\*	HKCU\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\*	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\*	Explorer Run
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell\*	HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Run\*						User-specific auto-start programs
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Run-\*						User-specific auto-start programs 2
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce\*					User-specific run once auto-start programs
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\RunOnce-\*					User-specific run once auto-start programs 2
+??	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\*	HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+??	HKCU\SOFTWARE\Policies\Microsoft\Windows\Control Panel\Desktop\Scrnsave.exe\*	HKCU\SOFTWARE\Policies\Microsoft\Windows\Control Panel\Desktop\Scrnsave.exe
+??	HKCU\Software\Policies\Microsoft\Windows\System\Scripts\Logoff\*				Logoff scripts
+??	HKCU\Software\Policies\Microsoft\Windows\System\Scripts\Logon\*					Logon scripts
+??	HKCU\Software\Wow6432Node\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\*	HKCU\Software\Wow6432Node\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance
+??	HKCU\Software\Wow6432Node\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\*	HKCU\Software\Wow6432Node\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance
+??	HKCU\Software\Wow6432Node\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance\*	HKCU\Software\Wow6432Node\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance
+??	HKCU\Software\Wow6432Node\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance\*	HKCU\Software\Wow6432Node\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance
+??	HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars\*	HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars
+??	HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions\*	HKCU\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions
+??	HKCU\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\*	HKCU\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellFolders\Startup	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellFolders\Startup
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\User ShellFolders\Startup	HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\User ShellFolders\Startup
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices\*	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices\
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices-\*	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServices-\
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\*	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\
+??	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce-\*	HKCU\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce-\
+??	HKLM\Software\Classes\*\ShellEx\ContextMenuHandlers\*	HKLM\Software\Classes\*\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Classes\*\ShellEx\PropertySheetHandlers\*	HKLM\Software\Classes\*\ShellEx\PropertySheetHandlers
+??	HKLM\Software\Classes\.cmd\*	HKLM\Software\Classes\.cmd
+??	HKLM\Software\Classes\.exe\*	HKLM\Software\Classes\.exe
+??	HKLM\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\*	HKLM\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Classes\AllFileSystemObjects\ShellEx\DragDropHandlers\*	HKLM\Software\Classes\AllFileSystemObjects\ShellEx\DragDropHandlers
+??	HKLM\Software\Classes\AllFileSystemObjects\ShellEx\PropertySheetHandlers\*	HKLM\Software\Classes\AllFileSystemObjects\ShellEx\PropertySheetHandlers
+??	HKLM\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\*	HKLM\Software\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance
+??	HKLM\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\*	HKLM\Software\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance
+??	HKLM\Software\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance\*	HKLM\Software\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance
+??	HKLM\Software\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance\*	HKLM\Software\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance
+??	HKLM\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers\*	HKLM\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Classes\Directory\ShellEx\ContextMenuHandlers\*	HKLM\Software\Classes\Directory\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Classes\Directory\Shellex\CopyHookHandlers\*	HKLM\Software\Classes\Directory\Shellex\CopyHookHandlers
+??	HKLM\Software\Classes\Directory\Shellex\DragDropHandlers\*	HKLM\Software\Classes\Directory\Shellex\DragDropHandlers
+??	HKLM\Software\Classes\Directory\Shellex\PropertySheetHandlers\*	HKLM\Software\Classes\Directory\Shellex\PropertySheetHandlers
+??	HKLM\SOFTWARE\Classes\Exefile\Shell\Open\Command\(Default)\*	HKLM\SOFTWARE\Classes\Exefile\Shell\Open\Command\(Default)
+??	HKLM\Software\Classes\Filter\*	HKLM\Software\Classes\Filter
+??	HKLM\Software\Classes\Folder\Shellex\ColumnHandlers\*	HKLM\Software\Classes\Folder\Shellex\ColumnHandlers
+??	HKLM\Software\Classes\Folder\ShellEx\ContextMenuHandlers\*	HKLM\Software\Classes\Folder\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Classes\Folder\ShellEx\DragDropHandlers\*	HKLM\Software\Classes\Folder\ShellEx\DragDropHandlers
+??	HKLM\Software\Classes\Folder\ShellEx\ExtShellFolderViews\*	HKLM\Software\Classes\Folder\ShellEx\ExtShellFolderViews
+??	HKLM\Software\Classes\Folder\ShellEx\PropertySheetHandlers\*	HKLM\Software\Classes\Folder\ShellEx\PropertySheetHandlers
+??	HKLM\SOFTWARE\Classes\Protocols\Filter\*	HKLM\SOFTWARE\Classes\Protocols\Filter
+??	HKLM\SOFTWARE\Classes\Protocols\Handler\*	HKLM\SOFTWARE\Classes\Protocols\Handler
+??	HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components\*	HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components
+??	HKLM\Software\Microsoft\Command Processor\Autorun\*	HKLM\Software\Microsoft\Command Processor\Autorun
+??	HKLM\Software\Microsoft\Ctf\LangBarAddin\*	HKLM\Software\Microsoft\Ctf\LangBarAddin
+??	HKLM\Software\Microsoft\Internet Explorer\Explorer Bars\*	HKLM\Software\Microsoft\Internet Explorer\Explorer Bars
+??	HKLM\Software\Microsoft\Internet Explorer\Extensions\*	HKLM\Software\Microsoft\Internet Explorer\Extensions
+??	HKLM\Software\Microsoft\Internet Explorer\Toolbar\*	HKLM\Software\Microsoft\Internet Explorer\Toolbar
+??	HKLM\SOFTWARE\Microsoft\Windows CE Services\AutoStartOnConnect\*	HKLM\SOFTWARE\Microsoft\Windows CE Services\AutoStartOnConnect
+??	HKLM\SOFTWARE\Microsoft\Windows CE Services\AutoStartOnDisconnect\*	HKLM\SOFTWARE\Microsoft\Windows CE Services\AutoStartOnDisconnect
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Drivers32\*	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Drivers32
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\*	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Runonce
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_DLLs\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_DLLs
+??	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\IconServiceLib\*	HKLM\Software\Microsoft\Windows NT\CurrentVersion\Windows\IconServiceLib
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\AppSetup
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SaveDumpStart\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\SaveDumpStart
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\System\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\System
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Taskman
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit
+??	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\VmApplet\*	HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\VmApplet
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters\*	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Provider Filters
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers\*	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\Credential Providers
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers\*	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\PLAP Providers
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\*	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler\*	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks\*	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\*	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Shutdown\*	HKLM\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Shutdown
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Startup\*	HKLM\Software\Microsoft\Windows\CurrentVersion\Group Policy\Scripts\Startup
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run\*	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell\*	HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\Shell
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Run\*						System-specific auto-start program %7
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce\*					System-specific run-once-auto-start program
+??	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\*	HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+??	HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Logoff\*				System-specific logoff scripts
+??	HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Logon\*					System-specific logon scripts
+??	HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Shutdown\*				System-specific shutdown scripts
+??	HKLM\Software\Policies\Microsoft\Windows\System\Scripts\Startup\*				System-specific stratup scripts
+??	HKLM\Software\Wow6432Node\Classes\*\ShellEx\ContextMenuHandlers\*	HKLM\Software\Wow6432Node\Classes\*\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Wow6432Node\Classes\*\ShellEx\PropertySheetHandlers\*	HKLM\Software\Wow6432Node\Classes\*\ShellEx\PropertySheetHandlers
+??	HKLM\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers\*	HKLM\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx\DragDropHandlers\*	HKLM\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx\DragDropHandlers
+??	HKLM\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx\PropertySheetHandlers\*	HKLM\Software\Wow6432Node\Classes\AllFileSystemObjects\ShellEx\PropertySheetHandlers
+??	HKLM\Software\Wow6432Node\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\*	HKLM\Software\Wow6432Node\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance
+??	HKLM\Software\Wow6432Node\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance\*	HKLM\Software\Wow6432Node\Classes\CLSID\{7ED96837-96F0-4812-B211-F13C24117ED3}\Instance
+??	HKLM\Software\Wow6432Node\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance\*	HKLM\Software\Wow6432Node\Classes\CLSID\{ABE3B9A4-257D-4B97-BD1A-294AF496222E}\Instance
+??	HKLM\Software\Wow6432Node\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance\*	HKLM\Software\Wow6432Node\Classes\CLSID\{AC757296-3522-4E11-9862-C17BE5A1767E}\Instance
+??	HKLM\Software\Wow6432Node\Classes\Directory\Background\ShellEx\ContextMenuHandlers\*	HKLM\Software\Wow6432Node\Classes\Directory\Background\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Wow6432Node\Classes\Directory\ShellEx\ContextMenuHandlers\*	HKLM\Software\Wow6432Node\Classes\Directory\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Wow6432Node\Classes\Directory\Shellex\CopyHookHandlers\*	HKLM\Software\Wow6432Node\Classes\Directory\Shellex\CopyHookHandlers
+??	HKLM\Software\Wow6432Node\Classes\Directory\Shellex\DragDropHandlers\*	HKLM\Software\Wow6432Node\Classes\Directory\Shellex\DragDropHandlers
+??	HKLM\Software\Wow6432Node\Classes\Directory\Shellex\PropertySheetHandlers\*	HKLM\Software\Wow6432Node\Classes\Directory\Shellex\PropertySheetHandlers
+??	HKLM\Software\Wow6432Node\Classes\Folder\Shellex\ColumnHandlers\*	HKLM\Software\Wow6432Node\Classes\Folder\Shellex\ColumnHandlers
+??	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\ContextMenuHandlers\*	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\ContextMenuHandlers
+??	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\DragDropHandlers\*	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\DragDropHandlers
+??	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\ExtShellFolderViews\*	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\ExtShellFolderViews
+??	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\PropertySheetHandlers\*	HKLM\Software\Wow6432Node\Classes\Folder\ShellEx\PropertySheetHandlers
+??	HKLM\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components\*	HKLM\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components
+??	HKLM\Software\Wow6432Node\Microsoft\Command Processor\Autorun\*	HKLM\Software\Wow6432Node\Microsoft\Command Processor\Autorun
+??	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars\*	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Explorer Bars
+??	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions\*	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions
+??	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar\*	HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Toolbar
+??	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows CE Services\AutoStartOnConnect\*	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows CE Services\AutoStartOnConnect
+??	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows CE Services\AutoStartOnDisconnect\*	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows CE Services\AutoStartOnDisconnect
+??	HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32\*	HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Drivers32
+??	HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\*	HKLM\Software\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+??	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls\*	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Windows\Appinit_Dlls
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\*	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects
+VT	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler\*	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks\*	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellExecuteHooks
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\*	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+VT	HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run\*				System-specific auto-start program (64 Bit)
+VT	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\RunOnce\*			System-specific run-once-auto-start program (64 Bit)
+VT	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\*	HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad
+??	HKLM\System\ControlSet*\Control\BootVerificationProgram\ImagePath\*	HKLM\System\ControlSet*\Control\BootVerificationProgram\ImagePath
+??	HKLM\SYSTEM\ControlSet*\Control\Lsa\Authentication Packages\*	HKLM\SYSTEM\ControlSet*\Control\Lsa\Authentication Packages
+??	HKLM\SYSTEM\ControlSet*\Control\Lsa\Notification Packages\*	HKLM\SYSTEM\ControlSet*\Control\Lsa\Notification Packages
+??	HKLM\SYSTEM\ControlSet*\Control\Lsa\Security Packages\*	HKLM\SYSTEM\ControlSet*\Control\Lsa\Security Packages
+??	HKLM\SYSTEM\ControlSet*\Control\NetworkProvider\Order\*	HKLM\SYSTEM\ControlSet*\Control\NetworkProvider\Order
+??	HKLM\SYSTEM\ControlSet*\Control\Print\Monitors\*	HKLM\SYSTEM\ControlSet*\Control\Print\Monitors
+??	HKLM\SYSTEM\ControlSet*\Control\SafeBoot\AlternateShell\*	HKLM\SYSTEM\ControlSet*\Control\SafeBoot\AlternateShell
+??	HKLM\SYSTEM\ControlSet*\Control\SecurityProviders\SecurityProviders\*	HKLM\SYSTEM\ControlSet*\Control\SecurityProviders\SecurityProviders
+??	HKLM\System\ControlSet*\Control\ServiceControlManagerExtension\*	HKLM\System\ControlSet*\Control\ServiceControlManagerExtension
+??	HKLM\System\ControlSet*\Control\Session Manager\AppCertDlls\*	HKLM\System\ControlSet*\Control\Session Manager\AppCertDlls
+??	HKLM\System\ControlSet*\Control\Session Manager\BootExecute\*	HKLM\System\ControlSet*\Control\Session Manager\BootExecute
+??	HKLM\System\ControlSet*\Control\Session Manager\Execute\*	HKLM\System\ControlSet*\Control\Session Manager\Execute
+??	HKLM\System\ControlSet*\Control\Session Manager\KnownDlls\*	HKLM\System\ControlSet*\Control\Session Manager\KnownDlls
+??	HKLM\System\ControlSet*\Control\Session Manager\S0InitialCommand\*	HKLM\System\ControlSet*\Control\Session Manager\S0InitialCommand
+??	HKLM\System\ControlSet*\Control\Session Manager\SetupExecute\*	HKLM\System\ControlSet*\Control\Session Manager\SetupExecute
+??	HKLM\System\ControlSet*\Control\Terminal Server\Wds\rdpwd\StartupPrograms\*	HKLM\System\ControlSet*\Control\Terminal Server\Wds\rdpwd\StartupPrograms
+??	HKLM\SYSTEM\ControlSet*\Control\Terminal Server\WinStations\RDP-Tcp\InitialProgram\*	HKLM\SYSTEM\ControlSet*\Control\Terminal Server\WinStations\RDP-Tcp\InitialProgram
+??	HKLM\System\ControlSet*\Services\*	HKLM\System\ControlSet*\Services
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellFolders\Startup	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellFolders\Startup
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User ShellFolders\Startup	HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\User ShellFolders\Startup
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices\*	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices\
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices-\*	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices-\
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\*	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce\
+??	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce-\*	HKLM\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce-\
+VT	HKLM\System\ControlSet*\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries\*	HKLM\System\ControlSet*\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries
+VT	HKLM\System\ControlSet*\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64\*	HKLM\System\ControlSet*\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64
+VT	HKLM\System\ControlSet*\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries\*	HKLM\System\ControlSet*\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries
+VT	HKLM\System\ControlSet*\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries64\*	HKLM\System\ControlSet*\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries64
